@@ -1,6 +1,6 @@
 ## Homematic Device Firmware Changelogs
 
-_last generated: 25.11.2025, 11:51:06 Uhr_
+_last generated: 25.11.2025, 15:50:04 Uhr_
 
 <details open><summary>HmIP</summary>
 
@@ -175,6 +175,7 @@ _last generated: 25.11.2025, 11:51:06 Uhr_
 | Device Model | Version |
 | ------------- |:-------------:|
 | HmIPW-AV | [V1.0.4](changelogs/changelog_HmIPW-AV_update_V1_0_4_241009.md) |
+| HmIPW-AV-CO2 | [V1.0.4](changelogs/changelog_HmIPW-AV-CO2_update_V1_0_4_241009.md) |
 | HmIPW-AV-RH | [V1.0.4](changelogs/changelog_HmIPW-AV-RH_update_V1_0_4_241009.md) |
 | HmIPW-AV-SVN | [V1.2.0](changelogs/changelog_HmIPW-AV-SVN_update_V1_2_0_250829.md) |
 | HmIPW-BRC2 | [V2.2.14](changelogs/changelog_HmIPW-BRC2_update_V2_2_14_221020.md) |
