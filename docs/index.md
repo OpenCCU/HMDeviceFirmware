@@ -1,6 +1,6 @@
 ## Homematic Device Firmware Changelogs
 
-_last generated: 24.11.2025, 19:55:50 Uhr_
+_last generated: 25.11.2025, 11:51:06 Uhr_
 
 <details open><summary>HmIP</summary>
 
@@ -174,8 +174,12 @@ _last generated: 24.11.2025, 19:55:50 Uhr_
 
 | Device Model | Version |
 | ------------- |:-------------:|
+| HmIPW-AV | [V1.0.4](changelogs/changelog_HmIPW-AV_update_V1_0_4_241009.md) |
+| HmIPW-AV-RH | [V1.0.4](changelogs/changelog_HmIPW-AV-RH_update_V1_0_4_241009.md) |
+| HmIPW-AV-SVN | [V1.2.0](changelogs/changelog_HmIPW-AV-SVN_update_V1_2_0_250829.md) |
 | HmIPW-BRC2 | [V2.2.14](changelogs/changelog_HmIPW-BRC2_update_V2_2_14_221020.md) |
 | HmIPW-DRAP | [V3.0.20](changelogs/changelog_HmIPW-DRAP_3_0_20_231208.md) |
+| HmIPW-DRAVC | [V1.2.22](changelogs/changelog_HmIPW-DRAVC_update_V1_2_22_251124.md) |
 | HmIPW-DRBL4 | [V1.10.18](changelogs/changelog_HmIPW-DRBL4_update_V1_10_18_230728.md) |
 | HmIPW-DRD3 | [V2.0.6](changelogs/changelog_HmIPW-DRD3_update_V2_0_6_230412.md) |
 | HmIPW-DRI16 | [V1.4.6](changelogs/changelog_HmIPW-DRI16_update_V1_4_6_250526.md) |
