@@ -3,13 +3,9 @@
 
 @import "{{ site.theme }}";
 
-/* max 75% width and centered */
-html,
-body {
-  margin: 0;
-  padding: 0;
-  max-width: 75vw;
-  overflow-x: hidden;
+/* set container-lg to 100% max size */
+.container-lg {
+  max-width: 100%;
 }
 
 /* modify table css */
