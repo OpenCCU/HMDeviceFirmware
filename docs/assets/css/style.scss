@@ -3,9 +3,14 @@
 
 @import "{{ site.theme }}";
 
-/* set container-lg to 100% max size */
+/* set container-lg to 80% max size */
 .container-lg {
-  max-width: 100%;
+  max-width: 80%;
+}
+
+/* change font size */
+.markdown-body {
+  font-size: 14px;
 }
 
 /* modify table css */

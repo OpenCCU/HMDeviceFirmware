@@ -60,7 +60,7 @@ for f in *gz; do
     echo "" >>./docs/changelogs/changelog_${f%%.*}.md
     iconv -f ISO-8859-1 -t UTF-8 changelog.txt >>./docs/changelogs/changelog_${f%%.*}.md
     rm changelog.txt
-    echo "| ${fwdevicename} | [V${fwversion}](changelogs/changelog_${f%%.*}.md) | [${f}](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/${pref}/${f}) | <sub>${SHA256SUM}</sub> |" >> ./docs/_index.md.tmp.$pref
+    echo "| ${fwdevicename} | [V${fwversion}](changelogs/changelog_${f%%.*}.md) | [${f}](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/${pref}/${f}) | \`${SHA256SUM}\` |" >> ./docs/_index.md.tmp.$pref
   fi
   
   [ ! -d $pref ] && mkdir $pref
