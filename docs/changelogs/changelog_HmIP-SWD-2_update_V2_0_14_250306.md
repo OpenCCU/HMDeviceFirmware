@@ -1,3 +1,6 @@
+## [HmIP-SWD-2_update_V2_0_14_250306.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWD-2_update_V2_0_14_250306.tgz)
+sha256: 61b6578cd2e8257b5aacca2f0ab585119766e334c43f8ed439819cc6c1844a05
+
 C H A N G E L O G
 -----------------
 

@@ -1,3 +1,6 @@
+## [HmIP-RGBW_update_V1_0_62_230711.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-RGBW_update_V1_0_62_230711.tgz)
+sha256: ef23ac0e4a341637e6b94d57900610152ecabc856fb2b30589ef5d2e655483d0
+
 C H A N G E L O G
 -----------------
 

@@ -1,3 +1,6 @@
+## [HmIP-DRSI1_update_V1_6_2_221207.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRSI1_update_V1_6_2_221207.tgz)
+sha256: ab91e50f9f25f971d5a7ee0f778bbdfdd6e8757c6440c066be2eaa34c8fbcec3
+
 C H A N G E L O G
 -----------------
 

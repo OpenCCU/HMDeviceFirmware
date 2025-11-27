@@ -1,3 +1,6 @@
+## [HmIP-BRC2_update_V1_8_10_221103.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BRC2_update_V1_8_10_221103.tgz)
+sha256: 93d83df1d67f7e0f218b9c7e021c6ddf02e0e9a75111e49710a04c9207df9d3b
+
 C H A N G E L O G
 -----------------
 

@@ -1,3 +1,6 @@
+## [HmIP-MOD-TM_update_V1_0_0_180713.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-MOD-TM_update_V1_0_0_180713.tgz)
+sha256: b63d41cbc824110f2dcfd030a43e28338176ec484a61f9d528044e0302e122c6
+
 C H A N G E L O G
 -----------------
 

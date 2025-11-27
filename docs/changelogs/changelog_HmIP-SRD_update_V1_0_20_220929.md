@@ -1,3 +1,6 @@
+## [HmIP-SRD_update_V1_0_20_220929.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SRD_update_V1_0_20_220929.tgz)
+sha256: 2fe8ffd06b3cc81f8b28b193a269be1da78a1f42bb4d4da1abbcacd9edfa7a5b
+
 C H A N G E L O G
 -----------------
 

@@ -1,3 +1,6 @@
+## [HmIP-PDT-PE_update_V2_2_4_231123.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PDT-PE_update_V2_2_4_231123.tgz)
+sha256: b035c611972785f4962ce8008bade69c923eebe24ce35d2bd907fcf033ce45f0
+
 C H A N G E L O G
 -----------------
 

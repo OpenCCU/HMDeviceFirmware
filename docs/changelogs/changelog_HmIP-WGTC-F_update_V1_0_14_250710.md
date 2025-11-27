@@ -1,3 +1,6 @@
+## [HmIP-WGTC-F_update_V1_0_14_250710.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WGTC-F_update_V1_0_14_250710.tgz)
+sha256: 5ce4506996b6baddceec71348a16a5ff5f9b717e6010deb3ae8f13af450e45c6
+
 C H A N G E L O G
 -----------------
 

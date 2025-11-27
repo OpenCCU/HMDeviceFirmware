@@ -1,3 +1,6 @@
+## [HM-LC-Sw1-Pl-DN-R5_update_V2_6_0000_150812.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Sw1-Pl-DN-R5_update_V2_6_0000_150812.tgz)
+sha256: 22e917d26550f697e4626d174f5d6b75aa2c67db44d877224947b70649695067
+
 C H A N G E L O G
 -----------------
 

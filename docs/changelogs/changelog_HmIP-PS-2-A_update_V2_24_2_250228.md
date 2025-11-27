@@ -1,3 +1,6 @@
+## [HmIP-PS-2-A_update_V2_24_2_250228.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PS-2-A_update_V2_24_2_250228.tgz)
+sha256: 961943d7f222ea896644b09682ef31908fa3e1b637162177bd281c28cbdbb6e9
+
 C H A N G E L O G
 -----------------
 

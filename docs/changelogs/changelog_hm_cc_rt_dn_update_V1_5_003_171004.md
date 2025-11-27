@@ -1,3 +1,6 @@
+## [hm_cc_rt_dn_update_V1_5_003_171004.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm_cc_rt_dn_update_V1_5_003_171004.tgz)
+sha256: cd55e997cc7bce919133f6d31ad9b68ec6ef02ed7cb88792c7a81089b1002700
+
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der aktuellsten CCU2/3 Version.
 
 Please note: Only use the firmware file in connection with the latest CCU2/3 version.

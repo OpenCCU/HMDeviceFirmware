@@ -1,250 +1,250 @@
-## Homematic Device Firmware Changelogs
+## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 26.11.2025, 19:50:27 Uhr_
+_last generated: 27.11.2025, 07:24:23 UTC_
 
 <details open><summary>HmIP</summary>
 
-| Device Model | Version |
-| ------------- |:-------------:|
-| HMIP-HAP | [V3.0.18](changelogs/changelog_HMIP-HAP_3_0_18_230929.md) |
-| HMIP-HAP-JS1 | [V3.0.18](changelogs/changelog_HMIP-HAP-JS1_3_0_18_230929.md) |
-| HmIP-ASIR | [V1.4.4](changelogs/changelog_HmIP-ASIR_update_V1_4_4_221020.md) |
-| HmIP-ASIR-2 | [V1.4.4](changelogs/changelog_HmIP-ASIR-2_update_V1_4_4_220406.md) |
-| HmIP-ASIR-B1 | [V1.4.4](changelogs/changelog_HmIP-ASIR-B1_update_V1_4_4_220406.md) |
-| HmIP-ASIR-O | [V1.0.8](changelogs/changelog_HmIP-ASIR-O_update_V1_0_8_221018.md) |
-| HmIP-BBL | [V1.10.16](changelogs/changelog_HmIP-BBL_update_V1_10_16_230616.md) |
-| HmIP-BBL-2 | [V1.10.16](changelogs/changelog_HmIP-BBL-2_update_V1_10_16_230626.md) |
-| HmIP-BBL-I | [V1.10.16](changelogs/changelog_HmIP-BBL-I_update_V1_10_16_230626.md) |
-| HmIP-BDT | [V2.2.4](changelogs/changelog_HmIP-BDT_update_V2_2_4_231110.md) |
-| HmIP-BDT-I | [V2.2.0](changelogs/changelog_HmIP-BDT-I_update_V2_2_0_230703.md) |
-| HmIP-BRC2 | [V1.8.10](changelogs/changelog_HmIP-BRC2_update_V1_8_10_221103.md) |
-| HmIP-BROLL | [V1.10.16](changelogs/changelog_HmIP-BROLL_update_V1_10_16_230508.md) |
-| HmIP-BROLL-2 | [V1.10.16](changelogs/changelog_HmIP-BROLL-2_update_V1_10_16_230626.md) |
-| HmIP-BS2 | [V1.8.8](changelogs/changelog_HmIP-BS2_update_V1_8_8_220225.md) |
-| HmIP-BSL | [V2.0.2](changelogs/changelog_HmIP-BSL_update_V2_0_2_230929.md) |
-| HmIP-BSM | [V1.18.24](changelogs/changelog_HmIP-BSM_update_V1_18_24_221207.md) |
-| HmIP-BSM-I | [V1.22.8](changelogs/changelog_HmIP-BSM-I_update_V1_22_8_220125.md) |
-| HmIP-BWTH | [V3.0.4](changelogs/changelog_HmIP_BWTH_update_3_0_4_241202.md) |
-| HmIP-BWTH-A | [V3.0.4](changelogs/changelog_HmIP_BWTH_A_update_3_0_4_241202.md) |
-| HmIP-BWTH24 | [V3.0.4](changelogs/changelog_HmIP_BWTH24_update_3_0_4_241202.md) |
-| HmIP-DLD | [V1.4.12](changelogs/changelog_HmIP-DLD_update_V1_4_12_221017.md) |
-| HmIP-DLS | [V1.4.0](changelogs/changelog_HmIP-DLS_update_V1_4_0_220801.md) |
-| HmIP-DRBLI4 | [V1.10.16](changelogs/changelog_HmIP-DRBLI4_update_V1_10_16_230626.md) |
-| HmIP-DRDI3 | [V1.4.8](changelogs/changelog_HmIP-DRDI3_update_V1_4_8_220323.md) |
-| HmIP-DRG-DALI | [V1.6.2](changelogs/changelog_HmIP-DRG-DALI_update_V1_6_2_241210.md) |
-| HmIP-DRSI1 | [V1.6.2](changelogs/changelog_HmIP-DRSI1_update_V1_6_2_221207.md) |
-| HmIP-DRSI4 | [V1.4.4](changelogs/changelog_HmIP-DRSI4_update_V1_4_4_221207.md) |
-| HmIP-DSD-PCB | [V1.0.6](changelogs/changelog_HmIP-DSD-PCB_update_V1_0_6_190927.md) |
-| HmIP-ESI | [V1.6.6](changelogs/changelog_HmIP-ESI_update_V1_6_6_250228.md) |
-| HmIP-FAL230-C10 | [V2.4.6](changelogs/changelog_HmIP_FAL230_C10_update_2_4_6_230804.md) |
-| HmIP-FAL230-C6 | [V2.4.6](changelogs/changelog_HmIP_FAL230_C6_update_2_4_6_230804.md) |
-| HmIP-FAL24-C10 | [V2.4.6](changelogs/changelog_HmIP_FAL24_C10_update_2_4_6_230804.md) |
-| HmIP-FAL24-C6 | [V2.4.6](changelogs/changelog_HmIP_FAL24_C6_update_2_4_6_230804.md) |
-| HmIP-FALMOT-C12 | [V1.6.2](changelogs/changelog_HmIP_FALMOT_C12_update_V1_6_2_240611.md) |
-| HmIP-FBL | [V1.10.16](changelogs/changelog_HmIP-FBL_update_V1_10_16_231115.md) |
-| HmIP-FCI1 | [V1.0.14](changelogs/changelog_HmIP-FCI1_update_V1_0_14_181114.md) |
-| HmIP-FCI6 | [V1.0.18](changelogs/changelog_HmIP-FCI6_update_V1_0_18_221010.md) |
-| HmIP-FDT | [V2.2.4](changelogs/changelog_HmIP-FDT_update_V2_2_4_231123.md) |
-| HmIP-FROLL | [V1.10.16](changelogs/changelog_HmIP-FROLL_update_V1_10_16_230616.md) |
-| HmIP-FSI16 | [V3.0.6](changelogs/changelog_HmIP-FSI16_update_V3_0_6_220504.md) |
-| HmIP-FSM | [V1.24.6](changelogs/changelog_HmIP-FSM_update_V1_24_6_230323.md) |
-| HmIP-FSM16 | [V1.24.6](changelogs/changelog_HmIP-FSM16_update_V1_24_6_230323.md) |
-| HmIP-FWI | [V1.0.14](changelogs/changelog_HmIP-FWI_update_V1_0_14_220428.md) |
-| HmIP-HAP2 | [V1.0.44](changelogs/changelog_HmIP-HAP2_1_0_44_250924.md) |
-| HmIP-HAP2-A | [V1.0.44](changelogs/changelog_HmIP-HAP2-A_1_0_44_250924.md) |
-| HmIP-KRC4 | [V2.6.2](changelogs/changelog_HmIP-KRC4_update_V2_6_2_240925.md) |
-| HmIP-KRC4-2 | [V2.6.2](changelogs/changelog_HmIP-KRC4-2_update_V2_6_2_240925.md) |
-| HmIP-KRCA | [V2.6.2](changelogs/changelog_HmIP-KRCA_update_V2_6_2_240925.md) |
-| HmIP-KRCA-2 | [V2.6.2](changelogs/changelog_HmIP-KRCA-2_update_V2_6_2_240925.md) |
-| HmIP-KRCK | [V2.6.2](changelogs/changelog_HmIP-KRCK_update_V2_6_2_240925.md) |
-| HmIP-KRCK-2 | [V2.6.2](changelogs/changelog_HmIP-KRCK-2_update_V2_6_2_240925.md) |
-| HmIP-LSC | [V1.0.16](changelogs/changelog_HmIP-LSC_update_V1_0_16_240405.md) |
-| HmIP-MIO16-PCB | [V1.0.10](changelogs/changelog_HmIP-MIO16-PCB_update_V1_0_10_191022.md) |
-| HmIP-MIOB | [V2.2.0](changelogs/changelog_HmIP-MIOB_update_V2_2_0_231109.md) |
-| HmIP-MOD-HO | [V1.0.16](changelogs/changelog_HmIP-MOD-HO_update_V1_0_16_221020.md) |
-| HmIP-MOD-OC8 | [V1.8.12](changelogs/changelog_HmIP-MOD-OC8_update_V1_8_12_170803.md) |
-| HmIP-MOD-TM | [V1.0.0](changelogs/changelog_HmIP-MOD-TM_update_V1_0_0_180713.md) |
-| HmIP-MOD-WD-VK | [V1.0.6](changelogs/changelog_HmIP-MOD-WD-VK_update_V1_0_6_220727.md) |
-| HmIP-MP3P | [V1.0.30](changelogs/changelog_HmIP-MP3P_update_V1_0_30_240515.md) |
-| HmIP-PCBS | [V2.10.2](changelogs/changelog_HmIP-PCBS_update_V2_10_2_171009.md) |
-| HmIP-PCBS2 | [V1.10.10](changelogs/changelog_HmIP-PCBS2_update_V1_10_10_180601.md) |
-| HmIP-PDT | [V2.2.4](changelogs/changelog_HmIP-PDT_update_V2_2_4_231123.md) |
-| HmIP-PDT-A | [V2.2.4](changelogs/changelog_HmIP-PDT-A_update_V2_2_4_250220.md) |
-| HmIP-PDT-CH | [V2.2.4](changelogs/changelog_HmIP-PDT-CH_update_V2_2_4_231123.md) |
-| HmIP-PDT-PE | [V2.2.4](changelogs/changelog_HmIP-PDT-PE_update_V2_2_4_231123.md) |
-| HmIP-PDT-UK | [V2.2.4](changelogs/changelog_HmIP-PDT-UK_update_V2_2_4_231123.md) |
-| HmIP-PMFS | [V1.0.12](changelogs/changelog_HmIP-PMFS_update_V1_0_12_171116.md) |
-| HmIP-PS | [V2.24.8](changelogs/changelog_HmIP-PS_update_V2_24_8_240305.md) |
-| HmIP-PS-2 | [V2.24.8](changelogs/changelog_HmIP-PS-2_update_V2_24_8_240305.md) |
-| HmIP-PS-2-A | [V2.24.2](changelogs/changelog_HmIP-PS-2-A_update_V2_24_2_250228.md) |
-| HmIP-PS-2_9YM | [V2.24.2](changelogs/changelog_HmIP-PS-2_9YM_update_V2_24_2_230216.md) |
-| HmIP-PSM | [V2.22.8](changelogs/changelog_HmIP-PSM_update_V2_22_8_220125.md) |
-| HmIP-PSM-2 | [V2.22.8](changelogs/changelog_HmIP-PSM-2_update_V2_22_8_220127.md) |
-| HmIP-PSM-2-A | [V2.24.2](changelogs/changelog_HmIP-PSM-2-A_update_V2_24_2_250228.md) |
-| HmIP-PSM-2_QHJ | [V2.24.2](changelogs/changelog_HmIP-PSM-2_QHJ_update_V2_24_2_230216.md) |
-| HmIP-PSM-CH | [V2.22.8](changelogs/changelog_HmIP-PSM-CH_update_V2_22_8_220125.md) |
-| HmIP-PSM-CH-2 | [V2.24.2](changelogs/changelog_HmIP-PSM-CH-2_update_V2_24_2_230220.md) |
-| HmIP-PSM-IT | [V2.22.8](changelogs/changelog_HmIP-PSM-IT_update_V2_22_8_220125.md) |
-| HmIP-PSM-PE | [V2.22.8](changelogs/changelog_HmIP-PSM-PE_update_V2_22_8_220125.md) |
-| HmIP-PSM-PE-2 | [V2.24.2](changelogs/changelog_HmIP-PSM-PE-2_update_V2_24_2_230220.md) |
-| HmIP-PSM-UK | [V2.22.8](changelogs/changelog_HmIP-PSM-UK_update_V2_22_8_220125.md) |
-| HmIP-PSMCO | [V1.26.22](changelogs/changelog_HmIP-PSMCO_update_V1_26_22_240924.md) |
-| HmIP-RC8 | [V1.0.19](changelogs/changelog_HmIP-RC8_update_V1_0_19_161110.md) |
-| HmIP-RCB1 | [V1.2.4](changelogs/changelog_HmIP-RCB1_update_V1_2_4_181212.md) |
-| HmIP-RGBW | [V1.0.62](changelogs/changelog_HmIP-RGBW_update_V1_0_62_230711.md) |
-| HmIP-SAM | [V1.4.6](changelogs/changelog_HmIP-SAM_update_V1_4_6_230228.md) |
-| HmIP-SCI | [V1.0.8](changelogs/changelog_HmIP-SCI_update_V1_0_8_221025.md) |
-| HmIP-SCTH230 | [V1.0.10](changelogs/changelog_HmIP-SCTH230_update_V1_0_10_220601.md) |
-| HmIP-SFD | [V1.2.24](changelogs/changelog_HmIP-SFD_update_V1_2_24_230421.md) |
-| HmIP-SLO | [V1.0.18](changelogs/changelog_HmIP-SLO_update_V1_0_18_220216.md) |
-| HmIP-SMI | [V3.2.48](changelogs/changelog_HmIP-SMI_update_V3_2_48_220718.md) |
-| HmIP-SMI55 | [V1.2.4](changelogs/changelog_HmIP-SMI55_update_V1_2_4_220711.md) |
-| HmIP-SMO | [V3.6.72](changelogs/changelog_HmIP-SMO_update_V3_6_72_230504.md) |
-| HmIP-SMO-2 | [V3.6.72](changelogs/changelog_HmIP-SMO-2_update_V3_6_72_230504.md) |
-| HmIP-SMO-A | [V3.6.72](changelogs/changelog_HmIP-SMO-A_update_V3_6_72_230504.md) |
-| HmIP-SMO-A-2 | [V3.6.72](changelogs/changelog_HmIP-SMO-A-2_update_V3_6_72_230504.md) |
-| HmIP-SMO230 | [V3.8.104](changelogs/changelog_HmIP-SMO230_update_V3_8_104_240131.md) |
-| HmIP-SMO230-A | [V3.8.104](changelogs/changelog_HmIP-SMO230-A_update_V3_8_104_240131.md) |
-| HmIP-SPDR | [V1.2.12](changelogs/changelog_HmIP-SPDR_update_V1_2_12_230510.md) |
-| HmIP-SPI | [V1.4.0](changelogs/changelog_HmIP-SPI_update_V1_4_0_180314.md) |
-| HmIP-SRD | [V1.0.20](changelogs/changelog_HmIP-SRD_update_V1_0_20_220929.md) |
-| HmIP-SRH | [V1.2.12](changelogs/changelog_HmIP-SRH_update_V1_2_12_221017.md) |
-| HmIP-STE2-PCB | [V1.0.28](changelogs/changelog_HmIP-STE2-PCB_update_V1_0_28_220930.md) |
-| HmIP-STH | [V3.0.2](changelogs/changelog_HmIP_STH_update_3_0_2_240416.md) |
-| HmIP-STH-A | [V3.0.2](changelogs/changelog_HmIP_STH_A_update_3_0_2_240613.md) |
-| HmIP-STHD | [V3.0.2](changelogs/changelog_HmIP_STHD_update_3_0_2_240430.md) |
-| HmIP-STHD-A | [V3.0.2](changelogs/changelog_HmIP_STHD_A_update_3_0_2_240430.md) |
-| HmIP-STHD_L9D | [V1.2.8](changelogs/changelog_HmIP-STHD_L9D_update_V1_2_8_240731.md) |
-| HmIP-STHO | [V1.0.8](changelogs/changelog_HmIP-STHO_update_V1_0_8_230209.md) |
-| HmIP-STHO-A | [V1.0.8](changelogs/changelog_HmIP-STHO-A_update_V1_0_8_230209.md) |
-| HmIP-STH_8DU | [V1.2.8](changelogs/changelog_HmIP-STH_8DU_update_V1_2_8_240731.md) |
-| HmIP-STI | [V1.0.0](changelogs/changelog_HmIP-STI_update_V1_0_0_210915.md) |
-| HmIP-STV | [V1.2.8](changelogs/changelog_HmIP-STV_update_V1_2_8_240913.md) |
-| HmIP-SWD | [V1.0.4](changelogs/changelog_HmIP-SWD_update_V1_0_004_221018.md) |
-| HmIP-SWD-2 | [V2.0.14](changelogs/changelog_HmIP-SWD-2_update_V2_0_14_250306.md) |
-| HmIP-SWDM-2 | [V1.4.2](changelogs/changelog_HmIP-SWDM-2_update_V1_4_2_220210.md) |
-| HmIP-SWDO | [V1.18.10](changelogs/changelog_HmIP-SWDO_update_V1_18_10_221021.md) |
-| HmIP-SWDO-2 | [V1.18.6](changelogs/changelog_HmIP-SWDO-2_update_V1_18_6_220912.md) |
-| HmIP-SWDO-A | [V1.18.6](changelogs/changelog_HmIP-SWDO-A_update_V1_18_6_230522.md) |
-| HmIP-SWDO-I | [V1.18.10](changelogs/changelog_HmIP-SWDO-I_update_V1_18_10_230106.md) |
-| HmIP-SWDO-PL | [V1.18.10](changelogs/changelog_HmIP-SWDO-PL_update_V1_18_10_221019.md) |
-| HmIP-SWDO-PL-2 | [V1.18.10](changelogs/changelog_HmIP-SWDO-PL-2_update_V1_18_10_221019.md) |
-| HmIP-SWO-B | [V1.2.8](changelogs/changelog_HmIP-SWO-B_update_V1_2_8_240417.md) |
-| HmIP-SWO-PL | [V1.2.8](changelogs/changelog_HmIP-SWO-PL_update_V1_2_8_240417.md) |
-| HmIP-SWO-PR | [V1.2.8](changelogs/changelog_HmIP-SWO-PR_update_V1_2_8_240417.md) |
-| HmIP-USBSM | [V1.0.16](changelogs/changelog_HmIP-USBSM_update_V1_0_16_210316.md) |
-| HmIP-WGC | [V1.0.4](changelogs/changelog_HmIP-WGC_update_V1_0_4_221206.md) |
-| HmIP-WGS | [V1.0.22](changelogs/changelog_HmIP-WGS-F_update_V1_0_22_250417.md) |
-| HmIP-WGS-A | [V1.0.22](changelogs/changelog_HmIP-WGS-A-F_update_V1_0_22_250417.md) |
-| HmIP-WGT | [V1.0.14](changelogs/changelog_HmIP-WGT-F_update_V1_0_14_250710.md) |
-| HmIP-WGT-A | [V1.0.14](changelogs/changelog_HmIP-WGT-A-F_update_V1_0_14_250710.md) |
-| HmIP-WGTC | [V1.0.14](changelogs/changelog_HmIP-WGTC-F_update_V1_0_14_250710.md) |
-| HmIP-WGTC-A | [V1.0.14](changelogs/changelog_HmIP-WGTC-A-F_update_V1_0_14_250710.md) |
-| HmIP-WHS2 | [V2.2.0](changelogs/changelog_HmIP-WHS2_update_V2_2_0_240125.md) |
-| HmIP-WKP | [V1.0.12](changelogs/changelog_HmIP-WKP_update_V1_0_12_230327.md) |
-| HmIP-WRC2 | [V1.18.2](changelogs/changelog_HmIP-WRC2_update_V1_18_2_230207.md) |
-| HmIP-WRC2-2 | [V2.8.8](changelogs/changelog_HmIP-WRC2-2_update_V2_8_8_250526.md) |
-| HmIP-WRC2-A-2 | [V2.8.8](changelogs/changelog_HmIP-WRC2-A-2_update_V2_8_8_250526.md) |
-| HmIP-WRC6 | [V2.2.14](changelogs/changelog_HMIP-WRC6_update_V2_2_14_220324.md) |
-| HmIP-WRCC2 | [V2.2.14](changelogs/changelog_HmIP-WRCC2_update_V2_2_14_220406.md) |
-| HmIP-WRCD | [V1.4.8](changelogs/changelog_HmIP-WRCD_update_V1_4_8_230419.md) |
-| HmIP-WSM | [V1.2.2](changelogs/changelog_HmIP-WSM_update_V1_2_2_250617.md) |
-| HmIP-WTH | [V3.0.2](changelogs/changelog_HmIP_WTH_update_3_0_2_240503.md) |
-| HmIP-WTH-1 | [V1.2.8](changelogs/changelog_HmIP-WTH-1_update_V1_2_8_240816.md) |
-| HmIP-WTH-2 | [V3.0.2](changelogs/changelog_HmIP_WTH_2_update_3_0_2_240416.md) |
-| HmIP-WTH-B-2 | [V1.4.2](changelogs/changelog_HmIP-WTH-B-2_update_V1_4_2_240418.md) |
-| HmIP-WTH-B-A | [V1.4.2](changelogs/changelog_HmIP-WTH-B-A_update_V1_4_2_240418.md) |
-| HmIP-WUA | [V1.0.16](changelogs/changelog_HmIP-WUA_update_V1_0_16_221028.md) |
-| HmIP-eTRV | [V2.2.12](changelogs/changelog_HmIP_eTRV_update_2_2_12_240610.md) |
-| HmIP-eTRV-2 | [V2.2.012](changelogs/changelog_HmIP_eTRV_2_update_2_2_12_240503.md) |
-| HmIP-eTRV-2-UK | [V2.2.12](changelogs/changelog_HmIP_eTRV_2_UK_update_2_2_12_240503.md) |
-| HmIP-eTRV-2_I9F | [V2.2.22](changelogs/changelog_HmIP-eTRV-2_I9F_update_V2_2_22_240503.md) |
-| HmIP-eTRV-3 | [V1.0.4](changelogs/changelog_HmIP-eTRV-3_update_V1_0_4_240815.md) |
-| HmIP-eTRV-B-2 | [V1.4.2](changelogs/changelog_HmIP_eTRV_B_2_update_1_4_2_250923.md) |
-| HmIP-eTRV-B-2_R4M | [V1.2.28](changelogs/changelog_HmIP-eTRV-B-2_R4M_update_V1_2_28_241014.md) |
-| HmIP-eTRV-C | [V1.4.014](changelogs/changelog_HmIP_eTRV_C_update_1_4_14_220128.md) |
-| HmIP-eTRV-C-2 | [V1.4.14](changelogs/changelog_HmIP-eTRV-C-2_update_V1_4_14_220128.md) |
-| HmIP-eTRV-CL | [V1.0.16](changelogs/changelog_HmIP-eTRV-CL_update_V1_0_16_221214.md) |
-| HmIP-eTRV-E | [V1.4.8](changelogs/changelog_HmIP-eTRV-E_update_V1_4_8_240924.md) |
-| HmIP-eTRV-E-A | [V1.4.8](changelogs/changelog_HmIP-eTRV-E-A_update_V1_4_8_240924.md) |
-| HmIP-eTRV-E-S | [V1.4.8](changelogs/changelog_HmIP-eTRV-E-S_update_V1_4_8_240924.md) |
-| HmIP-eTRV-F | [V1.0.34](changelogs/changelog_HmIP-eTRV-F_update_V1_0_34_240822.md) |
+| Device Model | Version | Download | SHA256 |
+| ------------- |:-------------:| ------------- | ------------- |
+| HMIP-HAP | [V3.0.18](changelogs/changelog_HMIP-HAP_3_0_18_230929.md) | [HMIP-HAP_3_0_18_230929.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HMIP-HAP_3_0_18_230929.tgz) | 95a994f191dd537809820d31f049ecf12699b76fc6dcb1984934ba9fd447bb34 |
+| HMIP-HAP-JS1 | [V3.0.18](changelogs/changelog_HMIP-HAP-JS1_3_0_18_230929.md) | [HMIP-HAP-JS1_3_0_18_230929.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HMIP-HAP-JS1_3_0_18_230929.tgz) | 615f5a3b9deed41fade9cdc8fddd924aa36c9d517f2f864844a25c99949c9287 |
+| HmIP-ASIR | [V1.4.4](changelogs/changelog_HmIP-ASIR_update_V1_4_4_221020.md) | [HmIP-ASIR_update_V1_4_4_221020.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-ASIR_update_V1_4_4_221020.tgz) | ba431ea9c20f173ddc2f3950f4f6a4640b7df2835473de843f336513b34b5685 |
+| HmIP-ASIR-2 | [V1.4.4](changelogs/changelog_HmIP-ASIR-2_update_V1_4_4_220406.md) | [HmIP-ASIR-2_update_V1_4_4_220406.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-ASIR-2_update_V1_4_4_220406.tgz) | b3e446f4e07f2d6dde8e2d6e64b633450ec43f82905c64cac30d0fc622eacab8 |
+| HmIP-ASIR-B1 | [V1.4.4](changelogs/changelog_HmIP-ASIR-B1_update_V1_4_4_220406.md) | [HmIP-ASIR-B1_update_V1_4_4_220406.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-ASIR-B1_update_V1_4_4_220406.tgz) | dffafdeb81ca7d3f141abbdde8dd3d25d16066079dcb2cb2fa0ed326a0ffb444 |
+| HmIP-ASIR-O | [V1.0.8](changelogs/changelog_HmIP-ASIR-O_update_V1_0_8_221018.md) | [HmIP-ASIR-O_update_V1_0_8_221018.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-ASIR-O_update_V1_0_8_221018.tgz) | 85b893aa9ea9896a0c1fb857dbc6b41b913244a13fdd8e1a6c5864592bed1c39 |
+| HmIP-BBL | [V1.10.16](changelogs/changelog_HmIP-BBL_update_V1_10_16_230616.md) | [HmIP-BBL_update_V1_10_16_230616.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BBL_update_V1_10_16_230616.tgz) | 2150b275cb0192d24a9d9296c994e6bdd1b3c4ca5f9bd50c80b6ef7076f25604 |
+| HmIP-BBL-2 | [V1.10.16](changelogs/changelog_HmIP-BBL-2_update_V1_10_16_230626.md) | [HmIP-BBL-2_update_V1_10_16_230626.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BBL-2_update_V1_10_16_230626.tgz) | dc17acc6c02bf4b0e0affb22194e27110edbb192948433117b23bfc30201bd5b |
+| HmIP-BBL-I | [V1.10.16](changelogs/changelog_HmIP-BBL-I_update_V1_10_16_230626.md) | [HmIP-BBL-I_update_V1_10_16_230626.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BBL-I_update_V1_10_16_230626.tgz) | cca5a35428c200a6abb4715850830342eb5e0e0279c616367019a4cf44ea4604 |
+| HmIP-BDT | [V2.2.4](changelogs/changelog_HmIP-BDT_update_V2_2_4_231110.md) | [HmIP-BDT_update_V2_2_4_231110.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BDT_update_V2_2_4_231110.tgz) | 5f0809fd42120793daaeaf4e7c29e6e3ba9649ed6d4c528f6fe5a42c25eca90f |
+| HmIP-BDT-I | [V2.2.0](changelogs/changelog_HmIP-BDT-I_update_V2_2_0_230703.md) | [HmIP-BDT-I_update_V2_2_0_230703.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BDT-I_update_V2_2_0_230703.tgz) | 47fd92eab81fd142e484276f53c560a9660a20534d58112d942569389e8d91de |
+| HmIP-BRC2 | [V1.8.10](changelogs/changelog_HmIP-BRC2_update_V1_8_10_221103.md) | [HmIP-BRC2_update_V1_8_10_221103.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BRC2_update_V1_8_10_221103.tgz) | 93d83df1d67f7e0f218b9c7e021c6ddf02e0e9a75111e49710a04c9207df9d3b |
+| HmIP-BROLL | [V1.10.16](changelogs/changelog_HmIP-BROLL_update_V1_10_16_230508.md) | [HmIP-BROLL_update_V1_10_16_230508.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BROLL_update_V1_10_16_230508.tgz) | 16ee2569dc4493c28cec7ae8bda71035fe832c568ab739f220fb55ef794f7d06 |
+| HmIP-BROLL-2 | [V1.10.16](changelogs/changelog_HmIP-BROLL-2_update_V1_10_16_230626.md) | [HmIP-BROLL-2_update_V1_10_16_230626.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BROLL-2_update_V1_10_16_230626.tgz) | 0defd5628cd526db8c958070f8956a1a2c4876faa8d0bb10fa15a5f5b11783fa |
+| HmIP-BS2 | [V1.8.8](changelogs/changelog_HmIP-BS2_update_V1_8_8_220225.md) | [HmIP-BS2_update_V1_8_8_220225.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BS2_update_V1_8_8_220225.tgz) | 984db7a7cd8931c63c90879f64b2da44b04bc4055052b49c6d38c384abc847e7 |
+| HmIP-BSL | [V2.0.2](changelogs/changelog_HmIP-BSL_update_V2_0_2_230929.md) | [HmIP-BSL_update_V2_0_2_230929.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BSL_update_V2_0_2_230929.tgz) | d3c95f739cb5cfb5772002621979c93449d8602fd65ec9f7da08245f470e7ce7 |
+| HmIP-BSM | [V1.18.24](changelogs/changelog_HmIP-BSM_update_V1_18_24_221207.md) | [HmIP-BSM_update_V1_18_24_221207.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BSM_update_V1_18_24_221207.tgz) | 72c03573f847fb2d1e8b7b70032b565790d51644155f42afe23ebbb300137c04 |
+| HmIP-BSM-I | [V1.22.8](changelogs/changelog_HmIP-BSM-I_update_V1_22_8_220125.md) | [HmIP-BSM-I_update_V1_22_8_220125.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BSM-I_update_V1_22_8_220125.tgz) | e331f88fe9d3fd18ba594eb272ba622989046e7671af1d32869d7116125b159f |
+| HmIP-BWTH | [V3.0.4](changelogs/changelog_HmIP_BWTH_update_3_0_4_241202.md) | [HmIP_BWTH_update_3_0_4_241202.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_BWTH_update_3_0_4_241202.tgz) | 057c6b4de00767e6bf169c779a1ea973d11c81500872675bcd64d5d64c703940 |
+| HmIP-BWTH-A | [V3.0.4](changelogs/changelog_HmIP_BWTH_A_update_3_0_4_241202.md) | [HmIP_BWTH_A_update_3_0_4_241202.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_BWTH_A_update_3_0_4_241202.tgz) | a2878a7c1e8d794e59863dfc2aa83548c241f0dcce8fe3acf68afe207d583f26 |
+| HmIP-BWTH24 | [V3.0.4](changelogs/changelog_HmIP_BWTH24_update_3_0_4_241202.md) | [HmIP_BWTH24_update_3_0_4_241202.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_BWTH24_update_3_0_4_241202.tgz) | 53c47be1955334fb33369050d9a2ea44a7afed7a27b7394b8ccbaeb0436331c4 |
+| HmIP-DLD | [V1.4.12](changelogs/changelog_HmIP-DLD_update_V1_4_12_221017.md) | [HmIP-DLD_update_V1_4_12_221017.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DLD_update_V1_4_12_221017.tgz) | af920bc25d597180b51169090a6550669ca82f766a2f6afaaa1dafb0b7d92bea |
+| HmIP-DLS | [V1.4.0](changelogs/changelog_HmIP-DLS_update_V1_4_0_220801.md) | [HmIP-DLS_update_V1_4_0_220801.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DLS_update_V1_4_0_220801.tgz) | 74cd2bc144f1c8970137125a4f976aa3de03caebe0636ebb47802a352f42ba83 |
+| HmIP-DRBLI4 | [V1.10.16](changelogs/changelog_HmIP-DRBLI4_update_V1_10_16_230626.md) | [HmIP-DRBLI4_update_V1_10_16_230626.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRBLI4_update_V1_10_16_230626.tgz) | 52fed059ea0cd92e73f07d8d123580c8ddc740c3fac68ab5b63479d4dced29e9 |
+| HmIP-DRDI3 | [V1.4.8](changelogs/changelog_HmIP-DRDI3_update_V1_4_8_220323.md) | [HmIP-DRDI3_update_V1_4_8_220323.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRDI3_update_V1_4_8_220323.tgz) | 710ddf2807f28f3ac7128b897de7010de8c403ea2a758b0f435910946ae3b23d |
+| HmIP-DRG-DALI | [V1.6.2](changelogs/changelog_HmIP-DRG-DALI_update_V1_6_2_241210.md) | [HmIP-DRG-DALI_update_V1_6_2_241210.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRG-DALI_update_V1_6_2_241210.tgz) | d68aefe2f9aae65afb48162c702c8da59dc8faf1a79189af3c4cbb2bafa0e55c |
+| HmIP-DRSI1 | [V1.6.2](changelogs/changelog_HmIP-DRSI1_update_V1_6_2_221207.md) | [HmIP-DRSI1_update_V1_6_2_221207.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRSI1_update_V1_6_2_221207.tgz) | ab91e50f9f25f971d5a7ee0f778bbdfdd6e8757c6440c066be2eaa34c8fbcec3 |
+| HmIP-DRSI4 | [V1.4.4](changelogs/changelog_HmIP-DRSI4_update_V1_4_4_221207.md) | [HmIP-DRSI4_update_V1_4_4_221207.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRSI4_update_V1_4_4_221207.tgz) | dcf4eb1dc2e3e30ba32fb02c2871eb405d9d218528705bbe9e03de9ed1b2dcbd |
+| HmIP-DSD-PCB | [V1.0.6](changelogs/changelog_HmIP-DSD-PCB_update_V1_0_6_190927.md) | [HmIP-DSD-PCB_update_V1_0_6_190927.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DSD-PCB_update_V1_0_6_190927.tgz) | 9028eb8803f5faf08f219a6cdfdd99cdb91f841121cf5617a06f2741283b11b7 |
+| HmIP-ESI | [V1.6.6](changelogs/changelog_HmIP-ESI_update_V1_6_6_250228.md) | [HmIP-ESI_update_V1_6_6_250228.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-ESI_update_V1_6_6_250228.tgz) | 52d7ba00cb476ecc6464db1cd4e0f2caec74ffea7fc918ccbb18248855939a5e |
+| HmIP-FAL230-C10 | [V2.4.6](changelogs/changelog_HmIP_FAL230_C10_update_2_4_6_230804.md) | [HmIP_FAL230_C10_update_2_4_6_230804.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_FAL230_C10_update_2_4_6_230804.tgz) | ac918fd69393f9d196c36b86dd6bb59feb34bd3f0ce96edaf65e90361cf3980b |
+| HmIP-FAL230-C6 | [V2.4.6](changelogs/changelog_HmIP_FAL230_C6_update_2_4_6_230804.md) | [HmIP_FAL230_C6_update_2_4_6_230804.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_FAL230_C6_update_2_4_6_230804.tgz) | 091bed53b46261378bfa32174cb770fe0b8b97bce152a362c1fd49e91ffe4ad1 |
+| HmIP-FAL24-C10 | [V2.4.6](changelogs/changelog_HmIP_FAL24_C10_update_2_4_6_230804.md) | [HmIP_FAL24_C10_update_2_4_6_230804.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_FAL24_C10_update_2_4_6_230804.tgz) | fea669e846bdd9493c929713cac09d069bb7b7a17ab89e0648a91328c3e75dcd |
+| HmIP-FAL24-C6 | [V2.4.6](changelogs/changelog_HmIP_FAL24_C6_update_2_4_6_230804.md) | [HmIP_FAL24_C6_update_2_4_6_230804.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_FAL24_C6_update_2_4_6_230804.tgz) | be872823f46a5411555f8bf1068ea97a4ed6de2c540ad0e1277d3896de6fc4f4 |
+| HmIP-FALMOT-C12 | [V1.6.2](changelogs/changelog_HmIP_FALMOT_C12_update_V1_6_2_240611.md) | [HmIP_FALMOT_C12_update_V1_6_2_240611.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_FALMOT_C12_update_V1_6_2_240611.tgz) | 53ae19ca1dc1f2b8ab4148ec6ed36b80b6b424db71a6126fd67e1e9631da14f5 |
+| HmIP-FBL | [V1.10.16](changelogs/changelog_HmIP-FBL_update_V1_10_16_231115.md) | [HmIP-FBL_update_V1_10_16_231115.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FBL_update_V1_10_16_231115.tgz) | 97fecd35466037fb4fd7aeb77fce0e245769f1d4f15ca5922e05b45f4a1d4ecb |
+| HmIP-FCI1 | [V1.0.14](changelogs/changelog_HmIP-FCI1_update_V1_0_14_181114.md) | [HmIP-FCI1_update_V1_0_14_181114.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FCI1_update_V1_0_14_181114.tgz) | bfd7f9ff6ba870172909c49c82ee14064a5ac6904e0fd6f50c4a6cda2bd78b6d |
+| HmIP-FCI6 | [V1.0.18](changelogs/changelog_HmIP-FCI6_update_V1_0_18_221010.md) | [HmIP-FCI6_update_V1_0_18_221010.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FCI6_update_V1_0_18_221010.tgz) | 33bd6b241876fb2a354f4d0ce8b89fd63a6b4c7c95b0abc9a270c4cbf8613684 |
+| HmIP-FDT | [V2.2.4](changelogs/changelog_HmIP-FDT_update_V2_2_4_231123.md) | [HmIP-FDT_update_V2_2_4_231123.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FDT_update_V2_2_4_231123.tgz) | 5921c61fc0e1a629b5d7eb557c6dd8b42000d4014f263a762a720a32becec18b |
+| HmIP-FROLL | [V1.10.16](changelogs/changelog_HmIP-FROLL_update_V1_10_16_230616.md) | [HmIP-FROLL_update_V1_10_16_230616.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FROLL_update_V1_10_16_230616.tgz) | 4c2ae03e84add793926e392ffd470ece72cb813925972ef5378e9257f11afa13 |
+| HmIP-FSI16 | [V3.0.6](changelogs/changelog_HmIP-FSI16_update_V3_0_6_220504.md) | [HmIP-FSI16_update_V3_0_6_220504.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FSI16_update_V3_0_6_220504.tgz) | 44439929da91841bf7b0e166974476eec659852c774912d84ddca9edfe25b229 |
+| HmIP-FSM | [V1.24.6](changelogs/changelog_HmIP-FSM_update_V1_24_6_230323.md) | [HmIP-FSM_update_V1_24_6_230323.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FSM_update_V1_24_6_230323.tgz) | 3bb1c0d6dc8f0dce3f84318eeab7d10c7090dace6ce77d2991e15677b75ff01e |
+| HmIP-FSM16 | [V1.24.6](changelogs/changelog_HmIP-FSM16_update_V1_24_6_230323.md) | [HmIP-FSM16_update_V1_24_6_230323.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FSM16_update_V1_24_6_230323.tgz) | f4a875b6f2cdb8167bf5ffc54a4e8bf8d7b100fed684ee5eea7c200c2c9a4db2 |
+| HmIP-FWI | [V1.0.14](changelogs/changelog_HmIP-FWI_update_V1_0_14_220428.md) | [HmIP-FWI_update_V1_0_14_220428.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FWI_update_V1_0_14_220428.tgz) | 72b30c467f60caff9faad8d8b562bd794080218354944831bc6fa2694ba183b7 |
+| HmIP-HAP2 | [V1.0.44](changelogs/changelog_HmIP-HAP2_1_0_44_250924.md) | [HmIP-HAP2_1_0_44_250924.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-HAP2_1_0_44_250924.tgz) | b467854fc56cbd114c3badf8ee0168684deaea64ca43ac1e016c5b3e6ba68120 |
+| HmIP-HAP2-A | [V1.0.44](changelogs/changelog_HmIP-HAP2-A_1_0_44_250924.md) | [HmIP-HAP2-A_1_0_44_250924.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-HAP2-A_1_0_44_250924.tgz) | 1ca1a6eb85dc79ea86a6627f2fdd0ca4c8cc4f7f27499323ee18f3afab555f5f |
+| HmIP-KRC4 | [V2.6.2](changelogs/changelog_HmIP-KRC4_update_V2_6_2_240925.md) | [HmIP-KRC4_update_V2_6_2_240925.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-KRC4_update_V2_6_2_240925.tgz) | aa0c2125fd0e5b022c5b9ba7b971b3ed1646878a20d2b57b6865d6127a674901 |
+| HmIP-KRC4-2 | [V2.6.2](changelogs/changelog_HmIP-KRC4-2_update_V2_6_2_240925.md) | [HmIP-KRC4-2_update_V2_6_2_240925.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-KRC4-2_update_V2_6_2_240925.tgz) | 148634add0f71a7f6aaeaa06d44e9093dc0eb111b7be126c157ce84eb9daf606 |
+| HmIP-KRCA | [V2.6.2](changelogs/changelog_HmIP-KRCA_update_V2_6_2_240925.md) | [HmIP-KRCA_update_V2_6_2_240925.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-KRCA_update_V2_6_2_240925.tgz) | b0adb884b890e32256da04fb1aa093b372e1f26eab0079fa61ac009207f64b30 |
+| HmIP-KRCA-2 | [V2.6.2](changelogs/changelog_HmIP-KRCA-2_update_V2_6_2_240925.md) | [HmIP-KRCA-2_update_V2_6_2_240925.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-KRCA-2_update_V2_6_2_240925.tgz) | 100ebbb809d319a9470ed15f63dd0912a6bea36cba55409a1bd9a9c124ef0c2a |
+| HmIP-KRCK | [V2.6.2](changelogs/changelog_HmIP-KRCK_update_V2_6_2_240925.md) | [HmIP-KRCK_update_V2_6_2_240925.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-KRCK_update_V2_6_2_240925.tgz) | e3ca64189a21a72288eb75a3000060ec56651e8a599b1954389b208cb6aae314 |
+| HmIP-KRCK-2 | [V2.6.2](changelogs/changelog_HmIP-KRCK-2_update_V2_6_2_240925.md) | [HmIP-KRCK-2_update_V2_6_2_240925.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-KRCK-2_update_V2_6_2_240925.tgz) | 094bd312a33c70b111e9440c86c0a12784a895baa1e53f1879eba5b9710dfd3f |
+| HmIP-LSC | [V1.0.16](changelogs/changelog_HmIP-LSC_update_V1_0_16_240405.md) | [HmIP-LSC_update_V1_0_16_240405.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-LSC_update_V1_0_16_240405.tgz) | 5bedb3eda4aeacd465e6125dd1d0453cba4fdfbd281b23fbdcf113a0b092f5fd |
+| HmIP-MIO16-PCB | [V1.0.10](changelogs/changelog_HmIP-MIO16-PCB_update_V1_0_10_191022.md) | [HmIP-MIO16-PCB_update_V1_0_10_191022.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-MIO16-PCB_update_V1_0_10_191022.tgz) | 3b388e25d8006c1ce0f611d1f2b389f2e506b2277ad11c2f1b4e59ac9c6566f2 |
+| HmIP-MIOB | [V2.2.0](changelogs/changelog_HmIP-MIOB_update_V2_2_0_231109.md) | [HmIP-MIOB_update_V2_2_0_231109.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-MIOB_update_V2_2_0_231109.tgz) | e6694249088cb94c3e041b72569117b5ce78b4f87b53e0ee1f673304e9c1dc12 |
+| HmIP-MOD-HO | [V1.0.16](changelogs/changelog_HmIP-MOD-HO_update_V1_0_16_221020.md) | [HmIP-MOD-HO_update_V1_0_16_221020.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-MOD-HO_update_V1_0_16_221020.tgz) | 2342369d26064a3952de5527d940c1175728750a21b123d99f5f6d896e3f0946 |
+| HmIP-MOD-OC8 | [V1.8.12](changelogs/changelog_HmIP-MOD-OC8_update_V1_8_12_170803.md) | [HmIP-MOD-OC8_update_V1_8_12_170803.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-MOD-OC8_update_V1_8_12_170803.tgz) | 5fbc686ba4b72c8cfdb69f94d2a0c4fab812f2f076470f52b6c587a4b622c76c |
+| HmIP-MOD-TM | [V1.0.0](changelogs/changelog_HmIP-MOD-TM_update_V1_0_0_180713.md) | [HmIP-MOD-TM_update_V1_0_0_180713.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-MOD-TM_update_V1_0_0_180713.tgz) | b63d41cbc824110f2dcfd030a43e28338176ec484a61f9d528044e0302e122c6 |
+| HmIP-MOD-WD-VK | [V1.0.6](changelogs/changelog_HmIP-MOD-WD-VK_update_V1_0_6_220727.md) | [HmIP-MOD-WD-VK_update_V1_0_6_220727.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-MOD-WD-VK_update_V1_0_6_220727.tgz) | 170b3d09574a8dd8601b55253775a2123651a3c3a479bd9489e6549017e8cbba |
+| HmIP-MP3P | [V1.0.30](changelogs/changelog_HmIP-MP3P_update_V1_0_30_240515.md) | [HmIP-MP3P_update_V1_0_30_240515.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-MP3P_update_V1_0_30_240515.tgz) | 4b2e0252ba54a0df7f0b95804c20038e531833cb4fb6bdea89ace0988889516e |
+| HmIP-PCBS | [V2.10.2](changelogs/changelog_HmIP-PCBS_update_V2_10_2_171009.md) | [HmIP-PCBS_update_V2_10_2_171009.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PCBS_update_V2_10_2_171009.tgz) | eab8e2f7ec94505f60f9d84986f182cb40f49808837dfb53891b92f513df73bb |
+| HmIP-PCBS2 | [V1.10.10](changelogs/changelog_HmIP-PCBS2_update_V1_10_10_180601.md) | [HmIP-PCBS2_update_V1_10_10_180601.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PCBS2_update_V1_10_10_180601.tgz) | e7fd35671aa9697a93c105f6327cc558fea30bc24f43872c23e194f38864273b |
+| HmIP-PDT | [V2.2.4](changelogs/changelog_HmIP-PDT_update_V2_2_4_231123.md) | [HmIP-PDT_update_V2_2_4_231123.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PDT_update_V2_2_4_231123.tgz) | 054d0009eb07e5803ce8f86794f7d73b990de33e5a9a74bdc337ea1cad9aa1f9 |
+| HmIP-PDT-A | [V2.2.4](changelogs/changelog_HmIP-PDT-A_update_V2_2_4_250220.md) | [HmIP-PDT-A_update_V2_2_4_250220.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PDT-A_update_V2_2_4_250220.tgz) | cdb09b3e6ffff92d368ffd525aed966a1698417e73b7bf6feebe9a4cae7cb4c2 |
+| HmIP-PDT-CH | [V2.2.4](changelogs/changelog_HmIP-PDT-CH_update_V2_2_4_231123.md) | [HmIP-PDT-CH_update_V2_2_4_231123.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PDT-CH_update_V2_2_4_231123.tgz) | 748acf6a6e29da7c2bfb5886c12faac6ac5251dfc48ea850c70e757b3d97607b |
+| HmIP-PDT-PE | [V2.2.4](changelogs/changelog_HmIP-PDT-PE_update_V2_2_4_231123.md) | [HmIP-PDT-PE_update_V2_2_4_231123.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PDT-PE_update_V2_2_4_231123.tgz) | b035c611972785f4962ce8008bade69c923eebe24ce35d2bd907fcf033ce45f0 |
+| HmIP-PDT-UK | [V2.2.4](changelogs/changelog_HmIP-PDT-UK_update_V2_2_4_231123.md) | [HmIP-PDT-UK_update_V2_2_4_231123.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PDT-UK_update_V2_2_4_231123.tgz) | bbd7f42100fffece86c39c3562c943fc0ad6876bde7ec265b3919ccfc5bb3f8e |
+| HmIP-PMFS | [V1.0.12](changelogs/changelog_HmIP-PMFS_update_V1_0_12_171116.md) | [HmIP-PMFS_update_V1_0_12_171116.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PMFS_update_V1_0_12_171116.tgz) | 7024d0684649c87fff47add030aa15db259d479eb22362cb531998ca514d5446 |
+| HmIP-PS | [V2.24.8](changelogs/changelog_HmIP-PS_update_V2_24_8_240305.md) | [HmIP-PS_update_V2_24_8_240305.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PS_update_V2_24_8_240305.tgz) | cbd95c41cf5244a3420b86326efdb411e9b448a3fede1b36d1cea4ffa91bad42 |
+| HmIP-PS-2 | [V2.24.8](changelogs/changelog_HmIP-PS-2_update_V2_24_8_240305.md) | [HmIP-PS-2_update_V2_24_8_240305.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PS-2_update_V2_24_8_240305.tgz) | 20a76401e9e31712a8b82481be5d3e8df4cb0296a1deea1c1fa1bd1ee640cc78 |
+| HmIP-PS-2-A | [V2.24.2](changelogs/changelog_HmIP-PS-2-A_update_V2_24_2_250228.md) | [HmIP-PS-2-A_update_V2_24_2_250228.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PS-2-A_update_V2_24_2_250228.tgz) | 961943d7f222ea896644b09682ef31908fa3e1b637162177bd281c28cbdbb6e9 |
+| HmIP-PS-2_9YM | [V2.24.2](changelogs/changelog_HmIP-PS-2_9YM_update_V2_24_2_230216.md) | [HmIP-PS-2_9YM_update_V2_24_2_230216.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PS-2_9YM_update_V2_24_2_230216.tgz) | 519dcfb7a3958aa5560446337fa3ad3f8acc1c4a18d3fab559edcc8233a31461 |
+| HmIP-PSM | [V2.22.8](changelogs/changelog_HmIP-PSM_update_V2_22_8_220125.md) | [HmIP-PSM_update_V2_22_8_220125.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PSM_update_V2_22_8_220125.tgz) | 438e8e99080b1ad31cfa952eecd9707200eec5a5592e025a6d79fe445e6b392d |
+| HmIP-PSM-2 | [V2.22.8](changelogs/changelog_HmIP-PSM-2_update_V2_22_8_220127.md) | [HmIP-PSM-2_update_V2_22_8_220127.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PSM-2_update_V2_22_8_220127.tgz) | d9752c3f93c062dcfe1a9aa5a8ac1f2591b68bc518cc01cdaba845179bf7f55c |
+| HmIP-PSM-2-A | [V2.24.2](changelogs/changelog_HmIP-PSM-2-A_update_V2_24_2_250228.md) | [HmIP-PSM-2-A_update_V2_24_2_250228.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PSM-2-A_update_V2_24_2_250228.tgz) | 27bf58f3fc77cf4e45fe252918a45db49111732c1a68b2b40dc8eaf33608ef13 |
+| HmIP-PSM-2_QHJ | [V2.24.2](changelogs/changelog_HmIP-PSM-2_QHJ_update_V2_24_2_230216.md) | [HmIP-PSM-2_QHJ_update_V2_24_2_230216.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PSM-2_QHJ_update_V2_24_2_230216.tgz) | 57733a145f05985db9f45869285e7b2ba0332fb9c9a5d294114a4ae827cd8e7b |
+| HmIP-PSM-CH | [V2.22.8](changelogs/changelog_HmIP-PSM-CH_update_V2_22_8_220125.md) | [HmIP-PSM-CH_update_V2_22_8_220125.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PSM-CH_update_V2_22_8_220125.tgz) | 3f86a5be6f751a6c229035b47cd2a800e18852fd041882c8037764519647de1c |
+| HmIP-PSM-CH-2 | [V2.24.2](changelogs/changelog_HmIP-PSM-CH-2_update_V2_24_2_230220.md) | [HmIP-PSM-CH-2_update_V2_24_2_230220.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PSM-CH-2_update_V2_24_2_230220.tgz) | f86daca7a9ba7671d39d262c4d5b328c3930a7b3ad1db06f3ea938b8d40273c1 |
+| HmIP-PSM-IT | [V2.22.8](changelogs/changelog_HmIP-PSM-IT_update_V2_22_8_220125.md) | [HmIP-PSM-IT_update_V2_22_8_220125.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PSM-IT_update_V2_22_8_220125.tgz) | 9220a23eb923818accb9ba2fbf02ae1d819b82be0b41c02fc30498b8a2c20a14 |
+| HmIP-PSM-PE | [V2.22.8](changelogs/changelog_HmIP-PSM-PE_update_V2_22_8_220125.md) | [HmIP-PSM-PE_update_V2_22_8_220125.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PSM-PE_update_V2_22_8_220125.tgz) | e2436bde7689a0cc1c86d3502aac5444371e4438a5bf340ea066a5d4d8ca266c |
+| HmIP-PSM-PE-2 | [V2.24.2](changelogs/changelog_HmIP-PSM-PE-2_update_V2_24_2_230220.md) | [HmIP-PSM-PE-2_update_V2_24_2_230220.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PSM-PE-2_update_V2_24_2_230220.tgz) | 5f4db73d456cea310d97e0eaa2f718583d7ba6649d2c0af2947389c4b70aac33 |
+| HmIP-PSM-UK | [V2.22.8](changelogs/changelog_HmIP-PSM-UK_update_V2_22_8_220125.md) | [HmIP-PSM-UK_update_V2_22_8_220125.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PSM-UK_update_V2_22_8_220125.tgz) | e2ab5a05f0a2c3168dc0ac46cad4ae96ec5ac43794784e911927378a720aa840 |
+| HmIP-PSMCO | [V1.26.22](changelogs/changelog_HmIP-PSMCO_update_V1_26_22_240924.md) | [HmIP-PSMCO_update_V1_26_22_240924.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PSMCO_update_V1_26_22_240924.tgz) | 406126abe5a62f465398c8f2f1ca965924eb8dfe7b4250e1205ebf742e43872f |
+| HmIP-RC8 | [V1.0.19](changelogs/changelog_HmIP-RC8_update_V1_0_19_161110.md) | [HmIP-RC8_update_V1_0_19_161110.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-RC8_update_V1_0_19_161110.tgz) | 5869c5c0b86eb6bb6c30028caf7d53d396b00bc8c0b4cb60f703c137076f35d5 |
+| HmIP-RCB1 | [V1.2.4](changelogs/changelog_HmIP-RCB1_update_V1_2_4_181212.md) | [HmIP-RCB1_update_V1_2_4_181212.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-RCB1_update_V1_2_4_181212.tgz) | 01d28f4f61e8aa61c0109a6e5f72d694c0e598ed01ae90a4ae504df4d28f6a60 |
+| HmIP-RGBW | [V1.0.62](changelogs/changelog_HmIP-RGBW_update_V1_0_62_230711.md) | [HmIP-RGBW_update_V1_0_62_230711.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-RGBW_update_V1_0_62_230711.tgz) | ef23ac0e4a341637e6b94d57900610152ecabc856fb2b30589ef5d2e655483d0 |
+| HmIP-SAM | [V1.4.6](changelogs/changelog_HmIP-SAM_update_V1_4_6_230228.md) | [HmIP-SAM_update_V1_4_6_230228.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SAM_update_V1_4_6_230228.tgz) | bd9cbc322ab6afb07386a9314921bd6efff80526febce9a4744f5b9832fc7ab5 |
+| HmIP-SCI | [V1.0.8](changelogs/changelog_HmIP-SCI_update_V1_0_8_221025.md) | [HmIP-SCI_update_V1_0_8_221025.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SCI_update_V1_0_8_221025.tgz) | 2ad609c3fbec99677ab4881c3a123da3fa60cc87716a5c9d7101321f37bb69cd |
+| HmIP-SCTH230 | [V1.0.10](changelogs/changelog_HmIP-SCTH230_update_V1_0_10_220601.md) | [HmIP-SCTH230_update_V1_0_10_220601.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SCTH230_update_V1_0_10_220601.tgz) | 159e0896f87ed34319c944ed79ed1f6200910ce6ac251371cad23c574bc84238 |
+| HmIP-SFD | [V1.2.24](changelogs/changelog_HmIP-SFD_update_V1_2_24_230421.md) | [HmIP-SFD_update_V1_2_24_230421.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SFD_update_V1_2_24_230421.tgz) | 9f3e6d3fa9d4119b7b0e0f992a15b2cc64608fe07836d2dea1f7e9ff1447dde7 |
+| HmIP-SLO | [V1.0.18](changelogs/changelog_HmIP-SLO_update_V1_0_18_220216.md) | [HmIP-SLO_update_V1_0_18_220216.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SLO_update_V1_0_18_220216.tgz) | ae7426df184c9cf7277efd92d8c32fa9905521ea9fcf74be6502957475766c15 |
+| HmIP-SMI | [V3.2.48](changelogs/changelog_HmIP-SMI_update_V3_2_48_220718.md) | [HmIP-SMI_update_V3_2_48_220718.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMI_update_V3_2_48_220718.tgz) | 2ed7f9ced3dfdbf78f8612a01707f88a7c2838bb622ad3d0d79f0f7177599f31 |
+| HmIP-SMI55 | [V1.2.4](changelogs/changelog_HmIP-SMI55_update_V1_2_4_220711.md) | [HmIP-SMI55_update_V1_2_4_220711.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMI55_update_V1_2_4_220711.tgz) | 2f53259195a71478b1ab3a27fbe66cf5d658f70fb9c8cc0dcb7758cedb47b715 |
+| HmIP-SMO | [V3.6.72](changelogs/changelog_HmIP-SMO_update_V3_6_72_230504.md) | [HmIP-SMO_update_V3_6_72_230504.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO_update_V3_6_72_230504.tgz) | 3ffac4096b1cdfc5ffacc7002a73fd9769ba5ca339255345e06dbff3ac2a18fd |
+| HmIP-SMO-2 | [V3.6.72](changelogs/changelog_HmIP-SMO-2_update_V3_6_72_230504.md) | [HmIP-SMO-2_update_V3_6_72_230504.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO-2_update_V3_6_72_230504.tgz) | fb3b681fb2bf31b46b2933644e6e6f51e9941a37ad4520fe4380755d0e56c063 |
+| HmIP-SMO-A | [V3.6.72](changelogs/changelog_HmIP-SMO-A_update_V3_6_72_230504.md) | [HmIP-SMO-A_update_V3_6_72_230504.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO-A_update_V3_6_72_230504.tgz) | b4ba91e6b4812770e1401b23abcdaa3fabb5a5cedfd37c93135246655b0d9bbc |
+| HmIP-SMO-A-2 | [V3.6.72](changelogs/changelog_HmIP-SMO-A-2_update_V3_6_72_230504.md) | [HmIP-SMO-A-2_update_V3_6_72_230504.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO-A-2_update_V3_6_72_230504.tgz) | 415ae2b97b9bd602c91db0f5f7428ef8181b6907c8a16ad480d3f0c5c05ad7f4 |
+| HmIP-SMO230 | [V3.8.104](changelogs/changelog_HmIP-SMO230_update_V3_8_104_240131.md) | [HmIP-SMO230_update_V3_8_104_240131.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO230_update_V3_8_104_240131.tgz) | 504697e2680d9b196b6586f1616a91161443715045597cc241e5d6de31d72d5f |
+| HmIP-SMO230-A | [V3.8.104](changelogs/changelog_HmIP-SMO230-A_update_V3_8_104_240131.md) | [HmIP-SMO230-A_update_V3_8_104_240131.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO230-A_update_V3_8_104_240131.tgz) | 8066d01f11d989ada7d023227a1896c91c09fb2937fe1db317eb38f69c15a86a |
+| HmIP-SPDR | [V1.2.12](changelogs/changelog_HmIP-SPDR_update_V1_2_12_230510.md) | [HmIP-SPDR_update_V1_2_12_230510.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SPDR_update_V1_2_12_230510.tgz) | 8ada3a0cc2b61d38d879b421daa1650e61c87a23bbb505a5fd3866908d5fb4c2 |
+| HmIP-SPI | [V1.4.0](changelogs/changelog_HmIP-SPI_update_V1_4_0_180314.md) | [HmIP-SPI_update_V1_4_0_180314.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SPI_update_V1_4_0_180314.tgz) | 120d7adb460695e2b02fbb81e7325d6febdbbff9bbe380bced8cd96db1b8d51a |
+| HmIP-SRD | [V1.0.20](changelogs/changelog_HmIP-SRD_update_V1_0_20_220929.md) | [HmIP-SRD_update_V1_0_20_220929.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SRD_update_V1_0_20_220929.tgz) | 2fe8ffd06b3cc81f8b28b193a269be1da78a1f42bb4d4da1abbcacd9edfa7a5b |
+| HmIP-SRH | [V1.2.12](changelogs/changelog_HmIP-SRH_update_V1_2_12_221017.md) | [HmIP-SRH_update_V1_2_12_221017.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SRH_update_V1_2_12_221017.tgz) | 5e27d35d8469e3a66ee6a68d5e6997144ad04703eada0568a913bb7a9f37d593 |
+| HmIP-STE2-PCB | [V1.0.28](changelogs/changelog_HmIP-STE2-PCB_update_V1_0_28_220930.md) | [HmIP-STE2-PCB_update_V1_0_28_220930.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-STE2-PCB_update_V1_0_28_220930.tgz) | 92aecfcc265bb4e0ef2dc7266ca591400dbe17e56f45b4e65701710f2ffb936b |
+| HmIP-STH | [V3.0.2](changelogs/changelog_HmIP_STH_update_3_0_2_240416.md) | [HmIP_STH_update_3_0_2_240416.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_STH_update_3_0_2_240416.tgz) | c078c19c59e285434b1781e9f6299d82cf1401979dad5e51604d8f63b1b4a929 |
+| HmIP-STH-A | [V3.0.2](changelogs/changelog_HmIP_STH_A_update_3_0_2_240613.md) | [HmIP_STH_A_update_3_0_2_240613.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_STH_A_update_3_0_2_240613.tgz) | f3662752019e93e07844926307c846395e10d27b0a0448a957d8c2e875eefc88 |
+| HmIP-STHD | [V3.0.2](changelogs/changelog_HmIP_STHD_update_3_0_2_240430.md) | [HmIP_STHD_update_3_0_2_240430.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_STHD_update_3_0_2_240430.tgz) | cbd7134336495ba7f0b7ef2770b0e4237084f48e1ef684b747c611c0ba97e0e2 |
+| HmIP-STHD-A | [V3.0.2](changelogs/changelog_HmIP_STHD_A_update_3_0_2_240430.md) | [HmIP_STHD_A_update_3_0_2_240430.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_STHD_A_update_3_0_2_240430.tgz) | 89289f7520597848a08d47ceaf4e78134a80ccb44a2264451e2214e8043d3baf |
+| HmIP-STHD_L9D | [V1.2.8](changelogs/changelog_HmIP-STHD_L9D_update_V1_2_8_240731.md) | [HmIP-STHD_L9D_update_V1_2_8_240731.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-STHD_L9D_update_V1_2_8_240731.tgz) | 38c13aba93d59a1c7136d7b15c7a599a51a9d578e14b38a5b5c9dcbbf48fb37e |
+| HmIP-STHO | [V1.0.8](changelogs/changelog_HmIP-STHO_update_V1_0_8_230209.md) | [HmIP-STHO_update_V1_0_8_230209.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-STHO_update_V1_0_8_230209.tgz) | 2aad2f93a43ba34c2929e807d2665e451b77bc413c2ff494c8166396cc1209d1 |
+| HmIP-STHO-A | [V1.0.8](changelogs/changelog_HmIP-STHO-A_update_V1_0_8_230209.md) | [HmIP-STHO-A_update_V1_0_8_230209.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-STHO-A_update_V1_0_8_230209.tgz) | 0c5c0fbe49a1dcd3f89aabf60bc203d9bc104784bf6a607a6ef6c17aba19b351 |
+| HmIP-STH_8DU | [V1.2.8](changelogs/changelog_HmIP-STH_8DU_update_V1_2_8_240731.md) | [HmIP-STH_8DU_update_V1_2_8_240731.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-STH_8DU_update_V1_2_8_240731.tgz) | fac62662a1437bebd8487418b515f4ca5ae7f4ad8008c395228438a30c7ebb09 |
+| HmIP-STI | [V1.0.0](changelogs/changelog_HmIP-STI_update_V1_0_0_210915.md) | [HmIP-STI_update_V1_0_0_210915.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-STI_update_V1_0_0_210915.tgz) | dcd7dc2bddcafee6b9ba74c1634473a689ccdac11726784917d4062bad556be1 |
+| HmIP-STV | [V1.2.8](changelogs/changelog_HmIP-STV_update_V1_2_8_240913.md) | [HmIP-STV_update_V1_2_8_240913.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-STV_update_V1_2_8_240913.tgz) | e7cd35528435e535a5988c74b9a706c833ec9ca286dd68e847c90868b2a7a336 |
+| HmIP-SWD | [V1.0.4](changelogs/changelog_HmIP-SWD_update_V1_0_004_221018.md) | [HmIP-SWD_update_V1_0_004_221018.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWD_update_V1_0_004_221018.tgz) | c8ee04b0845c93e3942b46a88938176ae1cd2e026d5fdc14edc7d6fd91ac5798 |
+| HmIP-SWD-2 | [V2.0.14](changelogs/changelog_HmIP-SWD-2_update_V2_0_14_250306.md) | [HmIP-SWD-2_update_V2_0_14_250306.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWD-2_update_V2_0_14_250306.tgz) | 61b6578cd2e8257b5aacca2f0ab585119766e334c43f8ed439819cc6c1844a05 |
+| HmIP-SWDM-2 | [V1.4.2](changelogs/changelog_HmIP-SWDM-2_update_V1_4_2_220210.md) | [HmIP-SWDM-2_update_V1_4_2_220210.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWDM-2_update_V1_4_2_220210.tgz) | 695e0b8091ea9c1e94626ba9d141adfa8f75cd9944c9353bef630f7670581d45 |
+| HmIP-SWDO | [V1.18.10](changelogs/changelog_HmIP-SWDO_update_V1_18_10_221021.md) | [HmIP-SWDO_update_V1_18_10_221021.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWDO_update_V1_18_10_221021.tgz) | 9cdaccda7d9b51559dbebf67a69c3b4237d2fe46952469e026717f0443d1ef17 |
+| HmIP-SWDO-2 | [V1.18.6](changelogs/changelog_HmIP-SWDO-2_update_V1_18_6_220912.md) | [HmIP-SWDO-2_update_V1_18_6_220912.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWDO-2_update_V1_18_6_220912.tgz) | 4a8f3e86ee34d14a07a9a1f68a33919f0eaaf376a9852d26d0b124d1839e8d9a |
+| HmIP-SWDO-A | [V1.18.6](changelogs/changelog_HmIP-SWDO-A_update_V1_18_6_230522.md) | [HmIP-SWDO-A_update_V1_18_6_230522.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWDO-A_update_V1_18_6_230522.tgz) | ac1dabf6964476fe7e115d5cff99e45a044d742570e0eeb054f45178dcebe801 |
+| HmIP-SWDO-I | [V1.18.10](changelogs/changelog_HmIP-SWDO-I_update_V1_18_10_230106.md) | [HmIP-SWDO-I_update_V1_18_10_230106.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWDO-I_update_V1_18_10_230106.tgz) | a250a9c673056fcbf49b380de79f28de3108daa80662d3eb0a5182cbe8feb55f |
+| HmIP-SWDO-PL | [V1.18.10](changelogs/changelog_HmIP-SWDO-PL_update_V1_18_10_221019.md) | [HmIP-SWDO-PL_update_V1_18_10_221019.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWDO-PL_update_V1_18_10_221019.tgz) | 17dd1168863d029e7379087b64641ac5d334c7029cee3d2d80b69b5008af9c9d |
+| HmIP-SWDO-PL-2 | [V1.18.10](changelogs/changelog_HmIP-SWDO-PL-2_update_V1_18_10_221019.md) | [HmIP-SWDO-PL-2_update_V1_18_10_221019.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWDO-PL-2_update_V1_18_10_221019.tgz) | 72d108398ab3362402961e3ff279bdab2477bacc442152529b7ae3969fb94532 |
+| HmIP-SWO-B | [V1.2.8](changelogs/changelog_HmIP-SWO-B_update_V1_2_8_240417.md) | [HmIP-SWO-B_update_V1_2_8_240417.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWO-B_update_V1_2_8_240417.tgz) | ae647ed420f9cc7c0955bb1fe061743ce8d14dbedf92a8b1bc566607d7b0b268 |
+| HmIP-SWO-PL | [V1.2.8](changelogs/changelog_HmIP-SWO-PL_update_V1_2_8_240417.md) | [HmIP-SWO-PL_update_V1_2_8_240417.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWO-PL_update_V1_2_8_240417.tgz) | 92c0dbbc062549c5a3b8c062a7cf5039191b1540bfe0da63b81dfae5fca1fe71 |
+| HmIP-SWO-PR | [V1.2.8](changelogs/changelog_HmIP-SWO-PR_update_V1_2_8_240417.md) | [HmIP-SWO-PR_update_V1_2_8_240417.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWO-PR_update_V1_2_8_240417.tgz) | 54f4bf911801a5595ce46984e728b58e085b14304b2abc4a7abd8a6c0bf63f98 |
+| HmIP-USBSM | [V1.0.16](changelogs/changelog_HmIP-USBSM_update_V1_0_16_210316.md) | [HmIP-USBSM_update_V1_0_16_210316.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-USBSM_update_V1_0_16_210316.tgz) | 26248f1d3917ddf64db87f41c516522b74a09dafc45e340d99dcc4803c518f80 |
+| HmIP-WGC | [V1.0.4](changelogs/changelog_HmIP-WGC_update_V1_0_4_221206.md) | [HmIP-WGC_update_V1_0_4_221206.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WGC_update_V1_0_4_221206.tgz) | 7ad624454a844409546d01de773b4cc2d3f0aa20228fca9b3a003dfcdf81a0fd |
+| HmIP-WGS | [V1.0.22](changelogs/changelog_HmIP-WGS-F_update_V1_0_22_250417.md) | [HmIP-WGS-F_update_V1_0_22_250417.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WGS-F_update_V1_0_22_250417.tgz) | baebec140c3d06e1a7a4d093bf654d9a65e5ea781a02273b1a2b042ddb99215b |
+| HmIP-WGS-A | [V1.0.22](changelogs/changelog_HmIP-WGS-A-F_update_V1_0_22_250417.md) | [HmIP-WGS-A-F_update_V1_0_22_250417.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WGS-A-F_update_V1_0_22_250417.tgz) | a47df2ae69cb8a3d8cf6ae7f33a973f5fb1630a54aff190c77372fb5792164c6 |
+| HmIP-WGT | [V1.0.14](changelogs/changelog_HmIP-WGT-F_update_V1_0_14_250710.md) | [HmIP-WGT-F_update_V1_0_14_250710.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WGT-F_update_V1_0_14_250710.tgz) | 07aa6449083ad698b22802461d16cc73f57a9b71501c99a0936ed01c6b051a36 |
+| HmIP-WGT-A | [V1.0.14](changelogs/changelog_HmIP-WGT-A-F_update_V1_0_14_250710.md) | [HmIP-WGT-A-F_update_V1_0_14_250710.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WGT-A-F_update_V1_0_14_250710.tgz) | 4cabc979617018326155ad23adb625babd430b9938248c6ace96da17054bed58 |
+| HmIP-WGTC | [V1.0.14](changelogs/changelog_HmIP-WGTC-F_update_V1_0_14_250710.md) | [HmIP-WGTC-F_update_V1_0_14_250710.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WGTC-F_update_V1_0_14_250710.tgz) | 5ce4506996b6baddceec71348a16a5ff5f9b717e6010deb3ae8f13af450e45c6 |
+| HmIP-WGTC-A | [V1.0.14](changelogs/changelog_HmIP-WGTC-A-F_update_V1_0_14_250710.md) | [HmIP-WGTC-A-F_update_V1_0_14_250710.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WGTC-A-F_update_V1_0_14_250710.tgz) | 4ef75cc9255f773d77f995e8fb06c945f3c7bdc6b9bde308219bfed84b8d228f |
+| HmIP-WHS2 | [V2.2.0](changelogs/changelog_HmIP-WHS2_update_V2_2_0_240125.md) | [HmIP-WHS2_update_V2_2_0_240125.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WHS2_update_V2_2_0_240125.tgz) | 14dff3ac3d2b3f9fa6ef3f7420253eef4653299041d57115292aa4bed5991294 |
+| HmIP-WKP | [V1.0.12](changelogs/changelog_HmIP-WKP_update_V1_0_12_230327.md) | [HmIP-WKP_update_V1_0_12_230327.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WKP_update_V1_0_12_230327.tgz) | a7715ab1ea6c2e00b0d43f381fd85f9f3620ca479565a39ab488829806ecfc67 |
+| HmIP-WRC2 | [V1.18.2](changelogs/changelog_HmIP-WRC2_update_V1_18_2_230207.md) | [HmIP-WRC2_update_V1_18_2_230207.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRC2_update_V1_18_2_230207.tgz) | 3a35fd8dafe0372ca17737e61cf4836cfd84285522eb0272a0f332cdd7fc826c |
+| HmIP-WRC2-2 | [V2.8.8](changelogs/changelog_HmIP-WRC2-2_update_V2_8_8_250526.md) | [HmIP-WRC2-2_update_V2_8_8_250526.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRC2-2_update_V2_8_8_250526.tgz) | 4ea141c089252e19fe1f8d6f16ce52119d402e7e7d1ea589baa20b1414f879cb |
+| HmIP-WRC2-A-2 | [V2.8.8](changelogs/changelog_HmIP-WRC2-A-2_update_V2_8_8_250526.md) | [HmIP-WRC2-A-2_update_V2_8_8_250526.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRC2-A-2_update_V2_8_8_250526.tgz) | e44c6a2b43861fc827593c8b9d7bc18d33d0c6baa050ffba69511c8a8377e825 |
+| HmIP-WRC6 | [V2.2.14](changelogs/changelog_HMIP-WRC6_update_V2_2_14_220324.md) | [HMIP-WRC6_update_V2_2_14_220324.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HMIP-WRC6_update_V2_2_14_220324.tgz) | e41349f09a7f51bbeea1e9477792a24df677af6a5be57de6296e7602645a8da5 |
+| HmIP-WRCC2 | [V2.2.14](changelogs/changelog_HmIP-WRCC2_update_V2_2_14_220406.md) | [HmIP-WRCC2_update_V2_2_14_220406.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRCC2_update_V2_2_14_220406.tgz) | 0b75d280619917289a5fa043e7778ac76b4ad685a9d9a19da566aa0c538c78f1 |
+| HmIP-WRCD | [V1.4.8](changelogs/changelog_HmIP-WRCD_update_V1_4_8_230419.md) | [HmIP-WRCD_update_V1_4_8_230419.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRCD_update_V1_4_8_230419.tgz) | c73f81e4bbf0af716d0c86b03c566aac84ed663a31259b39d9de0d33488cab02 |
+| HmIP-WSM | [V1.2.2](changelogs/changelog_HmIP-WSM_update_V1_2_2_250617.md) | [HmIP-WSM_update_V1_2_2_250617.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WSM_update_V1_2_2_250617.tgz) | a61c85c67a76c2bc3e4d02017398d3330842935bcb1455762a98b21986f77b60 |
+| HmIP-WTH | [V3.0.2](changelogs/changelog_HmIP_WTH_update_3_0_2_240503.md) | [HmIP_WTH_update_3_0_2_240503.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_WTH_update_3_0_2_240503.tgz) | 44278e05b63cbec4417c5f6d43990f24b04ab047d7b336fddd5b55ed39c7db46 |
+| HmIP-WTH-1 | [V1.2.8](changelogs/changelog_HmIP-WTH-1_update_V1_2_8_240816.md) | [HmIP-WTH-1_update_V1_2_8_240816.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WTH-1_update_V1_2_8_240816.tgz) | 8fce7f3600f9c21e074f113a2a135af1937861e289feef26d31d39bfd9846fba |
+| HmIP-WTH-2 | [V3.0.2](changelogs/changelog_HmIP_WTH_2_update_3_0_2_240416.md) | [HmIP_WTH_2_update_3_0_2_240416.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_WTH_2_update_3_0_2_240416.tgz) | 1e23a94b20f9ea095aa468fb4c756a8e039ff3b0393c46212f0c8202f4207144 |
+| HmIP-WTH-B-2 | [V1.4.2](changelogs/changelog_HmIP-WTH-B-2_update_V1_4_2_240418.md) | [HmIP-WTH-B-2_update_V1_4_2_240418.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WTH-B-2_update_V1_4_2_240418.tgz) | c015bb4fe241523493c6ec694869169ab1aec1b4ca917d5acf06bddeae3843b6 |
+| HmIP-WTH-B-A | [V1.4.2](changelogs/changelog_HmIP-WTH-B-A_update_V1_4_2_240418.md) | [HmIP-WTH-B-A_update_V1_4_2_240418.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WTH-B-A_update_V1_4_2_240418.tgz) | 9eb4da2ee142f531a610ce431ee6deeb8812215e4f34a59b7516c12990395e6a |
+| HmIP-WUA | [V1.0.16](changelogs/changelog_HmIP-WUA_update_V1_0_16_221028.md) | [HmIP-WUA_update_V1_0_16_221028.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WUA_update_V1_0_16_221028.tgz) | 9ee00fb5c6db6b380b346a483c3bb8de7672ae2f364dfb4148fae8f056dc3f1b |
+| HmIP-eTRV | [V2.2.12](changelogs/changelog_HmIP_eTRV_update_2_2_12_240610.md) | [HmIP_eTRV_update_2_2_12_240610.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_eTRV_update_2_2_12_240610.tgz) | 38cfa10ce3a8661ce26297b0b83c060af4413992e01541eef12c7142ad1bb39e |
+| HmIP-eTRV-2 | [V2.2.012](changelogs/changelog_HmIP_eTRV_2_update_2_2_12_240503.md) | [HmIP_eTRV_2_update_2_2_12_240503.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_eTRV_2_update_2_2_12_240503.tgz) | 7453145436930e1114c3434a7b3f06f3f5a3024644b127368b351bf8eb8d0dc4 |
+| HmIP-eTRV-2-UK | [V2.2.12](changelogs/changelog_HmIP_eTRV_2_UK_update_2_2_12_240503.md) | [HmIP_eTRV_2_UK_update_2_2_12_240503.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_eTRV_2_UK_update_2_2_12_240503.tgz) | 0bd2d237c8e51ae847e0cb877993834e3d7af565503aa70f620b34f93efcdac5 |
+| HmIP-eTRV-2_I9F | [V2.2.22](changelogs/changelog_HmIP-eTRV-2_I9F_update_V2_2_22_240503.md) | [HmIP-eTRV-2_I9F_update_V2_2_22_240503.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-2_I9F_update_V2_2_22_240503.tgz) | e8aa0899c559ffcdeccebe5653a7b0eb8ffc60db3e43d1e2db1cb2af06b9e07c |
+| HmIP-eTRV-3 | [V1.0.4](changelogs/changelog_HmIP-eTRV-3_update_V1_0_4_240815.md) | [HmIP-eTRV-3_update_V1_0_4_240815.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-3_update_V1_0_4_240815.tgz) | eff7f5978db5f5c4fc2b8164ed63d5632ff1947561a2d4150e48f808619922fa |
+| HmIP-eTRV-B-2 | [V1.4.2](changelogs/changelog_HmIP_eTRV_B_2_update_1_4_2_250923.md) | [HmIP_eTRV_B_2_update_1_4_2_250923.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_eTRV_B_2_update_1_4_2_250923.tgz) | f5fe0d2295bf02c0db567f289382bf854f83f9395ea7a674b3f1fe62cc722772 |
+| HmIP-eTRV-B-2_R4M | [V1.2.28](changelogs/changelog_HmIP-eTRV-B-2_R4M_update_V1_2_28_241014.md) | [HmIP-eTRV-B-2_R4M_update_V1_2_28_241014.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-B-2_R4M_update_V1_2_28_241014.tgz) | 87319789ebeb73224cd3d91b84b4c697eb0239ab1ee8444176bc5069193a2abc |
+| HmIP-eTRV-C | [V1.4.014](changelogs/changelog_HmIP_eTRV_C_update_1_4_14_220128.md) | [HmIP_eTRV_C_update_1_4_14_220128.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_eTRV_C_update_1_4_14_220128.tgz) | f31087c4465466994f345db39acb1a41239c25e3ba912880632232c37e2ed9e4 |
+| HmIP-eTRV-C-2 | [V1.4.14](changelogs/changelog_HmIP-eTRV-C-2_update_V1_4_14_220128.md) | [HmIP-eTRV-C-2_update_V1_4_14_220128.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-C-2_update_V1_4_14_220128.tgz) | ee3632fd683cb6d53b1c189447d37b438987c2ce845d5c202edad7e10e80205d |
+| HmIP-eTRV-CL | [V1.0.16](changelogs/changelog_HmIP-eTRV-CL_update_V1_0_16_221214.md) | [HmIP-eTRV-CL_update_V1_0_16_221214.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-CL_update_V1_0_16_221214.tgz) | 7904758a73a1bad42adc1886d056f7bde00376d5b135e23198ce77e7e15c1a1f |
+| HmIP-eTRV-E | [V1.4.8](changelogs/changelog_HmIP-eTRV-E_update_V1_4_8_240924.md) | [HmIP-eTRV-E_update_V1_4_8_240924.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-E_update_V1_4_8_240924.tgz) | 0ac1a496fb252b2af360977e7e8bf926e75b55721b9beeea632dbde8151a8ddd |
+| HmIP-eTRV-E-A | [V1.4.8](changelogs/changelog_HmIP-eTRV-E-A_update_V1_4_8_240924.md) | [HmIP-eTRV-E-A_update_V1_4_8_240924.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-E-A_update_V1_4_8_240924.tgz) | 7c34947f457ac7f3119b07f46e3783b150764a0cce48bfa9b92984377a8aa4af |
+| HmIP-eTRV-E-S | [V1.4.8](changelogs/changelog_HmIP-eTRV-E-S_update_V1_4_8_240924.md) | [HmIP-eTRV-E-S_update_V1_4_8_240924.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-E-S_update_V1_4_8_240924.tgz) | 91d1a89d32d83b0b85726802d40d31684e231abafd7d07508863d95d56aaa941 |
+| HmIP-eTRV-F | [V1.0.34](changelogs/changelog_HmIP-eTRV-F_update_V1_0_34_240822.md) | [HmIP-eTRV-F_update_V1_0_34_240822.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-F_update_V1_0_34_240822.tgz) | 579c02c00b65285357ca62583719b39877651c712c366a2c52c872bc77a2a632 |
 </details>
 <details open><summary>HmIPW</summary>
 
-| Device Model | Version |
-| ------------- |:-------------:|
-| HmIPW-AV | [V1.0.4](changelogs/changelog_HmIPW-AV_update_V1_0_4_241009.md) |
-| HmIPW-AV-CO2 | [V1.0.4](changelogs/changelog_HmIPW-AV-CO2_update_V1_0_4_241009.md) |
-| HmIPW-AV-RH | [V1.0.4](changelogs/changelog_HmIPW-AV-RH_update_V1_0_4_241009.md) |
-| HmIPW-AV-SVN | [V1.2.0](changelogs/changelog_HmIPW-AV-SVN_update_V1_2_0_250829.md) |
-| HmIPW-BRC2 | [V2.2.14](changelogs/changelog_HmIPW-BRC2_update_V2_2_14_221020.md) |
-| HmIPW-DRAP | [V3.0.20](changelogs/changelog_HmIPW-DRAP_3_0_20_231208.md) |
-| HmIPW-DRAVC | [V1.2.22](changelogs/changelog_HmIPW-DRAVC_update_V1_2_22_251124.md) |
-| HmIPW-DRBL4 | [V1.10.18](changelogs/changelog_HmIPW-DRBL4_update_V1_10_18_230728.md) |
-| HmIPW-DRD3 | [V2.0.6](changelogs/changelog_HmIPW-DRD3_update_V2_0_6_230412.md) |
-| HmIPW-DRI16 | [V1.4.6](changelogs/changelog_HmIPW-DRI16_update_V1_4_6_250526.md) |
-| HmIPW-DRI32 | [V1.4.6](changelogs/changelog_HmIPW-DRI32_update_V1_4_6_250526.md) |
-| HmIPW-DRS4 | [V1.2.6](changelogs/changelog_HmIPW-DRS4_update_V1_2_6_220928.md) |
-| HmIPW-DRS8 | [V1.2.6](changelogs/changelog_HmIPW-DRS8_update_V1_2_6_220928.md) |
-| HmIPW-FAL230-C10 | [V2.4.6](changelogs/changelog_HmIPW_FAL230_C10_update_2_4_6_230815.md) |
-| HmIPW-FAL230-C6 | [V2.4.6](changelogs/changelog_HmIPW_FAL230_C6_update_2_4_6_230815.md) |
-| HmIPW-FAL24-C10 | [V2.4.6](changelogs/changelog_HmIPW_FAL24_C10_update_2_4_6_230815.md) |
-| HmIPW-FAL24-C6 | [V2.4.6](changelogs/changelog_HmIPW_FAL24_C6_update_2_4_6_230815.md) |
-| HmIPW-FALMOT-C12 | [V1.6.2](changelogs/changelog_HmIPW-FALMOT-C12_update_V1_6_2_240611.md) |
-| HmIPW-FIO6 | [V1.2.10](changelogs/changelog_HmIPW-FIO6_update_V1_2_10_230822.md) |
-| HmIPW-SCTHD | [V1.0.12](changelogs/changelog_HmIPW-SCTHD_update_V1_0_12_231130.md) |
-| HmIPW-SMI55 | [V1.0.20](changelogs/changelog_HmIPW-SMI55_update_V1_0_20_190613.md) |
-| HmIPW-SPI | [V1.0.30](changelogs/changelog_HmIPW-SPI_update_V1_0_30_190709.md) |
-| HmIPW-STH | [V3.0.2](changelogs/changelog_HmIPW_STH_update_3_0_2_240503.md) |
-| HmIPW-STH-A | [V3.0.2](changelogs/changelog_HmIPW_STH_A_update_3_0_2_240503.md) |
-| HmIPW-STHD | [V3.0.2](changelogs/changelog_HmIPW_STHD_update_3_0_2_240503.md) |
-| HmIPW-STHD-A | [V3.0.2](changelogs/changelog_HmIPW_STHD_A_update_3_0_2_240503.md) |
-| HmIPW-WGD | [V1.0.24](changelogs/changelog_HmIPW-WGD_update_V1_0_24_231120.md) |
-| HmIPW-WGD-PL | [V1.0.24](changelogs/changelog_HmIPW-WGD-PL_update_V1_0_24_231120.md) |
-| HmIPW-WRC2 | [V2.2.14](changelogs/changelog_HmIPW-WRC2_update_V2_2_14_221020.md) |
-| HmIPW-WRC6 | [V1.2.2](changelogs/changelog_HmIPW-WRC6_update_V1_2_2_221019.md) |
-| HmIPW-WTH | [V3.0.2](changelogs/changelog_HmIPW_WTH_update_3_0_2_240408.md) |
-| HmIPW-WTH-A | [V3.0.2](changelogs/changelog_HmIPW_WTH_A_update_3_0_2_240408.md) |
+| Device Model | Version | Download | SHA256 |
+| ------------- |:-------------:| ------------- | ------------- |
+| HmIPW-AV | [V1.0.4](changelogs/changelog_HmIPW-AV_update_V1_0_4_241009.md) | [HmIPW-AV_update_V1_0_4_241009.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-AV_update_V1_0_4_241009.tgz) | 6d8a424233eddcd3a5a2f24aa08e053550ae4cd93202777496ccb0a41baae61e |
+| HmIPW-AV-CO2 | [V1.0.4](changelogs/changelog_HmIPW-AV-CO2_update_V1_0_4_241009.md) | [HmIPW-AV-CO2_update_V1_0_4_241009.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-AV-CO2_update_V1_0_4_241009.tgz) | 17e82d96dd9cb63c2681d4bcc4fffc44eb8c69047a1d1a9dd40b13abd55af3dc |
+| HmIPW-AV-RH | [V1.0.4](changelogs/changelog_HmIPW-AV-RH_update_V1_0_4_241009.md) | [HmIPW-AV-RH_update_V1_0_4_241009.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-AV-RH_update_V1_0_4_241009.tgz) | dfa1513bc4ff80ac7beb207ef4327c62b7995ec69510f4918cf2c816311255e1 |
+| HmIPW-AV-SVN | [V1.2.0](changelogs/changelog_HmIPW-AV-SVN_update_V1_2_0_250829.md) | [HmIPW-AV-SVN_update_V1_2_0_250829.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-AV-SVN_update_V1_2_0_250829.tgz) | 41cc5af0895cf06534c81fa86cbd0358b1cc5023d509dd3f914f73d65939df5e |
+| HmIPW-BRC2 | [V2.2.14](changelogs/changelog_HmIPW-BRC2_update_V2_2_14_221020.md) | [HmIPW-BRC2_update_V2_2_14_221020.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-BRC2_update_V2_2_14_221020.tgz) | 1dab5ffaf2b93055edbc32ec230c26686bef5b21b0a7014a4138cde8e40aae4b |
+| HmIPW-DRAP | [V3.0.20](changelogs/changelog_HmIPW-DRAP_3_0_20_231208.md) | [HmIPW-DRAP_3_0_20_231208.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRAP_3_0_20_231208.tgz) | fb866367a12cc1bc54484425e7b373e538c410b46a10da6d89b5f99d0abbee2f |
+| HmIPW-DRAVC | [V1.2.22](changelogs/changelog_HmIPW-DRAVC_update_V1_2_22_251124.md) | [HmIPW-DRAVC_update_V1_2_22_251124.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRAVC_update_V1_2_22_251124.tgz) | db36e046a0d19ebc2e4c84ccd3a7ecd39dd078a9bb27444709d7b0de996275c5 |
+| HmIPW-DRBL4 | [V1.10.18](changelogs/changelog_HmIPW-DRBL4_update_V1_10_18_230728.md) | [HmIPW-DRBL4_update_V1_10_18_230728.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRBL4_update_V1_10_18_230728.tgz) | 0284a2a1d3daae056bd857b7fe6ee2246bf4f200ae25e2a955556c9b3312f719 |
+| HmIPW-DRD3 | [V2.0.6](changelogs/changelog_HmIPW-DRD3_update_V2_0_6_230412.md) | [HmIPW-DRD3_update_V2_0_6_230412.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRD3_update_V2_0_6_230412.tgz) | 5dc13e8576fdf6f6a16954445bb639e00615d69c37c22055a06443749c7c646c |
+| HmIPW-DRI16 | [V1.4.6](changelogs/changelog_HmIPW-DRI16_update_V1_4_6_250526.md) | [HmIPW-DRI16_update_V1_4_6_250526.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRI16_update_V1_4_6_250526.tgz) | 3ccfa784e4c1e7ea26ce2b88ba603c0b8e1378f1107075ea680a7ce488ddebc7 |
+| HmIPW-DRI32 | [V1.4.6](changelogs/changelog_HmIPW-DRI32_update_V1_4_6_250526.md) | [HmIPW-DRI32_update_V1_4_6_250526.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRI32_update_V1_4_6_250526.tgz) | f3d8e42a912185c76a1279d15a576913ab4eb47d593fceb208bf33b4393d858c |
+| HmIPW-DRS4 | [V1.2.6](changelogs/changelog_HmIPW-DRS4_update_V1_2_6_220928.md) | [HmIPW-DRS4_update_V1_2_6_220928.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRS4_update_V1_2_6_220928.tgz) | 0865ce0ec6d2e6f0c4de2f518b0cce0f840b6f746efebd3b4c85de5dba2d8e90 |
+| HmIPW-DRS8 | [V1.2.6](changelogs/changelog_HmIPW-DRS8_update_V1_2_6_220928.md) | [HmIPW-DRS8_update_V1_2_6_220928.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRS8_update_V1_2_6_220928.tgz) | 7d4ece1aa2a578e32732f91c588623af541577a202e6fd5d17ac600372f73fd7 |
+| HmIPW-FAL230-C10 | [V2.4.6](changelogs/changelog_HmIPW_FAL230_C10_update_2_4_6_230815.md) | [HmIPW_FAL230_C10_update_2_4_6_230815.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_FAL230_C10_update_2_4_6_230815.tgz) | 2a7a2b500849df6f4385a146c92af8cf945f38a6d8b394b938a57bf4b1adb9fd |
+| HmIPW-FAL230-C6 | [V2.4.6](changelogs/changelog_HmIPW_FAL230_C6_update_2_4_6_230815.md) | [HmIPW_FAL230_C6_update_2_4_6_230815.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_FAL230_C6_update_2_4_6_230815.tgz) | e488f1e3b822d5df82668ecf573916f709019b45e187d12f3f809e147f78ac17 |
+| HmIPW-FAL24-C10 | [V2.4.6](changelogs/changelog_HmIPW_FAL24_C10_update_2_4_6_230815.md) | [HmIPW_FAL24_C10_update_2_4_6_230815.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_FAL24_C10_update_2_4_6_230815.tgz) | ff80c19f83ba51fc5cbf7e83202eef39f72e35f7e69eb5cb4066a1bd4a68aa5f |
+| HmIPW-FAL24-C6 | [V2.4.6](changelogs/changelog_HmIPW_FAL24_C6_update_2_4_6_230815.md) | [HmIPW_FAL24_C6_update_2_4_6_230815.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_FAL24_C6_update_2_4_6_230815.tgz) | 743ce7770ae988149ea6a825bd6cb75c376430a6a5f158c5705e96455fec6118 |
+| HmIPW-FALMOT-C12 | [V1.6.2](changelogs/changelog_HmIPW-FALMOT-C12_update_V1_6_2_240611.md) | [HmIPW-FALMOT-C12_update_V1_6_2_240611.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-FALMOT-C12_update_V1_6_2_240611.tgz) | 0465289cea4a5c67e666faa58b4e833d83921b1c92bce55dff73483a3f277a33 |
+| HmIPW-FIO6 | [V1.2.10](changelogs/changelog_HmIPW-FIO6_update_V1_2_10_230822.md) | [HmIPW-FIO6_update_V1_2_10_230822.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-FIO6_update_V1_2_10_230822.tgz) | d8bcc7b4c20b9afe1d9afb11ac6a67e5fba2412a9adc500b4d1e7a3555cd4ea5 |
+| HmIPW-SCTHD | [V1.0.12](changelogs/changelog_HmIPW-SCTHD_update_V1_0_12_231130.md) | [HmIPW-SCTHD_update_V1_0_12_231130.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-SCTHD_update_V1_0_12_231130.tgz) | 31352425aa0cf4b7075a3fdfaba1946685234e075abf1189bcd909569810bbfd |
+| HmIPW-SMI55 | [V1.0.20](changelogs/changelog_HmIPW-SMI55_update_V1_0_20_190613.md) | [HmIPW-SMI55_update_V1_0_20_190613.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-SMI55_update_V1_0_20_190613.tgz) | 9da44d4a74d8e5dc9f6971aeae18de52d62f9c2558ae434468d8e4e790aedc03 |
+| HmIPW-SPI | [V1.0.30](changelogs/changelog_HmIPW-SPI_update_V1_0_30_190709.md) | [HmIPW-SPI_update_V1_0_30_190709.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-SPI_update_V1_0_30_190709.tgz) | a470583d127052e1ee67ee5f93adbd5c46b9f0ed9bae771289f1c5daf0ad86e6 |
+| HmIPW-STH | [V3.0.2](changelogs/changelog_HmIPW_STH_update_3_0_2_240503.md) | [HmIPW_STH_update_3_0_2_240503.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_STH_update_3_0_2_240503.tgz) | 60ea3fec600bd235e86ad9da0121d373c6b1d3cd1f5561da979ed4359e3a7f4d |
+| HmIPW-STH-A | [V3.0.2](changelogs/changelog_HmIPW_STH_A_update_3_0_2_240503.md) | [HmIPW_STH_A_update_3_0_2_240503.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_STH_A_update_3_0_2_240503.tgz) | b8eff97bd7ee8e21eff299ccdcedb288ddb203e9aa83fd4e093f72386c93ba24 |
+| HmIPW-STHD | [V3.0.2](changelogs/changelog_HmIPW_STHD_update_3_0_2_240503.md) | [HmIPW_STHD_update_3_0_2_240503.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_STHD_update_3_0_2_240503.tgz) | 4e3a7e54cadc4b922703d379e03556615b6bb0f479a9b7d7b30de63a649cd97a |
+| HmIPW-STHD-A | [V3.0.2](changelogs/changelog_HmIPW_STHD_A_update_3_0_2_240503.md) | [HmIPW_STHD_A_update_3_0_2_240503.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_STHD_A_update_3_0_2_240503.tgz) | 5fce35018e55744e1342d04023e21f02cd43cd83a8e5fce47c6f033bfbc175bc |
+| HmIPW-WGD | [V1.0.24](changelogs/changelog_HmIPW-WGD_update_V1_0_24_231120.md) | [HmIPW-WGD_update_V1_0_24_231120.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-WGD_update_V1_0_24_231120.tgz) | 3cde4d5080006de947a37b81e308f29c842f8308043e7752ee2a6fbba2089be2 |
+| HmIPW-WGD-PL | [V1.0.24](changelogs/changelog_HmIPW-WGD-PL_update_V1_0_24_231120.md) | [HmIPW-WGD-PL_update_V1_0_24_231120.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-WGD-PL_update_V1_0_24_231120.tgz) | fe50ded8ca67c94e506c881f60fb2f40d0eb84e0967a2832b927dfec2a7b517b |
+| HmIPW-WRC2 | [V2.2.14](changelogs/changelog_HmIPW-WRC2_update_V2_2_14_221020.md) | [HmIPW-WRC2_update_V2_2_14_221020.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-WRC2_update_V2_2_14_221020.tgz) | 50960f098b7adc8553eac7de77cd394d3f45b8ddaa5979c6b21560d3d3bb06fd |
+| HmIPW-WRC6 | [V1.2.2](changelogs/changelog_HmIPW-WRC6_update_V1_2_2_221019.md) | [HmIPW-WRC6_update_V1_2_2_221019.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-WRC6_update_V1_2_2_221019.tgz) | 44370bf7ac0a01cdfc95b87f0a038fb14ea2f8caf98cd2ad53321e9f5294e96d |
+| HmIPW-WTH | [V3.0.2](changelogs/changelog_HmIPW_WTH_update_3_0_2_240408.md) | [HmIPW_WTH_update_3_0_2_240408.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_WTH_update_3_0_2_240408.tgz) | 6e53cc357ae1da4168af7db0ae85cba6bd87d4655f003baad9414bb1616e7604 |
+| HmIPW-WTH-A | [V3.0.2](changelogs/changelog_HmIPW_WTH_A_update_3_0_2_240408.md) | [HmIPW_WTH_A_update_3_0_2_240408.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_WTH_A_update_3_0_2_240408.tgz) | 2746ff8d6094ba4499996fba35f79d7c388e226af3fe14ccb4b677177f5818e3 |
 </details>
 <details open><summary>ELV</summary>
 
-| Device Model | Version |
-| ------------- |:-------------:|
-| ELV-SH-BM-S | [V1.0.0](changelogs/changelog_ELV-SH-BM-S_update_V1_0_0_231011.md) |
-| ELV-SH-CTH | [V1.0.10](changelogs/changelog_ELV-SH-CTH_update_V1_0_10_240807.md) |
-| ELV-SH-SMSI | [V1.0.12](changelogs/changelog_ELV-SH-SMSI_update_V1_0_12_250613.md) |
-| ELV-SH-TACO | [V1.2.4](changelogs/changelog_ELV-SH-TACO_update_V1_2_4_250328.md) |
-| ELV-SH-WSC | [V1.0.8](changelogs/changelog_ELV-SH-WSC_update_V1_0_8_211001.md) |
-| ELV-SH-WSM | [V1.2.2](changelogs/changelog_ELV-SH-WSM_update_V1_2_2_250617.md) |
+| Device Model | Version | Download | SHA256 |
+| ------------- |:-------------:| ------------- | ------------- |
+| ELV-SH-BM-S | [V1.0.0](changelogs/changelog_ELV-SH-BM-S_update_V1_0_0_231011.md) | [ELV-SH-BM-S_update_V1_0_0_231011.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-BM-S_update_V1_0_0_231011.tgz) | 8392ba356a22358348f02efa3b36f6914f5808dfa433f388f7845d31280a02d2 |
+| ELV-SH-CTH | [V1.0.10](changelogs/changelog_ELV-SH-CTH_update_V1_0_10_240807.md) | [ELV-SH-CTH_update_V1_0_10_240807.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-CTH_update_V1_0_10_240807.tgz) | f9346eaa06cd3bd4b008c37f363fb27a74ced6520ab910ae81e90f0193f60d14 |
+| ELV-SH-SMSI | [V1.0.12](changelogs/changelog_ELV-SH-SMSI_update_V1_0_12_250613.md) | [ELV-SH-SMSI_update_V1_0_12_250613.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-SMSI_update_V1_0_12_250613.tgz) | 0e8a5f444ce201aeed33a99153d45fa34bf11da150adc2605d429988ed3c267f |
+| ELV-SH-TACO | [V1.2.4](changelogs/changelog_ELV-SH-TACO_update_V1_2_4_250328.md) | [ELV-SH-TACO_update_V1_2_4_250328.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-TACO_update_V1_2_4_250328.tgz) | 7eeb52cfe4a29f5e4ebd752da4d02b1b7ce96a5fc2dba049752ef1184d6c0a0e |
+| ELV-SH-WSC | [V1.0.8](changelogs/changelog_ELV-SH-WSC_update_V1_0_8_211001.md) | [ELV-SH-WSC_update_V1_0_8_211001.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-WSC_update_V1_0_8_211001.tgz) | 3a1221f4e755d259d942ec4fc256fc691cf6df22ffe15085b2be3b63031ad7ed |
+| ELV-SH-WSM | [V1.2.2](changelogs/changelog_ELV-SH-WSM_update_V1_2_2_250617.md) | [ELV-SH-WSM_update_V1_2_2_250617.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-WSM_update_V1_2_2_250617.tgz) | 54af7aa46a158329d11a605ec6101013fd5c2424549de52232f8734fe9c7beeb |
 </details>
 <details open><summary>HM</summary>
 
-| Device Model | Version |
-| ------------- |:-------------:|
-| HM-CC-RT-DN | [V1.5.3](changelogs/changelog_hm_cc_rt_dn_update_V1_5_003_171004.md) |
-| HM-Dis-EP-WM55 | [V1.2.0](changelogs/changelog_hm_dis_ep_wm55_update_V1_2_170129.md) |
-| HM-ES-PMSw1-Pl | [V2.6.0](changelogs/changelog_HM-ES-PMSw1-Pl_update_V2_6_0000_150812.md) |
-| HM-ES-PMSw1-Pl-DN-R1 | [V2.6.0](changelogs/changelog_HM-ES-PMSw1-Pl-DN-R1_update_V2_6_0000_150812.md) |
-| HM-ES-PMSw1-Pl-DN-R2 | [V2.6.0](changelogs/changelog_HM-ES-PMSw1-Pl-DN-R2_update_V2_6_0000_150812.md) |
-| HM-ES-PMSw1-Pl-DN-R3 | [V2.6.0](changelogs/changelog_HM-ES-PMSw1-Pl-DN-R3_update_V2_6_0000_150812.md) |
-| HM-ES-PMSw1-Pl-DN-R4 | [V2.6.0](changelogs/changelog_HM-ES-PMSw1-Pl-DN-R4_update_V2_6_0000_150812.md) |
-| HM-ES-PMSw1-Pl-DN-R5 | [V2.6.0](changelogs/changelog_HM-ES-PMSw1-Pl-DN-R5_update_V2_6_0000_150812.md) |
-| HM-LC-Bl1PBU-FM | [V2.11.1](changelogs/changelog_HM-LC-Bl1PBU-FM_update_V2_11_1_161212.md) |
-| HM-LC-Dim1L-Pl-3 | [V2.9.7](changelogs/changelog_HM-LC-Dim1L-Pl-3_update_V2_9_0007_150803.md) |
-| HM-LC-Dim1PWM-CV | [V2.9.5](changelogs/changelog_HM-LC-Dim1PWM-CV_update_V2_9_0005_150730.md) |
-| HM-LC-Dim1T-DR | [V1.1.0](changelogs/changelog_HM-LC-Dim1T-DR_update_V1_1_0_171122.md) |
-| HM-LC-Dim1T-Pl-3 | [V2.9.5](changelogs/changelog_HM-LC-Dim1T-Pl-3_update_V2_9_0005_150730.md) |
-| HM-LC-Dim1TPBU-FM | [V2.9.5](changelogs/changelog_HM-LC-Dim1TPBU-FM_update_V2_9_0005_150730.md) |
-| HM-LC-Sw1-Pl-DN-R1 | [V2.6.0](changelogs/changelog_HM-LC-Sw1-Pl-DN-R1_update_V2_6_0000_150812.md) |
-| HM-LC-Sw1-Pl-DN-R2 | [V2.6.0](changelogs/changelog_HM-LC-Sw1-Pl-DN-R2_update_V2_6_0000_150812.md) |
-| HM-LC-Sw1-Pl-DN-R3 | [V2.6.0](changelogs/changelog_HM-LC-Sw1-Pl-DN-R3_update_V2_6_0000_150812.md) |
-| HM-LC-Sw1-Pl-DN-R4 | [V2.6.0](changelogs/changelog_HM-LC-Sw1-Pl-DN-R4_update_V2_6_0000_150812.md) |
-| HM-LC-Sw1-Pl-DN-R5 | [V2.6.0](changelogs/changelog_HM-LC-Sw1-Pl-DN-R5_update_V2_6_0000_150812.md) |
-| HM-LC-Sw1PBU-FM | [V2.8.2](changelogs/changelog_HM-LC-Sw1PBU-FM_update_V2_8_2_150713.md) |
-| HM-MOD-Re-8 | [V1.4.1](changelogs/changelog_hm-mod-re-8_update_V1_4_161111.md) |
-| HM-OU-CFM-Pl | [V2.4.2](changelogs/changelog_hm-ou-cfm-pl_update_V2_4_150930.md) |
-| HM-OU-CFM-TW | [V1.3.0](changelogs/changelog_hm-ou-cfm-tw_update_V1_3_160620.md) |
-| HM-Sen-MDIR-WM55 | [V1.2.0](changelogs/changelog_HM-Sen-MDIR-WM55_update_V1_2_0_160825.md) |
-| HM-TC-IT-WM-W-EU | [V1.4.2](changelogs/changelog_hm_tc_it_wm_w_eu_update_V1_4_002_171018.md) |
+| Device Model | Version | Download | SHA256 |
+| ------------- |:-------------:| ------------- | ------------- |
+| HM-CC-RT-DN | [V1.5.3](changelogs/changelog_hm_cc_rt_dn_update_V1_5_003_171004.md) | [hm_cc_rt_dn_update_V1_5_003_171004.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm_cc_rt_dn_update_V1_5_003_171004.tgz) | cd55e997cc7bce919133f6d31ad9b68ec6ef02ed7cb88792c7a81089b1002700 |
+| HM-Dis-EP-WM55 | [V1.2.0](changelogs/changelog_hm_dis_ep_wm55_update_V1_2_170129.md) | [hm_dis_ep_wm55_update_V1_2_170129.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm_dis_ep_wm55_update_V1_2_170129.tgz) | 36f8edf125e63ce548ca7c59cb82029ef8cbc9b323b11782cf67df5c733a810a |
+| HM-ES-PMSw1-Pl | [V2.6.0](changelogs/changelog_HM-ES-PMSw1-Pl_update_V2_6_0000_150812.md) | [HM-ES-PMSw1-Pl_update_V2_6_0000_150812.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-ES-PMSw1-Pl_update_V2_6_0000_150812.tgz) | d7d043edba1a5d9c2b7f115a866e49fcd9bec1d11b7669d109190ce41a426cfc |
+| HM-ES-PMSw1-Pl-DN-R1 | [V2.6.0](changelogs/changelog_HM-ES-PMSw1-Pl-DN-R1_update_V2_6_0000_150812.md) | [HM-ES-PMSw1-Pl-DN-R1_update_V2_6_0000_150812.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-ES-PMSw1-Pl-DN-R1_update_V2_6_0000_150812.tgz) | a90a49b940675e78ed558a34606039ac912f9dd7b00439f6f0f171562cd4f5f8 |
+| HM-ES-PMSw1-Pl-DN-R2 | [V2.6.0](changelogs/changelog_HM-ES-PMSw1-Pl-DN-R2_update_V2_6_0000_150812.md) | [HM-ES-PMSw1-Pl-DN-R2_update_V2_6_0000_150812.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-ES-PMSw1-Pl-DN-R2_update_V2_6_0000_150812.tgz) | 9f64e38d0d674c9aca53f79055ad721f20695aaff7e131dbb76d11967c24ed07 |
+| HM-ES-PMSw1-Pl-DN-R3 | [V2.6.0](changelogs/changelog_HM-ES-PMSw1-Pl-DN-R3_update_V2_6_0000_150812.md) | [HM-ES-PMSw1-Pl-DN-R3_update_V2_6_0000_150812.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-ES-PMSw1-Pl-DN-R3_update_V2_6_0000_150812.tgz) | 818eb9ef8637f3bb0b4cbecc9d157d4ed1a461f8b2aec214fdb51b6c3847688a |
+| HM-ES-PMSw1-Pl-DN-R4 | [V2.6.0](changelogs/changelog_HM-ES-PMSw1-Pl-DN-R4_update_V2_6_0000_150812.md) | [HM-ES-PMSw1-Pl-DN-R4_update_V2_6_0000_150812.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-ES-PMSw1-Pl-DN-R4_update_V2_6_0000_150812.tgz) | 4a5358eb3a2431372cbd890cf1886a6d296b0be8b544ebf2300bc3637b8e7e71 |
+| HM-ES-PMSw1-Pl-DN-R5 | [V2.6.0](changelogs/changelog_HM-ES-PMSw1-Pl-DN-R5_update_V2_6_0000_150812.md) | [HM-ES-PMSw1-Pl-DN-R5_update_V2_6_0000_150812.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-ES-PMSw1-Pl-DN-R5_update_V2_6_0000_150812.tgz) | 37dae2ab82687f4139137895dae892d4db6b26a7c29f41f6d768c4f127c96a2f |
+| HM-LC-Bl1PBU-FM | [V2.11.1](changelogs/changelog_HM-LC-Bl1PBU-FM_update_V2_11_1_161212.md) | [HM-LC-Bl1PBU-FM_update_V2_11_1_161212.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Bl1PBU-FM_update_V2_11_1_161212.tgz) | f5e2bfa47a5348026d3a73aee9c55e09e2a48b45bbed44fa11afe97a1a1dc8c4 |
+| HM-LC-Dim1L-Pl-3 | [V2.9.7](changelogs/changelog_HM-LC-Dim1L-Pl-3_update_V2_9_0007_150803.md) | [HM-LC-Dim1L-Pl-3_update_V2_9_0007_150803.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Dim1L-Pl-3_update_V2_9_0007_150803.tgz) | 8c0966f09728a6a9e494d174d2368940ac2d87e64f33e0f7343ab86dc4acfc82 |
+| HM-LC-Dim1PWM-CV | [V2.9.5](changelogs/changelog_HM-LC-Dim1PWM-CV_update_V2_9_0005_150730.md) | [HM-LC-Dim1PWM-CV_update_V2_9_0005_150730.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Dim1PWM-CV_update_V2_9_0005_150730.tgz) | 9c0d9746bb592cfdb2b5b0086cea60ee5348ce11a69da0e803e14ed2dcad35b6 |
+| HM-LC-Dim1T-DR | [V1.1.0](changelogs/changelog_HM-LC-Dim1T-DR_update_V1_1_0_171122.md) | [HM-LC-Dim1T-DR_update_V1_1_0_171122.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Dim1T-DR_update_V1_1_0_171122.tgz) | 4a4634cd2ae0fdc77c2183c9ac7f206f4ad172b286bcfcf597eb7df2c1895d6f |
+| HM-LC-Dim1T-Pl-3 | [V2.9.5](changelogs/changelog_HM-LC-Dim1T-Pl-3_update_V2_9_0005_150730.md) | [HM-LC-Dim1T-Pl-3_update_V2_9_0005_150730.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Dim1T-Pl-3_update_V2_9_0005_150730.tgz) | 6436c613b09b60a650e0e3772adb14871f58a82d374504d60c8da672d1e3b082 |
+| HM-LC-Dim1TPBU-FM | [V2.9.5](changelogs/changelog_HM-LC-Dim1TPBU-FM_update_V2_9_0005_150730.md) | [HM-LC-Dim1TPBU-FM_update_V2_9_0005_150730.tar.gz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Dim1TPBU-FM_update_V2_9_0005_150730.tar.gz) | dd0f2080c90111a0c6bf9f70cf23edfbe2b9e7428cef4b2b1994e8003ca90f41 |
+| HM-LC-Sw1-Pl-DN-R1 | [V2.6.0](changelogs/changelog_HM-LC-Sw1-Pl-DN-R1_update_V2_6_0000_150812.md) | [HM-LC-Sw1-Pl-DN-R1_update_V2_6_0000_150812.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Sw1-Pl-DN-R1_update_V2_6_0000_150812.tgz) | ea69b552fcb5c0f4a89878d02fe8f2026ecdc348c17081ed5f990d3e66e111e9 |
+| HM-LC-Sw1-Pl-DN-R2 | [V2.6.0](changelogs/changelog_HM-LC-Sw1-Pl-DN-R2_update_V2_6_0000_150812.md) | [HM-LC-Sw1-Pl-DN-R2_update_V2_6_0000_150812.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Sw1-Pl-DN-R2_update_V2_6_0000_150812.tgz) | 4ffb79ebea3ee6afe3b33d9e91b8a6b81bf49922e661275589b5d2848875e349 |
+| HM-LC-Sw1-Pl-DN-R3 | [V2.6.0](changelogs/changelog_HM-LC-Sw1-Pl-DN-R3_update_V2_6_0000_150812.md) | [HM-LC-Sw1-Pl-DN-R3_update_V2_6_0000_150812.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Sw1-Pl-DN-R3_update_V2_6_0000_150812.tgz) | af0d4d892e901315bc63463ca8019a8965b5155c1afc81c677fc527219e75029 |
+| HM-LC-Sw1-Pl-DN-R4 | [V2.6.0](changelogs/changelog_HM-LC-Sw1-Pl-DN-R4_update_V2_6_0000_150812.md) | [HM-LC-Sw1-Pl-DN-R4_update_V2_6_0000_150812.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Sw1-Pl-DN-R4_update_V2_6_0000_150812.tgz) | d2586b5b384bd09fe8419664cf328159edd42f493dd47f3098ee2dfdf6bf3d7a |
+| HM-LC-Sw1-Pl-DN-R5 | [V2.6.0](changelogs/changelog_HM-LC-Sw1-Pl-DN-R5_update_V2_6_0000_150812.md) | [HM-LC-Sw1-Pl-DN-R5_update_V2_6_0000_150812.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Sw1-Pl-DN-R5_update_V2_6_0000_150812.tgz) | 22e917d26550f697e4626d174f5d6b75aa2c67db44d877224947b70649695067 |
+| HM-LC-Sw1PBU-FM | [V2.8.2](changelogs/changelog_HM-LC-Sw1PBU-FM_update_V2_8_2_150713.md) | [HM-LC-Sw1PBU-FM_update_V2_8_2_150713.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Sw1PBU-FM_update_V2_8_2_150713.tgz) | f03e9a54bea00cb0dbfea5953e1a645b95b89bd3e96d86de32dba31e3ede3f0e |
+| HM-MOD-Re-8 | [V1.4.1](changelogs/changelog_hm-mod-re-8_update_V1_4_161111.md) | [hm-mod-re-8_update_V1_4_161111.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm-mod-re-8_update_V1_4_161111.tgz) | 2aa6a022b62bf3f275d6a90e5d8668fb2274cf1f33b2537dd2cd349c3eabce5d |
+| HM-OU-CFM-Pl | [V2.4.2](changelogs/changelog_hm-ou-cfm-pl_update_V2_4_150930.md) | [hm-ou-cfm-pl_update_V2_4_150930.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm-ou-cfm-pl_update_V2_4_150930.tgz) | d5bacbacf3a5ab1751069611a5570b78ae7eda319692b550a72bc356e43d580b |
+| HM-OU-CFM-TW | [V1.3.0](changelogs/changelog_hm-ou-cfm-tw_update_V1_3_160620.md) | [hm-ou-cfm-tw_update_V1_3_160620.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm-ou-cfm-tw_update_V1_3_160620.tgz) | 387c263491b6532558ab08fa49e40bbe164f8b89b59e0e3bd71fe10278a32c2e |
+| HM-Sen-MDIR-WM55 | [V1.2.0](changelogs/changelog_HM-Sen-MDIR-WM55_update_V1_2_0_160825.md) | [HM-Sen-MDIR-WM55_update_V1_2_0_160825.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-Sen-MDIR-WM55_update_V1_2_0_160825.tgz) | 92846022dde3a010c3dcbdf514ccd029614c7fce4b753048c48e90b42016a940 |
+| HM-TC-IT-WM-W-EU | [V1.4.2](changelogs/changelog_hm_tc_it_wm_w_eu_update_V1_4_002_171018.md) | [hm_tc_it_wm_w_eu_update_V1_4_002_171018.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm_tc_it_wm_w_eu_update_V1_4_002_171018.tgz) | 387c669fa61db800b63aa7ad7d26ba78d1f77a89c1550e0be36696ce0463fd26 |
 </details>

@@ -1,3 +1,6 @@
+## [HmIP-SMI55_update_V1_2_4_220711.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMI55_update_V1_2_4_220711.tgz)
+sha256: 2f53259195a71478b1ab3a27fbe66cf5d658f70fb9c8cc0dcb7758cedb47b715
+
 C H A N G E L O G
 -----------------
 

@@ -1,3 +1,6 @@
+## [HmIP-FCI1_update_V1_0_14_181114.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FCI1_update_V1_0_14_181114.tgz)
+sha256: bfd7f9ff6ba870172909c49c82ee14064a5ac6904e0fd6f50c4a6cda2bd78b6d
+
 C H A N G E L O G
 -----------------
 

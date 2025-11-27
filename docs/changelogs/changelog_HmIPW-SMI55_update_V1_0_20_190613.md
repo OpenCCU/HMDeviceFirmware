@@ -1,3 +1,6 @@
+## [HmIPW-SMI55_update_V1_0_20_190613.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-SMI55_update_V1_0_20_190613.tgz)
+sha256: 9da44d4a74d8e5dc9f6971aeae18de52d62f9c2558ae434468d8e4e790aedc03
+
 C H A N G E L O G
 -----------------
 

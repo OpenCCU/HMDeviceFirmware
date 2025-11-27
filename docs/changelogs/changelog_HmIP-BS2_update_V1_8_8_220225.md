@@ -1,3 +1,6 @@
+## [HmIP-BS2_update_V1_8_8_220225.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BS2_update_V1_8_8_220225.tgz)
+sha256: 984db7a7cd8931c63c90879f64b2da44b04bc4055052b49c6d38c384abc847e7
+
 C H A N G E L O G
 -----------------
 

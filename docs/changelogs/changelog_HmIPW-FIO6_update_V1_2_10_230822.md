@@ -1,3 +1,6 @@
+## [HmIPW-FIO6_update_V1_2_10_230822.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-FIO6_update_V1_2_10_230822.tgz)
+sha256: d8bcc7b4c20b9afe1d9afb11ac6a67e5fba2412a9adc500b4d1e7a3555cd4ea5
+
 C H A N G E L O G
 -----------------
 

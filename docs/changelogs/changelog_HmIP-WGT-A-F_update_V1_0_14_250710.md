@@ -1,3 +1,6 @@
+## [HmIP-WGT-A-F_update_V1_0_14_250710.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WGT-A-F_update_V1_0_14_250710.tgz)
+sha256: 4cabc979617018326155ad23adb625babd430b9938248c6ace96da17054bed58
+
 C H A N G E L O G
 -----------------
 

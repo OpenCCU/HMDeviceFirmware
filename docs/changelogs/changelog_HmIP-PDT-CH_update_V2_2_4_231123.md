@@ -1,3 +1,6 @@
+## [HmIP-PDT-CH_update_V2_2_4_231123.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PDT-CH_update_V2_2_4_231123.tgz)
+sha256: 748acf6a6e29da7c2bfb5886c12faac6ac5251dfc48ea850c70e757b3d97607b
+
 C H A N G E L O G
 -----------------
 

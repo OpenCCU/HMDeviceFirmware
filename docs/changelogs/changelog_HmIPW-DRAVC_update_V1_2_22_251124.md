@@ -1,3 +1,6 @@
+## [HmIPW-DRAVC_update_V1_2_22_251124.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRAVC_update_V1_2_22_251124.tgz)
+sha256: db36e046a0d19ebc2e4c84ccd3a7ecd39dd078a9bb27444709d7b0de996275c5
+
 C H A N G E L O G
 -----------------
 

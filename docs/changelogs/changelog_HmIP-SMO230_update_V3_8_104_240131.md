@@ -1,3 +1,6 @@
+## [HmIP-SMO230_update_V3_8_104_240131.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO230_update_V3_8_104_240131.tgz)
+sha256: 504697e2680d9b196b6586f1616a91161443715045597cc241e5d6de31d72d5f
+
 C H A N G E L O G
 -----------------
 

@@ -1,3 +1,6 @@
+## [HmIP-WGS-F_update_V1_0_22_250417.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WGS-F_update_V1_0_22_250417.tgz)
+sha256: baebec140c3d06e1a7a4d093bf654d9a65e5ea781a02273b1a2b042ddb99215b
+
 C H A N G E L O G
 -----------------
 

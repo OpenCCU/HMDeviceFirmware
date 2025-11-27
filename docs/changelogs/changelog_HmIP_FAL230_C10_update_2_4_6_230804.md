@@ -1,3 +1,6 @@
+## [HmIP_FAL230_C10_update_2_4_6_230804.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_FAL230_C10_update_2_4_6_230804.tgz)
+sha256: ac918fd69393f9d196c36b86dd6bb59feb34bd3f0ce96edaf65e90361cf3980b
+
 C H A N G E L O G
 -----------------
 

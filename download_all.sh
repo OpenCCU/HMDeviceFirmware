@@ -8,12 +8,11 @@ pref_ELV="ELV"
 rm -f run_*
 rm -f *.tar.gz
 rm -f *.tgz
-current_date=`date +%Y-%m-%d-%H-%M-%S`
-runfile="run_${current_date}.txt"
+runfile="run_log.txt"
 touch ${runfile}
 
-ip=$(curl -s https://api.ipify.org)
-echo "External IP: $ip" | tee -a ${runfile}
+#ip=$(curl -s https://api.ipify.org)
+#echo "External IP: $ip" | tee -a ${runfile}
 
 echo "Getting firmware list" | tee -a ${runfile}
 output=`curl -s 'https://update.homematic.com/firmware/api/firmware/search/DEVICE' | sed s/'homematic.com.setDeviceFirmwareVersions('/''/ | sed s/');'/''/ |  jq -r '.[] | "\(.type)"'|sort -u`
@@ -52,12 +51,16 @@ for f in *gz; do
   #parse changelog
   changelog=`tar -ztf $f|grep changelog.txt||true`
   if [ -z "$changelog" ]; then
-    echo "$f has no changelog.txt" | tee -a ${runfile}
+    echo "WARNING: $f has no changelog.txt" | tee -a ${runfile}
   else
+    SHA256SUM=$(sha256sum ${f} | cut -d' ' -f1)
     tar -zxf $f changelog.txt
-    iconv -f ISO-8859-1 -t UTF-8 changelog.txt > ./docs/changelogs/changelog_${f%%.*}.md
+    echo "## [${f}](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/${pref}/${f})" >./docs/changelogs/changelog_${f%%.*}.md
+    echo "sha256: ${SHA256SUM}" >>./docs/changelogs/changelog_${f%%.*}.md
+    echo "" >>./docs/changelogs/changelog_${f%%.*}.md
+    iconv -f ISO-8859-1 -t UTF-8 changelog.txt >>./docs/changelogs/changelog_${f%%.*}.md
     rm changelog.txt
-    echo "| ${fwdevicename} | [V${fwversion}](changelogs/changelog_${f%%.*}.md) |" >> ./docs/_index.md.tmp.$pref
+    echo "| ${fwdevicename} | [V${fwversion}](changelogs/changelog_${f%%.*}.md) | [${f}](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/${pref}/${f}) | ${SHA256SUM} |" >> ./docs/_index.md.tmp.$pref
   fi
   
   [ ! -d $pref ] && mkdir $pref
@@ -67,8 +70,8 @@ done
 [ -f "info" ] && rm info
 
 #Build final index.md file
-generation_time=`date +'%d.%m.%Y, %H:%M:%S Uhr'`
-echo "## Homematic Device Firmware Changelogs"    > ./docs/index.md
+generation_time=$(date --utc +'%d.%m.%Y, %H:%M:%S UTC')
+echo "## HomeMatic / Homematic IP Device Firmware Archive"    > ./docs/index.md
 echo ""                                          >> ./docs/index.md
 echo "_last generated: ${generation_time}_"      >> ./docs/index.md
 echo ""                                          >> ./docs/index.md
@@ -77,8 +80,8 @@ for i in "${pref_arr[@]}"
 do
   echo "<details open><summary>$i</summary>"     >> ./docs/index.md
   echo ""                                        >> ./docs/index.md
-  echo "| Device Model | Version |"              >> ./docs/index.md
-  echo "| ------------- |:-------------:|"       >> ./docs/index.md
+  echo "| Device Model | Version | Download | SHA256 |"              >> ./docs/index.md
+  echo "| ------------- |:-------------:| ------------- | ------------- |"       >> ./docs/index.md
   cat ./docs/_index.md.tmp.$i | sort             >> ./docs/index.md
   echo "</details>"                              >> ./docs/index.md
 done

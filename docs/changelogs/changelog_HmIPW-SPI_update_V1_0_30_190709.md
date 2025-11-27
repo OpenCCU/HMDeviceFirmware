@@ -1,3 +1,6 @@
+## [HmIPW-SPI_update_V1_0_30_190709.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-SPI_update_V1_0_30_190709.tgz)
+sha256: a470583d127052e1ee67ee5f93adbd5c46b9f0ed9bae771289f1c5daf0ad86e6
+
 C H A N G E L O G
 -----------------
 

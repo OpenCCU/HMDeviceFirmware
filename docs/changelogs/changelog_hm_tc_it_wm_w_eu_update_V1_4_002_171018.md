@@ -1,3 +1,6 @@
+## [hm_tc_it_wm_w_eu_update_V1_4_002_171018.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm_tc_it_wm_w_eu_update_V1_4_002_171018.tgz)
+sha256: 387c669fa61db800b63aa7ad7d26ba78d1f77a89c1550e0be36696ce0463fd26
+
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit dem Firmware Update Tool ab Version 1.1 sowie der CCU2 ab Version 2.9.0.
 
 Die aktuellste Version des Firmware Update Tools finden Sie im Downloadbereich der Website www.eQ-3.de.

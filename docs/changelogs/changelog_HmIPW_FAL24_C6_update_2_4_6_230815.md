@@ -1,3 +1,6 @@
+## [HmIPW_FAL24_C6_update_2_4_6_230815.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_FAL24_C6_update_2_4_6_230815.tgz)
+sha256: 743ce7770ae988149ea6a825bd6cb75c376430a6a5f158c5705e96455fec6118
+
 C H A N G E L O G
 -----------------
 

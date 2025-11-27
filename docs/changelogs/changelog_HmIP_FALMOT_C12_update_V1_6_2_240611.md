@@ -1,3 +1,6 @@
+## [HmIP_FALMOT_C12_update_V1_6_2_240611.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_FALMOT_C12_update_V1_6_2_240611.tgz)
+sha256: 53ae19ca1dc1f2b8ab4148ec6ed36b80b6b424db71a6126fd67e1e9631da14f5
+
 C H A N G E L O G
 -----------------
 

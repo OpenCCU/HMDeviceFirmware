@@ -1,3 +1,6 @@
+## [HmIP-WSM_update_V1_2_2_250617.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WSM_update_V1_2_2_250617.tgz)
+sha256: a61c85c67a76c2bc3e4d02017398d3330842935bcb1455762a98b21986f77b60
+
 C H A N G E L O G
 -----------------
 

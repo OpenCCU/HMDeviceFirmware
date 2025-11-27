@@ -1,3 +1,6 @@
+## [HmIPW_STHD_A_update_3_0_2_240503.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_STHD_A_update_3_0_2_240503.tgz)
+sha256: 5fce35018e55744e1342d04023e21f02cd43cd83a8e5fce47c6f033bfbc175bc
+
 C H A N G E L O G
 -----------------
 

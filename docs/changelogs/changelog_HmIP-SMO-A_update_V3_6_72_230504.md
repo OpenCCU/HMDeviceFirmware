@@ -1,3 +1,6 @@
+## [HmIP-SMO-A_update_V3_6_72_230504.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO-A_update_V3_6_72_230504.tgz)
+sha256: b4ba91e6b4812770e1401b23abcdaa3fabb5a5cedfd37c93135246655b0d9bbc
+
 C H A N G E L O G
 -----------------
 

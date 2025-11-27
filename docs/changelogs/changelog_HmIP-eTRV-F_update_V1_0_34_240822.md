@@ -1,3 +1,6 @@
+## [HmIP-eTRV-F_update_V1_0_34_240822.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-F_update_V1_0_34_240822.tgz)
+sha256: 579c02c00b65285357ca62583719b39877651c712c366a2c52c872bc77a2a632
+
 C H A N G E L O G
 -----------------
 

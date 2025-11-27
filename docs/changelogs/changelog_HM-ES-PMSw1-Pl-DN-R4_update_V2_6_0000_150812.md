@@ -1,3 +1,6 @@
+## [HM-ES-PMSw1-Pl-DN-R4_update_V2_6_0000_150812.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-ES-PMSw1-Pl-DN-R4_update_V2_6_0000_150812.tgz)
+sha256: 4a5358eb3a2431372cbd890cf1886a6d296b0be8b544ebf2300bc3637b8e7e71
+
 C H A N G E L O G
 -----------------
 

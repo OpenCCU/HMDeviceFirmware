@@ -1,3 +1,6 @@
+## [HmIP-STE2-PCB_update_V1_0_28_220930.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-STE2-PCB_update_V1_0_28_220930.tgz)
+sha256: 92aecfcc265bb4e0ef2dc7266ca591400dbe17e56f45b4e65701710f2ffb936b
+
 C H A N G E L O G
 -----------------
 

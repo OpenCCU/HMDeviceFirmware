@@ -1,3 +1,6 @@
+## [HmIP-SWO-PL_update_V1_2_8_240417.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWO-PL_update_V1_2_8_240417.tgz)
+sha256: 92c0dbbc062549c5a3b8c062a7cf5039191b1540bfe0da63b81dfae5fca1fe71
+
 C H A N G E L O G
 -----------------
 

@@ -1,3 +1,6 @@
+## [HM-LC-Dim1TPBU-FM_update_V2_9_0005_150730.tar.gz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Dim1TPBU-FM_update_V2_9_0005_150730.tar.gz)
+sha256: dd0f2080c90111a0c6bf9f70cf23edfbe2b9e7428cef4b2b1994e8003ca90f41
+
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der aktuellsten CCU2/3 Version.
 
 Please note: Only use the firmware file in connection with the latest CCU2/3 version.

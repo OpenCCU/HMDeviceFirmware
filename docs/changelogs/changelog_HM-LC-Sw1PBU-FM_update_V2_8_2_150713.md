@@ -1,3 +1,6 @@
+## [HM-LC-Sw1PBU-FM_update_V2_8_2_150713.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Sw1PBU-FM_update_V2_8_2_150713.tgz)
+sha256: f03e9a54bea00cb0dbfea5953e1a645b95b89bd3e96d86de32dba31e3ede3f0e
+
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der aktuellsten CCU2/3 Version.
 
 Please note: Only use the firmware file in connection with the latest CCU2/3 version.

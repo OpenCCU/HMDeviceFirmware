@@ -1,3 +1,6 @@
+## [HmIP-WRCC2_update_V2_2_14_220406.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRCC2_update_V2_2_14_220406.tgz)
+sha256: 0b75d280619917289a5fa043e7778ac76b4ad685a9d9a19da566aa0c538c78f1
+
 C H A N G E L O G
 -----------------
 

@@ -1,3 +1,6 @@
+## [HMIP-WRC6_update_V2_2_14_220324.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HMIP-WRC6_update_V2_2_14_220324.tgz)
+sha256: e41349f09a7f51bbeea1e9477792a24df677af6a5be57de6296e7602645a8da5
+
 C H A N G E L O G
 -----------------
 

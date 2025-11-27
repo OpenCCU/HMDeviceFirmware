@@ -1,3 +1,6 @@
+## [HmIP_STHD_A_update_3_0_2_240430.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_STHD_A_update_3_0_2_240430.tgz)
+sha256: 89289f7520597848a08d47ceaf4e78134a80ccb44a2264451e2214e8043d3baf
+
 C H A N G E L O G
 -----------------
 

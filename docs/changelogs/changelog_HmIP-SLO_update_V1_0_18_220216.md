@@ -1,3 +1,6 @@
+## [HmIP-SLO_update_V1_0_18_220216.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SLO_update_V1_0_18_220216.tgz)
+sha256: ae7426df184c9cf7277efd92d8c32fa9905521ea9fcf74be6502957475766c15
+
 ï»¿C H A N G E L O G
 -----------------
 

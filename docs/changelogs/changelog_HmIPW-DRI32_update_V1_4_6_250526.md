@@ -1,3 +1,6 @@
+## [HmIPW-DRI32_update_V1_4_6_250526.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRI32_update_V1_4_6_250526.tgz)
+sha256: f3d8e42a912185c76a1279d15a576913ab4eb47d593fceb208bf33b4393d858c
+
 C H A N G E L O G
 -----------------
 

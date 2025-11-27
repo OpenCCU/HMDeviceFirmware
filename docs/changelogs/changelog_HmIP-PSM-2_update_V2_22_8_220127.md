@@ -1,3 +1,6 @@
+## [HmIP-PSM-2_update_V2_22_8_220127.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PSM-2_update_V2_22_8_220127.tgz)
+sha256: d9752c3f93c062dcfe1a9aa5a8ac1f2591b68bc518cc01cdaba845179bf7f55c
+
 C H A N G E L O G
 -----------------
 

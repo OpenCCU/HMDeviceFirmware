@@ -1,3 +1,6 @@
+## [HmIP-SWDO-A_update_V1_18_6_230522.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWDO-A_update_V1_18_6_230522.tgz)
+sha256: ac1dabf6964476fe7e115d5cff99e45a044d742570e0eeb054f45178dcebe801
+
 C H A N G E L O G
 -----------------
 

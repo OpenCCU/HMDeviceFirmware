@@ -1,3 +1,6 @@
+## [HmIP-KRCA-2_update_V2_6_2_240925.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-KRCA-2_update_V2_6_2_240925.tgz)
+sha256: 100ebbb809d319a9470ed15f63dd0912a6bea36cba55409a1bd9a9c124ef0c2a
+
 C H A N G E L O G
 -----------------
 

@@ -1,3 +1,6 @@
+## [HmIP-SPI_update_V1_4_0_180314.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SPI_update_V1_4_0_180314.tgz)
+sha256: 120d7adb460695e2b02fbb81e7325d6febdbbff9bbe380bced8cd96db1b8d51a
+
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2/3 ab
 Version 2(3).29.23
 

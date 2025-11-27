@@ -1,3 +1,6 @@
+## [HmIP-BSM_update_V1_18_24_221207.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BSM_update_V1_18_24_221207.tgz)
+sha256: 72c03573f847fb2d1e8b7b70032b565790d51644155f42afe23ebbb300137c04
+
 C H A N G E L O G
 -----------------
 

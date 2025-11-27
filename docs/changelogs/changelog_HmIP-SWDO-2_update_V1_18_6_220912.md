@@ -1,3 +1,6 @@
+## [HmIP-SWDO-2_update_V1_18_6_220912.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWDO-2_update_V1_18_6_220912.tgz)
+sha256: 4a8f3e86ee34d14a07a9a1f68a33919f0eaaf376a9852d26d0b124d1839e8d9a
+
 C H A N G E L O G 
 ----------------- 
 Please note: Only use the firmware file in connection with the current software-version of the CCUx! 

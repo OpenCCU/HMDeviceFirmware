@@ -1,3 +1,6 @@
+## [HmIP-WRC2_update_V1_18_2_230207.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRC2_update_V1_18_2_230207.tgz)
+sha256: 3a35fd8dafe0372ca17737e61cf4836cfd84285522eb0272a0f332cdd7fc826c
+
 C H A N G E L O G
 -----------------
 
