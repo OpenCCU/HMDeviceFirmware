@@ -1,5 +1,5 @@
 ## [HmIP-BBL-2_update_V1_10_16_230626.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BBL-2_update_V1_10_16_230626.tgz)
-sha256: dc17acc6c02bf4b0e0affb22194e27110edbb192948433117b23bfc30201bd5b
+<sub>sha256: dc17acc6c02bf4b0e0affb22194e27110edbb192948433117b23bfc30201bd5b</sub>
 
 C H A N G E L O G
 -----------------

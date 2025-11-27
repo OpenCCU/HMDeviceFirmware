@@ -1,5 +1,5 @@
 ## [HmIP-MP3P_update_V1_0_30_240515.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-MP3P_update_V1_0_30_240515.tgz)
-sha256: 4b2e0252ba54a0df7f0b95804c20038e531833cb4fb6bdea89ace0988889516e
+<sub>sha256: 4b2e0252ba54a0df7f0b95804c20038e531833cb4fb6bdea89ace0988889516e</sub>
 
 C H A N G E L O G
 -----------------

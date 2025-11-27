@@ -56,11 +56,11 @@ for f in *gz; do
     SHA256SUM=$(sha256sum ${f} | cut -d' ' -f1)
     tar -zxf $f changelog.txt
     echo "## [${f}](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/${pref}/${f})" >./docs/changelogs/changelog_${f%%.*}.md
-    echo "sha256: ${SHA256SUM}" >>./docs/changelogs/changelog_${f%%.*}.md
+    echo "<sub>sha256: ${SHA256SUM}</sub>" >>./docs/changelogs/changelog_${f%%.*}.md
     echo "" >>./docs/changelogs/changelog_${f%%.*}.md
     iconv -f ISO-8859-1 -t UTF-8 changelog.txt >>./docs/changelogs/changelog_${f%%.*}.md
     rm changelog.txt
-    echo "| ${fwdevicename} | [V${fwversion}](changelogs/changelog_${f%%.*}.md) | [${f}](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/${pref}/${f}) | ${SHA256SUM} |" >> ./docs/_index.md.tmp.$pref
+    echo "| ${fwdevicename} | [V${fwversion}](changelogs/changelog_${f%%.*}.md) | [<sub>${f}</sub>](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/${pref}/${f}) | <sub>${SHA256SUM}</sub> |" >> ./docs/_index.md.tmp.$pref
   fi
   
   [ ! -d $pref ] && mkdir $pref
@@ -73,7 +73,7 @@ done
 generation_time=$(date --utc +'%d.%m.%Y, %H:%M:%S UTC')
 echo "## HomeMatic / Homematic IP Device Firmware Archive"    > ./docs/index.md
 echo ""                                          >> ./docs/index.md
-echo "_last generated: ${generation_time}_"      >> ./docs/index.md
+echo "_last generated: ${generation_time}_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))"      >> ./docs/index.md
 echo ""                                          >> ./docs/index.md
 declare -a pref_arr=($pref_HmIP $pref_HmIPW $pref_ELV $pref_HM)
 for i in "${pref_arr[@]}"

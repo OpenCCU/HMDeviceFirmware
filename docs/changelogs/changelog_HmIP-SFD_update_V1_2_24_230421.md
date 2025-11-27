@@ -1,5 +1,5 @@
 ## [HmIP-SFD_update_V1_2_24_230421.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SFD_update_V1_2_24_230421.tgz)
-sha256: 9f3e6d3fa9d4119b7b0e0f992a15b2cc64608fe07836d2dea1f7e9ff1447dde7
+<sub>sha256: 9f3e6d3fa9d4119b7b0e0f992a15b2cc64608fe07836d2dea1f7e9ff1447dde7</sub>
 
 C H A N G E L O G
 -----------------

@@ -1,5 +1,5 @@
 ## [HmIPW-DRI16_update_V1_4_6_250526.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRI16_update_V1_4_6_250526.tgz)
-sha256: 3ccfa784e4c1e7ea26ce2b88ba603c0b8e1378f1107075ea680a7ce488ddebc7
+<sub>sha256: 3ccfa784e4c1e7ea26ce2b88ba603c0b8e1378f1107075ea680a7ce488ddebc7</sub>
 
 C H A N G E L O G
 -----------------

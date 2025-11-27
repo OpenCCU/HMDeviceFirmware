@@ -1,5 +1,5 @@
 ## [HmIP-WGC_update_V1_0_4_221206.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WGC_update_V1_0_4_221206.tgz)
-sha256: 7ad624454a844409546d01de773b4cc2d3f0aa20228fca9b3a003dfcdf81a0fd
+<sub>sha256: 7ad624454a844409546d01de773b4cc2d3f0aa20228fca9b3a003dfcdf81a0fd</sub>
 
  R E L E A S E   N O T E S
 -------------------------

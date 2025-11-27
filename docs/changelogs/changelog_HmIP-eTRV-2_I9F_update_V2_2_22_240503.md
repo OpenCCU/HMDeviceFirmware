@@ -1,5 +1,5 @@
 ## [HmIP-eTRV-2_I9F_update_V2_2_22_240503.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-2_I9F_update_V2_2_22_240503.tgz)
-sha256: e8aa0899c559ffcdeccebe5653a7b0eb8ffc60db3e43d1e2db1cb2af06b9e07c
+<sub>sha256: e8aa0899c559ffcdeccebe5653a7b0eb8ffc60db3e43d1e2db1cb2af06b9e07c</sub>
 
 C H A N G E L O G
 -----------------

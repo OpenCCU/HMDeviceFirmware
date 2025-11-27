@@ -1,5 +1,5 @@
 ## [HmIPW-AV-RH_update_V1_0_4_241009.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-AV-RH_update_V1_0_4_241009.tgz)
-sha256: dfa1513bc4ff80ac7beb207ef4327c62b7995ec69510f4918cf2c816311255e1
+<sub>sha256: dfa1513bc4ff80ac7beb207ef4327c62b7995ec69510f4918cf2c816311255e1</sub>
 
 C H A N G E L O G
 -----------------

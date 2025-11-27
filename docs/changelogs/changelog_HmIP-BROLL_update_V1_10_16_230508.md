@@ -1,5 +1,5 @@
 ## [HmIP-BROLL_update_V1_10_16_230508.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BROLL_update_V1_10_16_230508.tgz)
-sha256: 16ee2569dc4493c28cec7ae8bda71035fe832c568ab739f220fb55ef794f7d06
+<sub>sha256: 16ee2569dc4493c28cec7ae8bda71035fe832c568ab739f220fb55ef794f7d06</sub>
 
 C H A N G E L O G
 -----------------

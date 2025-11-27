@@ -1,5 +1,5 @@
 ## [HmIP-DRDI3_update_V1_4_8_220323.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRDI3_update_V1_4_8_220323.tgz)
-sha256: 710ddf2807f28f3ac7128b897de7010de8c403ea2a758b0f435910946ae3b23d
+<sub>sha256: 710ddf2807f28f3ac7128b897de7010de8c403ea2a758b0f435910946ae3b23d</sub>
 
 C H A N G E L O G
 -----------------

@@ -1,5 +1,5 @@
 ## [HmIP-USBSM_update_V1_0_16_210316.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-USBSM_update_V1_0_16_210316.tgz)
-sha256: 26248f1d3917ddf64db87f41c516522b74a09dafc45e340d99dcc4803c518f80
+<sub>sha256: 26248f1d3917ddf64db87f41c516522b74a09dafc45e340d99dcc4803c518f80</sub>
 
 C H A N G E L O G
 -----------------

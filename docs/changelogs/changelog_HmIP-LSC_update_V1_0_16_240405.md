@@ -1,5 +1,5 @@
 ## [HmIP-LSC_update_V1_0_16_240405.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-LSC_update_V1_0_16_240405.tgz)
-sha256: 5bedb3eda4aeacd465e6125dd1d0453cba4fdfbd281b23fbdcf113a0b092f5fd
+<sub>sha256: 5bedb3eda4aeacd465e6125dd1d0453cba4fdfbd281b23fbdcf113a0b092f5fd</sub>
 
 C H A N G E L O G
 -----------------

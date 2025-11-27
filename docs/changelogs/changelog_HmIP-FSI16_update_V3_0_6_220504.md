@@ -1,5 +1,5 @@
 ## [HmIP-FSI16_update_V3_0_6_220504.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FSI16_update_V3_0_6_220504.tgz)
-sha256: 44439929da91841bf7b0e166974476eec659852c774912d84ddca9edfe25b229
+<sub>sha256: 44439929da91841bf7b0e166974476eec659852c774912d84ddca9edfe25b229</sub>
 
 C H A N G E L O G
 -----------------

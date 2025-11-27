@@ -1,5 +1,5 @@
 ## [HmIP-RC8_update_V1_0_19_161110.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-RC8_update_V1_0_19_161110.tgz)
-sha256: 5869c5c0b86eb6bb6c30028caf7d53d396b00bc8c0b4cb60f703c137076f35d5
+<sub>sha256: 5869c5c0b86eb6bb6c30028caf7d53d396b00bc8c0b4cb60f703c137076f35d5</sub>
 
 C H A N G E L O G
 -----------------

@@ -1,5 +1,5 @@
 ## [HmIPW-SCTHD_update_V1_0_12_231130.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-SCTHD_update_V1_0_12_231130.tgz)
-sha256: 31352425aa0cf4b7075a3fdfaba1946685234e075abf1189bcd909569810bbfd
+<sub>sha256: 31352425aa0cf4b7075a3fdfaba1946685234e075abf1189bcd909569810bbfd</sub>
 
 C H A N G E L O G
 -----------------

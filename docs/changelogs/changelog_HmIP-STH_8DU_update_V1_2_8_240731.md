@@ -1,5 +1,5 @@
 ## [HmIP-STH_8DU_update_V1_2_8_240731.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-STH_8DU_update_V1_2_8_240731.tgz)
-sha256: fac62662a1437bebd8487418b515f4ca5ae7f4ad8008c395228438a30c7ebb09
+<sub>sha256: fac62662a1437bebd8487418b515f4ca5ae7f4ad8008c395228438a30c7ebb09</sub>
 
 C H A N G E L O G
 -----------------

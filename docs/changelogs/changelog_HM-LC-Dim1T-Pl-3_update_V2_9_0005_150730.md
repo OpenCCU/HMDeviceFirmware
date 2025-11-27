@@ -1,5 +1,5 @@
 ## [HM-LC-Dim1T-Pl-3_update_V2_9_0005_150730.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Dim1T-Pl-3_update_V2_9_0005_150730.tgz)
-sha256: 6436c613b09b60a650e0e3772adb14871f58a82d374504d60c8da672d1e3b082
+<sub>sha256: 6436c613b09b60a650e0e3772adb14871f58a82d374504d60c8da672d1e3b082</sub>
 
 Um den Aktor in den Update-Mode zu versetzen, ist wie folgt vorzugehen:
 1. Netzspannung ausschalten / vom Gerät trennen (Ggfs. Sicherheitshinweise der Installation beachten!),

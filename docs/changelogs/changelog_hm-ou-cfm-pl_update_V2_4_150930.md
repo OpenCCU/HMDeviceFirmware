@@ -1,5 +1,5 @@
 ## [hm-ou-cfm-pl_update_V2_4_150930.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm-ou-cfm-pl_update_V2_4_150930.tgz)
-sha256: d5bacbacf3a5ab1751069611a5570b78ae7eda319692b550a72bc356e43d580b
+<sub>sha256: d5bacbacf3a5ab1751069611a5570b78ae7eda319692b550a72bc356e43d580b</sub>
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der aktuellsten CCU2/3 Version.
 

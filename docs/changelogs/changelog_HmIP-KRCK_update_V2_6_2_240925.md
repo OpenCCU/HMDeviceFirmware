@@ -1,5 +1,5 @@
 ## [HmIP-KRCK_update_V2_6_2_240925.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-KRCK_update_V2_6_2_240925.tgz)
-sha256: e3ca64189a21a72288eb75a3000060ec56651e8a599b1954389b208cb6aae314
+<sub>sha256: e3ca64189a21a72288eb75a3000060ec56651e8a599b1954389b208cb6aae314</sub>
 
 C H A N G E L O G
 -----------------

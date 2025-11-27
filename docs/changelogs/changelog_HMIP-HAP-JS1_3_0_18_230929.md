@@ -1,5 +1,5 @@
 ## [HMIP-HAP-JS1_3_0_18_230929.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HMIP-HAP-JS1_3_0_18_230929.tgz)
-sha256: 615f5a3b9deed41fade9cdc8fddd924aa36c9d517f2f864844a25c99949c9287
+<sub>sha256: 615f5a3b9deed41fade9cdc8fddd924aa36c9d517f2f864844a25c99949c9287</sub>
 
 C H A N G E L O G
 -----------------

@@ -1,5 +1,5 @@
 ## [HmIP-FROLL_update_V1_10_16_230616.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FROLL_update_V1_10_16_230616.tgz)
-sha256: 4c2ae03e84add793926e392ffd470ece72cb813925972ef5378e9257f11afa13
+<sub>sha256: 4c2ae03e84add793926e392ffd470ece72cb813925972ef5378e9257f11afa13</sub>
 
 C H A N G E L O G
 -----------------

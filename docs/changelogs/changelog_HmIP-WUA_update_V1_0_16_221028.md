@@ -1,5 +1,5 @@
 ## [HmIP-WUA_update_V1_0_16_221028.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WUA_update_V1_0_16_221028.tgz)
-sha256: 9ee00fb5c6db6b380b346a483c3bb8de7672ae2f364dfb4148fae8f056dc3f1b
+<sub>sha256: 9ee00fb5c6db6b380b346a483c3bb8de7672ae2f364dfb4148fae8f056dc3f1b</sub>
 
 C H A N G E L O G
 -----------------

@@ -1,5 +1,5 @@
 ## [HmIP_FAL24_C10_update_2_4_6_230804.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_FAL24_C10_update_2_4_6_230804.tgz)
-sha256: fea669e846bdd9493c929713cac09d069bb7b7a17ab89e0648a91328c3e75dcd
+<sub>sha256: fea669e846bdd9493c929713cac09d069bb7b7a17ab89e0648a91328c3e75dcd</sub>
 
 C H A N G E L O G
 -----------------

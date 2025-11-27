@@ -1,5 +1,5 @@
 ## [HM-LC-Dim1PWM-CV_update_V2_9_0005_150730.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Dim1PWM-CV_update_V2_9_0005_150730.tgz)
-sha256: 9c0d9746bb592cfdb2b5b0086cea60ee5348ce11a69da0e803e14ed2dcad35b6
+<sub>sha256: 9c0d9746bb592cfdb2b5b0086cea60ee5348ce11a69da0e803e14ed2dcad35b6</sub>
 
 Um den Aktor in den Update-Mode zu versetzen, ist wie folgt vorzugehen:
 1. Netzspannung ausschalten / vom Gerät trennen (Ggfs. Sicherheitshinweise der Installation beachten!),

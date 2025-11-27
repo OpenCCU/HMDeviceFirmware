@@ -1,5 +1,5 @@
 ## [HmIP-SPDR_update_V1_2_12_230510.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SPDR_update_V1_2_12_230510.tgz)
-sha256: 8ada3a0cc2b61d38d879b421daa1650e61c87a23bbb505a5fd3866908d5fb4c2
+<sub>sha256: 8ada3a0cc2b61d38d879b421daa1650e61c87a23bbb505a5fd3866908d5fb4c2</sub>
 
 C H A N G E L O G
 -----------------

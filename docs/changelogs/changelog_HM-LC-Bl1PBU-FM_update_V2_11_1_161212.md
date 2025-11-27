@@ -1,5 +1,5 @@
 ## [HM-LC-Bl1PBU-FM_update_V2_11_1_161212.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Bl1PBU-FM_update_V2_11_1_161212.tgz)
-sha256: f5e2bfa47a5348026d3a73aee9c55e09e2a48b45bbed44fa11afe97a1a1dc8c4
+<sub>sha256: f5e2bfa47a5348026d3a73aee9c55e09e2a48b45bbed44fa11afe97a1a1dc8c4</sub>
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit dem Firmware Update Tool ab Version 1.1 sowie der CCU2 ab Version 2.11.0.
 Die aktuellste Version des Firmware Update Tools finden Sie im Downloadbereich der Website www.eQ-3.de.

@@ -1,5 +1,5 @@
 ## [HmIP-PSM-PE-2_update_V2_24_2_230220.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PSM-PE-2_update_V2_24_2_230220.tgz)
-sha256: 5f4db73d456cea310d97e0eaa2f718583d7ba6649d2c0af2947389c4b70aac33
+<sub>sha256: 5f4db73d456cea310d97e0eaa2f718583d7ba6649d2c0af2947389c4b70aac33</sub>
 
 C H A N G E L O G
 -----------------

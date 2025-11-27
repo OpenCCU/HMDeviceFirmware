@@ -1,5 +1,5 @@
 ## [HmIPW_FAL230_C6_update_2_4_6_230815.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_FAL230_C6_update_2_4_6_230815.tgz)
-sha256: e488f1e3b822d5df82668ecf573916f709019b45e187d12f3f809e147f78ac17
+<sub>sha256: e488f1e3b822d5df82668ecf573916f709019b45e187d12f3f809e147f78ac17</sub>
 
 C H A N G E L O G
 -----------------

@@ -1,5 +1,5 @@
 ## [HmIP-WHS2_update_V2_2_0_240125.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WHS2_update_V2_2_0_240125.tgz)
-sha256: 14dff3ac3d2b3f9fa6ef3f7420253eef4653299041d57115292aa4bed5991294
+<sub>sha256: 14dff3ac3d2b3f9fa6ef3f7420253eef4653299041d57115292aa4bed5991294</sub>
 
 C H A N G E L O G
 -----------------

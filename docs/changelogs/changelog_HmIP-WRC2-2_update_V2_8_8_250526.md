@@ -1,5 +1,5 @@
 ## [HmIP-WRC2-2_update_V2_8_8_250526.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRC2-2_update_V2_8_8_250526.tgz)
-sha256: 4ea141c089252e19fe1f8d6f16ce52119d402e7e7d1ea589baa20b1414f879cb
+<sub>sha256: 4ea141c089252e19fe1f8d6f16ce52119d402e7e7d1ea589baa20b1414f879cb</sub>
 
 C H A N G E L O G
 -----------------

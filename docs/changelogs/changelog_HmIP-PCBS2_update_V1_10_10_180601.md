@@ -1,5 +1,5 @@
 ## [HmIP-PCBS2_update_V1_10_10_180601.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PCBS2_update_V1_10_10_180601.tgz)
-sha256: e7fd35671aa9697a93c105f6327cc558fea30bc24f43872c23e194f38864273b
+<sub>sha256: e7fd35671aa9697a93c105f6327cc558fea30bc24f43872c23e194f38864273b</sub>
 
 C H A N G E L O G
 -----------------

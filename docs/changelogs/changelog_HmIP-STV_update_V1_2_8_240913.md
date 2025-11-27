@@ -1,5 +1,5 @@
 ## [HmIP-STV_update_V1_2_8_240913.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-STV_update_V1_2_8_240913.tgz)
-sha256: e7cd35528435e535a5988c74b9a706c833ec9ca286dd68e847c90868b2a7a336
+<sub>sha256: e7cd35528435e535a5988c74b9a706c833ec9ca286dd68e847c90868b2a7a336</sub>
 
 C H A N G E L O G
 -----------------

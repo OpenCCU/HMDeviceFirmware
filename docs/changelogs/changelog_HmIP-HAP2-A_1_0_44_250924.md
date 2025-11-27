@@ -1,5 +1,5 @@
 ## [HmIP-HAP2-A_1_0_44_250924.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-HAP2-A_1_0_44_250924.tgz)
-sha256: 1ca1a6eb85dc79ea86a6627f2fdd0ca4c8cc4f7f27499323ee18f3afab555f5f
+<sub>sha256: 1ca1a6eb85dc79ea86a6627f2fdd0ca4c8cc4f7f27499323ee18f3afab555f5f</sub>
 
 C H A N G E L O G
 -----------------

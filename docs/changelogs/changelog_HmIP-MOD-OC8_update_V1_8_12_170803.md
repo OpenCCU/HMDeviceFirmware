@@ -1,5 +1,5 @@
 ## [HmIP-MOD-OC8_update_V1_8_12_170803.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-MOD-OC8_update_V1_8_12_170803.tgz)
-sha256: 5fbc686ba4b72c8cfdb69f94d2a0c4fab812f2f076470f52b6c587a4b622c76c
+<sub>sha256: 5fbc686ba4b72c8cfdb69f94d2a0c4fab812f2f076470f52b6c587a4b622c76c</sub>
 
 C H A N G E L O G
 -----------------

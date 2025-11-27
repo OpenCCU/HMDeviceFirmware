@@ -1,5 +1,5 @@
 ## [HmIPW_WTH_update_3_0_2_240408.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_WTH_update_3_0_2_240408.tgz)
-sha256: 6e53cc357ae1da4168af7db0ae85cba6bd87d4655f003baad9414bb1616e7604
+<sub>sha256: 6e53cc357ae1da4168af7db0ae85cba6bd87d4655f003baad9414bb1616e7604</sub>
 
 C H A N G E L O G
 -----------------

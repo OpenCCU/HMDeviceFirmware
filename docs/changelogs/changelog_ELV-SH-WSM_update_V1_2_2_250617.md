@@ -1,5 +1,5 @@
 ## [ELV-SH-WSM_update_V1_2_2_250617.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-WSM_update_V1_2_2_250617.tgz)
-sha256: 54af7aa46a158329d11a605ec6101013fd5c2424549de52232f8734fe9c7beeb
+<sub>sha256: 54af7aa46a158329d11a605ec6101013fd5c2424549de52232f8734fe9c7beeb</sub>
 
 C H A N G E L O G
 -----------------

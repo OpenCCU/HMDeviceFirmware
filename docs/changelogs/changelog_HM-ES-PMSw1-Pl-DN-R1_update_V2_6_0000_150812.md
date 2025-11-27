@@ -1,5 +1,5 @@
 ## [HM-ES-PMSw1-Pl-DN-R1_update_V2_6_0000_150812.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-ES-PMSw1-Pl-DN-R1_update_V2_6_0000_150812.tgz)
-sha256: a90a49b940675e78ed558a34606039ac912f9dd7b00439f6f0f171562cd4f5f8
+<sub>sha256: a90a49b940675e78ed558a34606039ac912f9dd7b00439f6f0f171562cd4f5f8</sub>
 
 C H A N G E L O G
 -----------------

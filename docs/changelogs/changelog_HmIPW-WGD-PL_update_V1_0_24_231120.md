@@ -1,5 +1,5 @@
 ## [HmIPW-WGD-PL_update_V1_0_24_231120.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-WGD-PL_update_V1_0_24_231120.tgz)
-sha256: fe50ded8ca67c94e506c881f60fb2f40d0eb84e0967a2832b927dfec2a7b517b
+<sub>sha256: fe50ded8ca67c94e506c881f60fb2f40d0eb84e0967a2832b927dfec2a7b517b</sub>
 
 C H A N G E L O G
 -----------------

@@ -1,5 +1,5 @@
 ## [HmIP-STHD_L9D_update_V1_2_8_240731.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-STHD_L9D_update_V1_2_8_240731.tgz)
-sha256: 38c13aba93d59a1c7136d7b15c7a599a51a9d578e14b38a5b5c9dcbbf48fb37e
+<sub>sha256: 38c13aba93d59a1c7136d7b15c7a599a51a9d578e14b38a5b5c9dcbbf48fb37e</sub>
 
 C H A N G E L O G
 -----------------

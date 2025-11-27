@@ -1,5 +1,5 @@
 ## [HmIPW-DRAP_3_0_20_231208.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRAP_3_0_20_231208.tgz)
-sha256: fb866367a12cc1bc54484425e7b373e538c410b46a10da6d89b5f99d0abbee2f
+<sub>sha256: fb866367a12cc1bc54484425e7b373e538c410b46a10da6d89b5f99d0abbee2f</sub>
 
 C H A N G E L O G
 -----------------

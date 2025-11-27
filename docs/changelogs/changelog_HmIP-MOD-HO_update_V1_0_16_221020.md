@@ -1,5 +1,5 @@
 ## [HmIP-MOD-HO_update_V1_0_16_221020.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-MOD-HO_update_V1_0_16_221020.tgz)
-sha256: 2342369d26064a3952de5527d940c1175728750a21b123d99f5f6d896e3f0946
+<sub>sha256: 2342369d26064a3952de5527d940c1175728750a21b123d99f5f6d896e3f0946</sub>
 
 C H A N G E L O G
 -----------------

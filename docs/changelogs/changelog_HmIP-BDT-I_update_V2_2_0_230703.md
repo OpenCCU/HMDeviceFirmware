@@ -1,5 +1,5 @@
 ## [HmIP-BDT-I_update_V2_2_0_230703.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BDT-I_update_V2_2_0_230703.tgz)
-sha256: 47fd92eab81fd142e484276f53c560a9660a20534d58112d942569389e8d91de
+<sub>sha256: 47fd92eab81fd142e484276f53c560a9660a20534d58112d942569389e8d91de</sub>
 
 C H A N G E L O G
 -----------------

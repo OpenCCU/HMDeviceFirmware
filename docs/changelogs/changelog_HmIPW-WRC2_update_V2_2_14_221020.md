@@ -1,5 +1,5 @@
 ## [HmIPW-WRC2_update_V2_2_14_221020.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-WRC2_update_V2_2_14_221020.tgz)
-sha256: 50960f098b7adc8553eac7de77cd394d3f45b8ddaa5979c6b21560d3d3bb06fd
+<sub>sha256: 50960f098b7adc8553eac7de77cd394d3f45b8ddaa5979c6b21560d3d3bb06fd</sub>
 
 C H A N G E L O G
 -----------------

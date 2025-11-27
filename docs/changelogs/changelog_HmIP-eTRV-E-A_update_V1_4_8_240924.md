@@ -1,5 +1,5 @@
 ## [HmIP-eTRV-E-A_update_V1_4_8_240924.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-E-A_update_V1_4_8_240924.tgz)
-sha256: 7c34947f457ac7f3119b07f46e3783b150764a0cce48bfa9b92984377a8aa4af
+<sub>sha256: 7c34947f457ac7f3119b07f46e3783b150764a0cce48bfa9b92984377a8aa4af</sub>
 
 C H A N G E L O G
 -----------------

@@ -1,5 +1,5 @@
 ## [HmIPW-DRS8_update_V1_2_6_220928.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRS8_update_V1_2_6_220928.tgz)
-sha256: 7d4ece1aa2a578e32732f91c588623af541577a202e6fd5d17ac600372f73fd7
+<sub>sha256: 7d4ece1aa2a578e32732f91c588623af541577a202e6fd5d17ac600372f73fd7</sub>
 
 C H A N G E L O G
 -----------------

@@ -1,5 +1,5 @@
 ## [HmIP-SWDM-2_update_V1_4_2_220210.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWDM-2_update_V1_4_2_220210.tgz)
-sha256: 695e0b8091ea9c1e94626ba9d141adfa8f75cd9944c9353bef630f7670581d45
+<sub>sha256: 695e0b8091ea9c1e94626ba9d141adfa8f75cd9944c9353bef630f7670581d45</sub>
 
 C H A N G E L O G
 -----------------

@@ -1,5 +1,5 @@
 ## [HmIP-STHO-A_update_V1_0_8_230209.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-STHO-A_update_V1_0_8_230209.tgz)
-sha256: 0c5c0fbe49a1dcd3f89aabf60bc203d9bc104784bf6a607a6ef6c17aba19b351
+<sub>sha256: 0c5c0fbe49a1dcd3f89aabf60bc203d9bc104784bf6a607a6ef6c17aba19b351</sub>
 
 ï»¿C H A N G E L O G
 -----------------

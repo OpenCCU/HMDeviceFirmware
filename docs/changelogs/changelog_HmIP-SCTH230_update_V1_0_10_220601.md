@@ -1,5 +1,5 @@
 ## [HmIP-SCTH230_update_V1_0_10_220601.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SCTH230_update_V1_0_10_220601.tgz)
-sha256: 159e0896f87ed34319c944ed79ed1f6200910ce6ac251371cad23c574bc84238
+<sub>sha256: 159e0896f87ed34319c944ed79ed1f6200910ce6ac251371cad23c574bc84238</sub>
 
 C H A N G E L O G
 -----------------

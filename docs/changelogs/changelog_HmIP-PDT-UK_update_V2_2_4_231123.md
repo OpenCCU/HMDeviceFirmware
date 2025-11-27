@@ -1,5 +1,5 @@
 ## [HmIP-PDT-UK_update_V2_2_4_231123.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PDT-UK_update_V2_2_4_231123.tgz)
-sha256: bbd7f42100fffece86c39c3562c943fc0ad6876bde7ec265b3919ccfc5bb3f8e
+<sub>sha256: bbd7f42100fffece86c39c3562c943fc0ad6876bde7ec265b3919ccfc5bb3f8e</sub>
 
 C H A N G E L O G
 -----------------

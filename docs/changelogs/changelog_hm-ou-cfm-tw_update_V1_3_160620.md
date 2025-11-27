@@ -1,5 +1,5 @@
 ## [hm-ou-cfm-tw_update_V1_3_160620.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm-ou-cfm-tw_update_V1_3_160620.tgz)
-sha256: 387c263491b6532558ab08fa49e40bbe164f8b89b59e0e3bd71fe10278a32c2e
+<sub>sha256: 387c263491b6532558ab08fa49e40bbe164f8b89b59e0e3bd71fe10278a32c2e</sub>
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit dem Firmware Update Tool ab Version 1.1 sowie der CCU2 ab Version 2.15.2.
 Die aktuellste Version des Firmware Update Tools finden Sie im Downloadbereich der Website www.eQ-3.de.

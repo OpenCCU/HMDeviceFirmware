@@ -1,5 +1,5 @@
 ## [HmIP-MIO16-PCB_update_V1_0_10_191022.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-MIO16-PCB_update_V1_0_10_191022.tgz)
-sha256: 3b388e25d8006c1ce0f611d1f2b389f2e506b2277ad11c2f1b4e59ac9c6566f2
+<sub>sha256: 3b388e25d8006c1ce0f611d1f2b389f2e506b2277ad11c2f1b4e59ac9c6566f2</sub>
 
 C H A N G E L O G
 -----------------

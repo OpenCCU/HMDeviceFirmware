@@ -1,5 +1,5 @@
 ## [HmIP-KRC4-2_update_V2_6_2_240925.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-KRC4-2_update_V2_6_2_240925.tgz)
-sha256: 148634add0f71a7f6aaeaa06d44e9093dc0eb111b7be126c157ce84eb9daf606
+<sub>sha256: 148634add0f71a7f6aaeaa06d44e9093dc0eb111b7be126c157ce84eb9daf606</sub>
 
 C H A N G E L O G
 -----------------

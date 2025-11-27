@@ -1,5 +1,5 @@
 ## [HmIP-RCB1_update_V1_2_4_181212.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-RCB1_update_V1_2_4_181212.tgz)
-sha256: 01d28f4f61e8aa61c0109a6e5f72d694c0e598ed01ae90a4ae504df4d28f6a60
+<sub>sha256: 01d28f4f61e8aa61c0109a6e5f72d694c0e598ed01ae90a4ae504df4d28f6a60</sub>
 
 C H A N G E L O G
 -----------------

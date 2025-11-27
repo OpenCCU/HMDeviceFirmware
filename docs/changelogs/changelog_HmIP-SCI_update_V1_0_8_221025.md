@@ -1,5 +1,5 @@
 ## [HmIP-SCI_update_V1_0_8_221025.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SCI_update_V1_0_8_221025.tgz)
-sha256: 2ad609c3fbec99677ab4881c3a123da3fa60cc87716a5c9d7101321f37bb69cd
+<sub>sha256: 2ad609c3fbec99677ab4881c3a123da3fa60cc87716a5c9d7101321f37bb69cd</sub>
 
 C H A N G E L O G
 -----------------
