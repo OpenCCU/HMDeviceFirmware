@@ -3,7 +3,23 @@
 
 @import "{{ site.theme }}";
 
-.wrapper {
-  max-width: 75vw;
+/* max 75% width and centered */
+body {
+  max-width: 75vw;   /* oder 100vw, wenn du volle Breite willst */
   margin: 0 auto;
+}
+
+/* modify table css */
+table {
+  width: 100%;
+  table-layout: fixed;
+  display: table;
+  overflow-x: visible;
+}
+
+/* disable word wrap in table */
+th, td {
+  white-space: nowrap;
+  overflow-wrap: normal;
+  word-break: normal;
 }
