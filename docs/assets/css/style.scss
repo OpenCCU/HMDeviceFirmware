@@ -4,14 +4,20 @@
 @import "{{ site.theme }}";
 
 /* max 75% width and centered */
+html,
 body {
-  max-width: 75vw;   /* oder 100vw, wenn du volle Breite willst */
-  margin: 0 auto;
+  margin: 0;
+  padding: 0;
+  max-width: 75vw;
+  overflow-x: hidden;
 }
 
 /* modify table css */
 table {
   width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  border-collapse: collapse;
   table-layout: fixed;
   display: table;
   overflow-x: visible;
