@@ -1,6 +1,6 @@
 ## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 01.12.2025, 18:58:47 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
+_last generated: 02.12.2025, 10:50:11 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
 
 <details open><summary>HmIP</summary>
 
@@ -161,7 +161,7 @@ _last generated: 01.12.2025, 18:58:47 UTC_ ([GitHub](https://github.com/OpenCCU/
 | HmIP-eTRV-2_I9F | [V2.2.22](changelogs/changelog_HmIP-eTRV-2_I9F_update_V2_2_22_240503.md) | [HmIP-eTRV-2_I9F_update_V2_2_22_240503.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-2_I9F_update_V2_2_22_240503.tgz) | `e8aa0899c559ffcdeccebe5653a7b0eb8ffc60db3e43d1e2db1cb2af06b9e07c` |
 | HmIP-eTRV-3 | [V1.0.4](changelogs/changelog_HmIP-eTRV-3_update_V1_0_4_240815.md) | [HmIP-eTRV-3_update_V1_0_4_240815.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-3_update_V1_0_4_240815.tgz) | `eff7f5978db5f5c4fc2b8164ed63d5632ff1947561a2d4150e48f808619922fa` |
 | HmIP-eTRV-B-2 | [V1.4.2](changelogs/changelog_HmIP_eTRV_B_2_update_1_4_2_250923.md) | [HmIP_eTRV_B_2_update_1_4_2_250923.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_eTRV_B_2_update_1_4_2_250923.tgz) | `f5fe0d2295bf02c0db567f289382bf854f83f9395ea7a674b3f1fe62cc722772` |
-| HmIP-eTRV-B-2_R4M | [V1.2.28](changelogs/changelog_HmIP-eTRV-B-2_R4M_update_V1_2_28_241014.md) | [HmIP-eTRV-B-2_R4M_update_V1_2_28_241014.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-B-2_R4M_update_V1_2_28_241014.tgz) | `87319789ebeb73224cd3d91b84b4c697eb0239ab1ee8444176bc5069193a2abc` |
+| HmIP-eTRV-B-2_R4M | [V1.4.0](changelogs/changelog_HmIP-eTRV-B-2_R4M_update_V1_4_0_250616.md) | [HmIP-eTRV-B-2_R4M_update_V1_4_0_250616.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-B-2_R4M_update_V1_4_0_250616.tgz) | `65f051a9013564a97ebd036e5ade71b66a0f1c4d29a384bafc349b4ac4abbb7c` |
 | HmIP-eTRV-C | [V1.4.014](changelogs/changelog_HmIP_eTRV_C_update_1_4_14_220128.md) | [HmIP_eTRV_C_update_1_4_14_220128.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_eTRV_C_update_1_4_14_220128.tgz) | `f31087c4465466994f345db39acb1a41239c25e3ba912880632232c37e2ed9e4` |
 | HmIP-eTRV-C-2 | [V1.4.14](changelogs/changelog_HmIP-eTRV-C-2_update_V1_4_14_220128.md) | [HmIP-eTRV-C-2_update_V1_4_14_220128.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-C-2_update_V1_4_14_220128.tgz) | `ee3632fd683cb6d53b1c189447d37b438987c2ce845d5c202edad7e10e80205d` |
 | HmIP-eTRV-CL | [V1.0.16](changelogs/changelog_HmIP-eTRV-CL_update_V1_0_16_221214.md) | [HmIP-eTRV-CL_update_V1_0_16_221214.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-CL_update_V1_0_16_221214.tgz) | `7904758a73a1bad42adc1886d056f7bde00376d5b135e23198ce77e7e15c1a1f` |
