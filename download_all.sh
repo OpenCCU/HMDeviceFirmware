@@ -57,6 +57,8 @@ for f in {$pref_HM,$pref_HmIP,$pref_HmIPW,$pref_ELV}/*gz; do
     fwversion=${fwversion//[$'\n\r']/}
     fwdevicename=`grep "Name=" info|cut -d "=" -f 2`
     fwdevicename=${fwdevicename//[$'\n\r']/}
+    # fix uppercase HMIP-xxxxx
+    fwdevicename="${pref}-$(echo ${fwdevicename} | cut -d '-' -f2-)"
   fi
 
   #parse changelog
