@@ -1,3 +1,6 @@
+## [HmIP_WTH_B_2_update_1_2_20_230731.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_WTH_B_2_update_1_2_20_230731.tgz)
+<sub>sha256: 6f238a6372d52e18b50b63075e52a7efb8482bd6070a65f236bde1d3edfa0cb5</sub>
+
 C H A N G E L O G
 -----------------
 

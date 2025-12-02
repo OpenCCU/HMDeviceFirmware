@@ -1,3 +1,6 @@
+## [HmIPW-FALMOT-C12_update_V1_4_8_221004.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-FALMOT-C12_update_V1_4_8_221004.tgz)
+<sub>sha256: 75733275ce4439c64a20a9156947d9e7ad9d466e7dbc05adfd634c9caa5aa36e</sub>
+
 C H A N G E L O G
 -----------------
 

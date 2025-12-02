@@ -16,18 +16,18 @@ touch ${runfile}
 
 echo "Getting firmware list" | tee -a ${runfile}
 output=`curl -s 'https://update.homematic.com/firmware/api/firmware/search/DEVICE' | sed s/'homematic.com.setDeviceFirmwareVersions('/''/ | sed s/');'/''/ |  jq -r '.[] | "\(.type)"'|sort -u`
-cnt=`wc -w <<< "$output"|xargs`
+cnt=$(wc -w <<< "$output"|xargs)
 i=0
 for row in ${output}; do
   i=$((i+1))
-  echo -n -e "Downloading firmware file $i of $cnt (${row}).              \r" | tee -a ${runfile}
+  echo -n -e "Downloading firmware file $i of $cnt (${row})              \r" | tee -a ${runfile}
   printf "\n" >> ${runfile}
   curl -fsSLOJ  "https://ccu3-update.homematic.com/firmware/download?cmd=download&serial=0&product=${row}"
 done
 echo "" | tee -a ${runfile}
 echo "Moving files into directories" | tee -a ${runfile}
 for f in *gz; do
-  pref=`ls $f|awk -F'[-_]' {'print $1'}`
+  pref=$(ls $f|awk -F'[-_]' {'print $1'})
   
   case $pref in
     ([Hh][Mm])             pref=$pref_HM;;
@@ -35,6 +35,17 @@ for f in *gz; do
     ([Hh][Mm][Ii][Pp][Ww]) pref=$pref_HmIPW;;
     ([Ee][Ll][Vv])         pref=$pref_ELV;;
   esac
+
+  [ ! -d $pref ] && mkdir $pref
+  mv $f $pref/
+done
+
+echo "Regen archive list" | tee -a ${runfile}
+for f in {$pref_HM,$pref_HmIP,$pref_HmIPW,$pref_ELV}/*gz; do
+
+  echo ${f}
+
+  pref=$(dirname ${f})
   
   #parse info file
   infofile=`tar -ztf $f|grep info||true`
@@ -55,16 +66,14 @@ for f in *gz; do
   else
     SHA256SUM=$(sha256sum ${f} | cut -d' ' -f1)
     tar -zxf $f changelog.txt
-    echo "## [${f}](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/${pref}/${f})" >./docs/changelogs/changelog_${f%%.*}.md
-    echo "<sub>sha256: ${SHA256SUM}</sub>" >>./docs/changelogs/changelog_${f%%.*}.md
-    echo "" >>./docs/changelogs/changelog_${f%%.*}.md
-    iconv -f ISO-8859-1 -t UTF-8 changelog.txt >>./docs/changelogs/changelog_${f%%.*}.md
+    fb=$(basename ${f})
+    echo "## [${fb}](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/${pref}/${fb})" >./docs/changelogs/changelog_${fb%%.*}.md
+    echo "<sub>sha256: ${SHA256SUM}</sub>" >>./docs/changelogs/changelog_${fb%%.*}.md
+    echo "" >>./docs/changelogs/changelog_${fb%%.*}.md
+    iconv -f ISO-8859-1 -t UTF-8 changelog.txt >>./docs/changelogs/changelog_${fb%%.*}.md
     rm changelog.txt
-    echo "| ${fwdevicename} | [V${fwversion}](changelogs/changelog_${f%%.*}.md) | [${f}](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/${pref}/${f}) | \`${SHA256SUM}\` |" >> ./docs/_index.md.tmp.$pref
+    echo "| ${fwdevicename} | [V${fwversion}](changelogs/changelog_${fb%%.*}.md) | [${fb}](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/${pref}/${fb}) | \`${SHA256SUM}\` |" >> ./docs/_index.md.tmp.$pref
   fi
-  
-  [ ! -d $pref ] && mkdir $pref
-  mv $f $pref/
   
 done
 [ -f "info" ] && rm info

@@ -1,3 +1,6 @@
+## [HmIP-HAP-JS1_3_0_16_230614.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-HAP-JS1_3_0_16_230614.tgz)
+<sub>sha256: 8c5499ec3f0446e7e5f5f2679368065894b3304576c077c867d289743c0f47c3</sub>
+
 C H A N G E L O G
 -----------------
 

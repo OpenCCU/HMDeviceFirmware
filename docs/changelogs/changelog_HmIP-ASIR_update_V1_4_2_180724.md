@@ -1,3 +1,6 @@
+## [HmIP-ASIR_update_V1_4_2_180724.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-ASIR_update_V1_4_2_180724.tgz)
+<sub>sha256: 93b226f20e803667bd1e1ac5644edd0ea41ccf57d300bfb4eec7e630f12d6e3e</sub>
+
 C H A N G E L O G
 -----------------
 

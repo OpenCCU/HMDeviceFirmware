@@ -1,3 +1,6 @@
+## [HmIP-BSL_update_V1_0_2_180904.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BSL_update_V1_0_2_180904.tgz)
+<sub>sha256: 3ca10139142d2fea56d0fa48424ca03dbddbe62daca307c69822ab7748f436c6</sub>
+
 C H A N G E L O G
 -----------------
  

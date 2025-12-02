@@ -1,3 +1,6 @@
+## [HMIP-HAP_3_0_36_241218.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HMIP-HAP_3_0_36_241218.tgz)
+<sub>sha256: 32524bdd92442ecce84eb8b062e3bf3ccbdc16f6d8e6a41c8f18f1b3e8ca81fc</sub>
+
 C H A N G E L O G
 -----------------
 

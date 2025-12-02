@@ -1,3 +1,6 @@
+## [ELV-SH-TACO_update_V1_0_2_240603.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-TACO_update_V1_0_2_240603.tgz)
+<sub>sha256: d8c997157268a992b21c40bc7ba7aa7a4f4802f6d431a5594ebee413ca89fd5f</sub>
+
 C H A N G E L O G
 -----------------
 

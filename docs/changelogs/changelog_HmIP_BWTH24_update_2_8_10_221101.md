@@ -1,3 +1,6 @@
+## [HmIP_BWTH24_update_2_8_10_221101.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_BWTH24_update_2_8_10_221101.tgz)
+<sub>sha256: 16c9426ef5f97d5d014b611d3cc9cdce29b4904d430c4cc268af1b570f0660a2</sub>
+
 C H A N G E L O G
 -----------------
 

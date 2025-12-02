@@ -1,3 +1,6 @@
+## [HmIP-HAP2_1_0_40_250821.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-HAP2_1_0_40_250821.tgz)
+<sub>sha256: 6109fa130dfa25f0e2d86605ed8185ea0164ce3ddf8f6b7ab61d621a918979ac</sub>
+
 C H A N G E L O G
 -----------------
 

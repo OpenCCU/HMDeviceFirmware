@@ -1,11 +1,11 @@
-## [HM-LC-Dim1TPBU-FM_update_V2_9_0005_150730.tar.gz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Dim1TPBU-FM_update_V2_9_0005_150730.tar.gz)
-<sub>sha256: dd0f2080c90111a0c6bf9f70cf23edfbe2b9e7428cef4b2b1994e8003ca90f41</sub>
+## [HM-LC-Dim1TPBU-FM_update_V2_9_0005_150730.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Dim1TPBU-FM_update_V2_9_0005_150730.tgz)
+<sub>sha256: 69ae057c1252f0e9ee66336a33f171f93ca85b325e9259501e1c65f203b4d2ad</sub>
 
-Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der aktuellsten CCU2/3 Version.
-
-Please note: Only use the firmware file in connection with the latest CCU2/3 version.
-
-Changelog:
+Um den Aktor in den Update-Mode zu versetzen, ist wie folgt vorzugehen:
+1. Netzspannung ausschalten / vom Gerät trennen (Ggfs. Sicherheitshinweise der Installation beachten!),
+2. den Aus/runter-Taster (UP-Markenschalter) bzw. den Bedientaster von Kanal 1 (sonstige Aktoren) drücken und festhalten,
+3. bei immer noch gedrückt gehaltener Taste den Aktor wieder mit Netzspannung versorgen.
+4. Sobald die LED schnell blinkt, kann die Taste losgelassen werden. Das Update wird jetzt durchgeführt.
 
 Version 2.9.5 - 20150729
 --------------------------------------------------------------

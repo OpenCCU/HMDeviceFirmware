@@ -1,3 +1,6 @@
+## [HmIP-KRC4_update_V1_10_0_180302.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-KRC4_update_V1_10_0_180302.tgz)
+<sub>sha256: a42bc6fc337f5f4db3c0e42dd84e0324b1ebaa687d859f3d4f9c07736132d2a7</sub>
+
 C H A N G E L O G
 -----------------
 

@@ -1,3 +1,6 @@
+## [HmIPW-DRI16_update_V1_2_2_190603.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRI16_update_V1_2_2_190603.tgz)
+<sub>sha256: 0829a188be50d014eca08c1f20bf6842e94ce7ccff7c8ed7ca8ad9c68e9e1d0d</sub>
+
 C H A N G E L O G
 -----------------
 
