@@ -1,6 +1,6 @@
 ## [HmIP-PCBS_update_V2_10_2_171009.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PCBS_update_V2_10_2_171009.tgz)
+Required CCU firmware version: &#8805; 3.47.10 / 2.47.10<br/>
 <sub>sha256: eab8e2f7ec94505f60f9d84986f182cb40f49808837dfb53891b92f513df73bb</sub>
-Required CCU firmware version: &#8805; 3.47.10 / 2.47.10
 
 R E L E A S E   N O T E S
 -------------------------

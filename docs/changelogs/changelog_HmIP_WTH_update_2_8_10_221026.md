@@ -1,6 +1,6 @@
 ## [HmIP_WTH_update_2_8_10_221026.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_WTH_update_2_8_10_221026.tgz)
+Required CCU firmware version: &#8805; 3.63.1<br/>
 <sub>sha256: cb533f101a3c39d8957ab94daacbe19efcb9f8c088adf0ff569ce5790ba5a395</sub>
-Required CCU firmware version: &#8805; 3.63.1
 
 C H A N G E L O G
 -----------------

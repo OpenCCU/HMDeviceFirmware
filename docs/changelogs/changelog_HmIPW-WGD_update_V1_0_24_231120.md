@@ -1,6 +1,6 @@
 ## [HmIPW-WGD_update_V1_0_24_231120.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-WGD_update_V1_0_24_231120.tgz)
+Required CCU firmware version: &#8805; 3.69.6<br/>
 <sub>sha256: 3cde4d5080006de947a37b81e308f29c842f8308043e7752ee2a6fbba2089be2</sub>
-Required CCU firmware version: &#8805; 3.69.6
 
 C H A N G E L O G
 -----------------

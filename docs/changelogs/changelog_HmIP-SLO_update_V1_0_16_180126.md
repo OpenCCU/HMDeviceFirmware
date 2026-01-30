@@ -1,6 +1,6 @@
 ## [HmIP-SLO_update_V1_0_16_180126.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SLO_update_V1_0_16_180126.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.35.15<br/>
 <sub>sha256: 77e8003bdd0dde8af03c9708a93e69a21f3d95d3520f24d49ed2bbeb10db68f3</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.35.15
 
 ï»¿C H A N G E L O G
 -----------------

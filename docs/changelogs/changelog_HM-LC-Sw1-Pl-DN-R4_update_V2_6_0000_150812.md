@@ -1,6 +1,6 @@
 ## [HM-LC-Sw1-Pl-DN-R4_update_V2_6_0000_150812.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Sw1-Pl-DN-R4_update_V2_6_0000_150812.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.9.0<br/>
 <sub>sha256: d2586b5b384bd09fe8419664cf328159edd42f493dd47f3098ee2dfdf6bf3d7a</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.9.0
 
 C H A N G E L O G
 -----------------

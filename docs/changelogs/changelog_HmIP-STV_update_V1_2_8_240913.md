@@ -1,6 +1,6 @@
 ## [HmIP-STV_update_V1_2_8_240913.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-STV_update_V1_2_8_240913.tgz)
+Required CCU firmware version: &#8805; 3.79.3<br/>
 <sub>sha256: e7cd35528435e535a5988c74b9a706c833ec9ca286dd68e847c90868b2a7a336</sub>
-Required CCU firmware version: &#8805; 3.79.3
 
 C H A N G E L O G
 -----------------

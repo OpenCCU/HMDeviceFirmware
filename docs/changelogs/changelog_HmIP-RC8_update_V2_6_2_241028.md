@@ -1,6 +1,6 @@
 ## [HmIP-RC8_update_V2_6_2_241028.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-RC8_update_V2_6_2_241028.tgz)
+Required CCU firmware version: &#8805; 3.83.6<br/>
 <sub>sha256: 6abd9f973d9c3ca56e62b76a08f17b8277f2c7adebb9097146defefbf96b9982</sub>
-Required CCU firmware version: &#8805; 3.83.6
 
 C H A N G E L O G
 -----------------

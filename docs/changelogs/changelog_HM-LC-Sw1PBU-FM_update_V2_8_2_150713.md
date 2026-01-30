@@ -1,6 +1,6 @@
 ## [HM-LC-Sw1PBU-FM_update_V2_8_2_150713.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Sw1PBU-FM_update_V2_8_2_150713.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.11.0<br/>
 <sub>sha256: f03e9a54bea00cb0dbfea5953e1a645b95b89bd3e96d86de32dba31e3ede3f0e</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.11.0
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der aktuellsten CCU2/3 Version.
 

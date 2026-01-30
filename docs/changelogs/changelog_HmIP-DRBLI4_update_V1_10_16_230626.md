@@ -1,6 +1,6 @@
 ## [HmIP-DRBLI4_update_V1_10_16_230626.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRBLI4_update_V1_10_16_230626.tgz)
+Required CCU firmware version: &#8805; 3.69.5<br/>
 <sub>sha256: 52fed059ea0cd92e73f07d8d123580c8ddc740c3fac68ab5b63479d4dced29e9</sub>
-Required CCU firmware version: &#8805; 3.69.5
 
 C H A N G E L O G
 -----------------

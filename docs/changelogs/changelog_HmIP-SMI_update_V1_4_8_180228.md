@@ -1,6 +1,6 @@
 ## [HmIP-SMI_update_V1_4_8_180228.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMI_update_V1_4_8_180228.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.27.8<br/>
 <sub>sha256: 374c0999445e9ca15a9b74f645638922e04fded6a17b14a2718512e4ae06e7a8</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.27.8
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2(3) ab
 Version 2(3).29.23

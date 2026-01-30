@@ -1,6 +1,6 @@
 ## [HmIP-DLS_update_V1_4_0_220801.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DLS_update_V1_4_0_220801.tgz)
+Required CCU firmware version: &#8805; 3.59.5 / 2.59.5<br/>
 <sub>sha256: 74cd2bc144f1c8970137125a4f976aa3de03caebe0636ebb47802a352f42ba83</sub>
-Required CCU firmware version: &#8805; 3.59.5 / 2.59.5
 
 C H A N G E L O G
 -----------------

@@ -1,6 +1,6 @@
 ## [HmIPW-DRI32_update_V1_4_6_250526.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRI32_update_V1_4_6_250526.tgz)
+Required CCU firmware version: &#8805; 3.43.15<br/>
 <sub>sha256: f3d8e42a912185c76a1279d15a576913ab4eb47d593fceb208bf33b4393d858c</sub>
-Required CCU firmware version: &#8805; 3.43.15
 
 C H A N G E L O G
 -----------------

@@ -1,6 +1,6 @@
 ## [HmIP-FSM_update_V1_6_2_170509.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FSM_update_V1_6_2_170509.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.27.7<br/>
 <sub>sha256: d01048cdc9c70460764e2018386af5d764be4d9ed2a057b9e7ab1d2996ca740b</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.27.7
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2 ab Version 2.27.7.
 

@@ -1,6 +1,6 @@
 ## [HmIP-BSM_update_V1_18_12_200622.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BSM_update_V1_18_12_200622.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.27.7<br/>
 <sub>sha256: 6a096b71f438cc74a4e0dc9df97cf8cd6c19815dfb9e6e75c79da75a345da944</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.27.7
 
 C H A N G E L O G
 -----------------

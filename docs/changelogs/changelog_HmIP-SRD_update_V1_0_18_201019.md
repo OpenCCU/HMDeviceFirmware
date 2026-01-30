@@ -1,6 +1,6 @@
 ## [HmIP-SRD_update_V1_0_18_201019.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SRD_update_V1_0_18_201019.tgz)
+Required CCU firmware version: &#8805; 3.53.30 / 2.53.30<br/>
 <sub>sha256: 1fe6ee7ff4cf3919d69296a3ade566fc2707481c2e50c84fc6985125aa7b2607</sub>
-Required CCU firmware version: &#8805; 3.53.30 / 2.53.30
 
 C H A N G E L O G
 -----------------

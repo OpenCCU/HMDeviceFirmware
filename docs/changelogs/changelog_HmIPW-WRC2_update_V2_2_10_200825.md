@@ -1,6 +1,6 @@
 ## [HmIPW-WRC2_update_V2_2_10_200825.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-WRC2_update_V2_2_10_200825.tgz)
+Required CCU firmware version: &#8805; 3.53.26<br/>
 <sub>sha256: bff82e57e863c476c7893edf6c90b6df0b7bb5082424417a2eb3bba93470f768</sub>
-Required CCU firmware version: &#8805; 3.53.26
 
 C H A N G E L O G
 -----------------

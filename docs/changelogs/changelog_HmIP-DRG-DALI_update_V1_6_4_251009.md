@@ -1,6 +1,6 @@
 ## [HmIP-DRG-DALI_update_V1_6_4_251009.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRG-DALI_update_V1_6_4_251009.tgz)
+Required CCU firmware version: &#8805; 3.69.7<br/>
 <sub>sha256: 875a384c437cfde33abcf6baae765e02c28b5121c098ab2b10d93a2f4b2cb169</sub>
-Required CCU firmware version: &#8805; 3.69.7
 
 C H A N G E L O G
 -----------------

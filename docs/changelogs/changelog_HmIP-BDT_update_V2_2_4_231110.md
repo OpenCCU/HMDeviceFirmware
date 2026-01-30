@@ -1,6 +1,6 @@
 ## [HmIP-BDT_update_V2_2_4_231110.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BDT_update_V2_2_4_231110.tgz)
+Required CCU firmware version: &#8805; 3.73.9<br/>
 <sub>sha256: 5f0809fd42120793daaeaf4e7c29e6e3ba9649ed6d4c528f6fe5a42c25eca90f</sub>
-Required CCU firmware version: &#8805; 3.73.9
 
 C H A N G E L O G
 -----------------

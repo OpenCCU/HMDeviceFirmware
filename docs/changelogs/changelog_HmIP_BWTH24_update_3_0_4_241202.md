@@ -1,6 +1,6 @@
 ## [HmIP_BWTH24_update_3_0_4_241202.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_BWTH24_update_3_0_4_241202.tgz)
+Required CCU firmware version: &#8805; 3.81.5<br/>
 <sub>sha256: 53c47be1955334fb33369050d9a2ea44a7afed7a27b7394b8ccbaeb0436331c4</sub>
-Required CCU firmware version: &#8805; 3.81.5
 
 C H A N G E L O G
 -----------------

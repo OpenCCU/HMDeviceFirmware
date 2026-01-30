@@ -1,6 +1,6 @@
 ## [HmIPW-FIO6_update_V1_2_6_190222.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-FIO6_update_V1_2_6_190222.tgz)
+Required CCU firmware version: &#8805; 3.43.15<br/>
 <sub>sha256: 4efceec559c3f4aa8be85020902e58fd0fac652515dd5be9628e3ea8ebe76426</sub>
-Required CCU firmware version: &#8805; 3.43.15
 
 C H A N G E L O G
 -----------------

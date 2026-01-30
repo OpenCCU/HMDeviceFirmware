@@ -1,6 +1,6 @@
 ## [HmIP-SCI_update_V1_0_6_190114.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SCI_update_V1_0_6_190114.tgz)
+Required CCU firmware version: &#8805; 3.45.5 / 2.45.6<br/>
 <sub>sha256: 5b9d6d79d10c4547e893fe2110eab1900a6e3837928422914558961afa054dd9</sub>
-Required CCU firmware version: &#8805; 3.45.5 / 2.45.6
 
 C H A N G E L O G
 -----------------

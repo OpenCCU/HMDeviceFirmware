@@ -1,6 +1,6 @@
 ## [HmIP-WGTC-A-F_update_V1_0_14_250710.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WGTC-A-F_update_V1_0_14_250710.tgz)
+Required CCU firmware version: &#8805; 3.81.4<br/>
 <sub>sha256: 4ef75cc9255f773d77f995e8fb06c945f3c7bdc6b9bde308219bfed84b8d228f</sub>
-Required CCU firmware version: &#8805; 3.81.4
 
 C H A N G E L O G
 -----------------

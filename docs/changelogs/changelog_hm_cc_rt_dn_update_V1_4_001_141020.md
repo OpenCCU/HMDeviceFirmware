@@ -1,6 +1,6 @@
 ## [hm_cc_rt_dn_update_V1_4_001_141020.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm_cc_rt_dn_update_V1_4_001_141020.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.9.0<br/>
 <sub>sha256: 4be8767661933366ae24d14c6a035d00dbe696115542a39c3c90a384e151567f</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.9.0
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit dem Firmware Update Tool ab Version 1.1 sowie der CCU2 ab Version 2.9.0.
 

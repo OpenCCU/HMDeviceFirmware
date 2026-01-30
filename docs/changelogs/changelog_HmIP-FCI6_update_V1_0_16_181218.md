@@ -1,6 +1,6 @@
 ## [HmIP-FCI6_update_V1_0_16_181218.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FCI6_update_V1_0_16_181218.tgz)
+Required CCU firmware version: &#8805; 3.41.7 / 2.41.5<br/>
 <sub>sha256: 921a5982bcec5200d558527ed5a18445513595e27767caee0d3fb28bf265c0b9</sub>
-Required CCU firmware version: &#8805; 3.41.7 / 2.41.5
 
 C H A N G E L O G
 -----------------

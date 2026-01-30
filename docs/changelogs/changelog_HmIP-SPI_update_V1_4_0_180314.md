@@ -1,6 +1,6 @@
 ## [HmIP-SPI_update_V1_4_0_180314.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SPI_update_V1_4_0_180314.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.33.3<br/>
 <sub>sha256: 120d7adb460695e2b02fbb81e7325d6febdbbff9bbe380bced8cd96db1b8d51a</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.33.3
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2/3 ab
 Version 2(3).29.23

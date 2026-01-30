@@ -1,6 +1,6 @@
 ## [hm-es-pmsw1-pl_update_v2_5_0009_150217.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm-es-pmsw1-pl_update_v2_5_0009_150217.tgz)
+Required CCU firmware version: &#8805; 3.0.0 / 2.9.0<br/>
 <sub>sha256: ea0b666edf8e6553cebb9167ab89d86d9592ea88f1b8e16d19cca365abcaea1a</sub>
-Required CCU firmware version: &#8805; 3.0.0 / 2.9.0
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit dem Firmware Update Tool ab Version 1.1 sowie der CCU2 ab Version 2.9.10.
 Die aktuellste Version des Firmware Update Tools finden Sie im Downloadbereich der Website www.eQ-3.de.

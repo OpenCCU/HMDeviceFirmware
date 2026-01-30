@@ -1,6 +1,6 @@
 ## [HmIP-BDT_update_V1_4_8_170725.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BDT_update_V1_4_8_170725.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.25.15<br/>
 <sub>sha256: 9908ec0afbd62e151cfda4cd24868b8c76f8a7d3219f53d9547f3d4311b15710</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.25.15
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2 ab Version 2.29.18.
 Nach dem erfolgreichen Übertragen des Updates ist es erforderlich den HmIP-BDT einmal von der CCU2 ab- und wieder anzulernen, damit alle neuen Funktionen in der CCU2 korrekt angezeigt werden.

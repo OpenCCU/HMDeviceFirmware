@@ -1,6 +1,6 @@
 ## [HmIP-WGS-A-F_update_V1_0_22_250417.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WGS-A-F_update_V1_0_22_250417.tgz)
+Required CCU firmware version: &#8805; 3.81.4<br/>
 <sub>sha256: a47df2ae69cb8a3d8cf6ae7f33a973f5fb1630a54aff190c77372fb5792164c6</sub>
-Required CCU firmware version: &#8805; 3.81.4
 
 C H A N G E L O G
 -----------------

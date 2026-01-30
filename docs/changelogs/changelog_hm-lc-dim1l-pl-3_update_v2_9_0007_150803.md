@@ -1,6 +1,6 @@
 ## [hm-lc-dim1l-pl-3_update_v2_9_0007_150803.tar.gz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm-lc-dim1l-pl-3_update_v2_9_0007_150803.tar.gz)
+Required CCU firmware version: &#8805; 3.0.0 / 2.13.0<br/>
 <sub>sha256: d58ae2ddca1d9de81b46e4027a79149b19314c033ba10fe1a27e4e7c53f73a26</sub>
-Required CCU firmware version: &#8805; 3.0.0 / 2.13.0
 
 Um den Aktor in den Update-Mode zu versetzen, ist wie folgt vorzugehen:
 1. Netzspannung ausschalten / vom Gerät trennen (Ggfs. Sicherheitshinweise der Installation beachten!),

@@ -1,6 +1,6 @@
 ## [HmIP-STE2-PCB_update_V1_0_26_210503.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-STE2-PCB_update_V1_0_26_210503.tgz)
+Required CCU firmware version: &#8805; 3.55.10 / 2.55.10<br/>
 <sub>sha256: 81f67d55e175d3dc84f1c651bad042cf62622dc7eebb4430552545e7610fab94</sub>
-Required CCU firmware version: &#8805; 3.55.10 / 2.55.10
 
 C H A N G E L O G
 -----------------

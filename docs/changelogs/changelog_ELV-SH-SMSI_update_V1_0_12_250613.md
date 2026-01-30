@@ -1,6 +1,6 @@
 ## [ELV-SH-SMSI_update_V1_0_12_250613.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-SMSI_update_V1_0_12_250613.tgz)
+Required CCU firmware version: &#8805; 3.0.0<br/>
 <sub>sha256: 89b99f626f0d83145aa6796f11e882975911b4d82cc845cdfd8d88e2482652ce</sub>
-Required CCU firmware version: &#8805; 3.0.0
 
 C H A N G E L O G
 -----------------

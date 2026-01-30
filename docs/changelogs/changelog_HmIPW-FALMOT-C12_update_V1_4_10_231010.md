@@ -1,6 +1,6 @@
 ## [HmIPW-FALMOT-C12_update_V1_4_10_231010.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-FALMOT-C12_update_V1_4_10_231010.tgz)
+Required CCU firmware version: &#8805; 3.57.5<br/>
 <sub>sha256: 3f4626a9965768e039d2645d32f71298325b9f3e9bd3b5257c5da3c1775e1712</sub>
-Required CCU firmware version: &#8805; 3.57.5
 
 C H A N G E L O G
 -----------------

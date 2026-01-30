@@ -1,6 +1,6 @@
 ## [HmIP-SWO-PR_update_V1_0_18_181030.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWO-PR_update_V1_0_18_181030.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.31.0<br/>
 <sub>sha256: b5cd4fdd98d21eafbc96c7ddf3442e5801508bd1f338c732b3b99f6cd5934b83</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.31.0
 
 C H A N G E L O G
 -----------------

@@ -1,6 +1,6 @@
 ## [ELV-SH-KRC_update_V2_8_8_250708.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-KRC_update_V2_8_8_250708.tgz)
+Required CCU firmware version: &#8805; 3.83.3<br/>
 <sub>sha256: 65274739218d98c89c11aa5f2ec5a8ce9c9ec79a036f5988425652935c6e023e</sub>
-Required CCU firmware version: &#8805; 3.83.3
 
 C H A N G E L O G
 -----------------

@@ -1,6 +1,6 @@
 ## [ELV-SH-CTV_update_V1_0_6_241028.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-CTV_update_V1_0_6_241028.tgz)
+Required CCU firmware version: &#8805; 3.83.6<br/>
 <sub>sha256: 28fa05af8dac87701763da6f8952e16a0f75e6eede724f2f5e441bd74ee3d626</sub>
-Required CCU firmware version: &#8805; 3.83.6
 
 C H A N G E L O G
 -----------------

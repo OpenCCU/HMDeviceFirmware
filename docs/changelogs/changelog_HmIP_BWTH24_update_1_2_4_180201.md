@@ -1,6 +1,6 @@
 ## [HmIP_BWTH24_update_1_2_4_180201.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_BWTH24_update_1_2_4_180201.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.31.25<br/>
 <sub>sha256: 82ebd65b466a9898727aa0798dcfd7dfd0d03c161b053c17d8ae35ed59062633</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.31.25
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2 ab
 Version 2.29.23

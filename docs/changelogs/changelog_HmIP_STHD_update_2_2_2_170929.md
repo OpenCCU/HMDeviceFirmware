@@ -1,6 +1,6 @@
 ## [HmIP_STHD_update_2_2_2_170929.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_STHD_update_2_2_2_170929.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.29.22<br/>
 <sub>sha256: c766f98ccb79865fdd28e747aab367701e1330b52281c4cce28a8974b0e1e6e0</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.29.22
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2 ab
 Version 2.29.22

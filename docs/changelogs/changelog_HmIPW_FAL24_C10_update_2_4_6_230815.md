@@ -1,6 +1,6 @@
 ## [HmIPW_FAL24_C10_update_2_4_6_230815.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_FAL24_C10_update_2_4_6_230815.tgz)
+Required CCU firmware version: &#8805; 3.73.4<br/>
 <sub>sha256: ff80c19f83ba51fc5cbf7e83202eef39f72e35f7e69eb5cb4066a1bd4a68aa5f</sub>
-Required CCU firmware version: &#8805; 3.73.4
 
 C H A N G E L O G
 -----------------

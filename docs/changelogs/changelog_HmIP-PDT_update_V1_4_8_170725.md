@@ -1,6 +1,6 @@
 ## [HmIP-PDT_update_V1_4_8_170725.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PDT_update_V1_4_8_170725.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.25.15<br/>
 <sub>sha256: 163565ca897269950b0d3b73ac7c8c8a475aec93d270f9e1ed5af3af0d1cde71</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.25.15
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2 ab Version 2.29.18.
 Nach dem erfolgreichen Übertragen des Updates ist es erforderlich den HmIP-PDT einmal von der CCU2 ab- und wieder anzulernen, damit alle neuen Funktionen in der CCU2 korrekt angezeigt werden.

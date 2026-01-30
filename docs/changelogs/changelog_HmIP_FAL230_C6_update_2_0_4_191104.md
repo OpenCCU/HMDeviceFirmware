@@ -1,6 +1,6 @@
 ## [HmIP_FAL230_C6_update_2_0_4_191104.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_FAL230_C6_update_2_0_4_191104.tgz)
+Required CCU firmware version: &#8805; 3.45.5 / 2.45.6<br/>
 <sub>sha256: c11ee79c4b8b0680985df1d6c2d03a4ae45c7374202613184a556e628ac5975b</sub>
-Required CCU firmware version: &#8805; 3.45.5 / 2.45.6
 
 C H A N G E L O G
 -----------------

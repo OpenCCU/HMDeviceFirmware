@@ -1,6 +1,6 @@
 ## [HmIP-SCTH230_update_V1_0_6_201216.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SCTH230_update_V1_0_6_201216.tgz)
+Required CCU firmware version: &#8805; 3.55.5 / 2.55.5<br/>
 <sub>sha256: 1a8303c310cc2b925c00719730f567a9f5f45f52e9f543767199b1d774c0e053</sub>
-Required CCU firmware version: &#8805; 3.55.5 / 2.55.5
 
 C H A N G E L O G
 -----------------

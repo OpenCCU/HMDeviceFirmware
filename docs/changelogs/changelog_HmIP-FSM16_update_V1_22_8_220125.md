@@ -1,6 +1,6 @@
 ## [HmIP-FSM16_update_V1_22_8_220125.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FSM16_update_V1_22_8_220125.tgz)
+Required CCU firmware version: &#8805; 3.67.10<br/>
 <sub>sha256: 91c150fc7bb09e2892dff4dae45438053ddb8408593d48b5c5f60e25baa88949</sub>
-Required CCU firmware version: &#8805; 3.67.10
 
 C H A N G E L O G
 -----------------

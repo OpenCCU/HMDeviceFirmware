@@ -1,6 +1,6 @@
 ## [HmIP-PSMCO_update_V1_26_22_240924.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PSMCO_update_V1_26_22_240924.tgz)
+Required CCU firmware version: &#8805; 3.79.3<br/>
 <sub>sha256: 406126abe5a62f465398c8f2f1ca965924eb8dfe7b4250e1205ebf742e43872f</sub>
-Required CCU firmware version: &#8805; 3.79.3
 
 C H A N G E L O G
 -----------------

@@ -1,6 +1,6 @@
 ## [HmIP-SFD_update_V1_2_24_230421.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SFD_update_V1_2_24_230421.tgz)
+Required CCU firmware version: &#8805; 3.57.5 / 2.57.5<br/>
 <sub>sha256: 9f3e6d3fa9d4119b7b0e0f992a15b2cc64608fe07836d2dea1f7e9ff1447dde7</sub>
-Required CCU firmware version: &#8805; 3.57.5 / 2.57.5
 
 C H A N G E L O G
 -----------------

@@ -1,6 +1,6 @@
 ## [HmIP-WHS2_update_V2_2_0_240125.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WHS2_update_V2_2_0_240125.tgz)
+Required CCU firmware version: &#8805; 3.65.3<br/>
 <sub>sha256: 14dff3ac3d2b3f9fa6ef3f7420253eef4653299041d57115292aa4bed5991294</sub>
-Required CCU firmware version: &#8805; 3.65.3
 
 C H A N G E L O G
 -----------------

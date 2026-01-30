@@ -1,6 +1,6 @@
 ## [HmIP-WGC_update_V1_0_2_170919.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WGC_update_V1_0_2_170919.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.31.23<br/>
 <sub>sha256: e3cb5b920e5c970329ab85621ade866f5e66416866a3a619765a5d4722f30970</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.31.23
 
 C H A N G E L O G
 -----------------

@@ -1,6 +1,6 @@
 ## [HmIP-BBL-I_update_V1_10_16_230626.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BBL-I_update_V1_10_16_230626.tgz)
+Required CCU firmware version: &#8805; 3.69.7<br/>
 <sub>sha256: cca5a35428c200a6abb4715850830342eb5e0e0279c616367019a4cf44ea4604</sub>
-Required CCU firmware version: &#8805; 3.69.7
 
 C H A N G E L O G
 -----------------

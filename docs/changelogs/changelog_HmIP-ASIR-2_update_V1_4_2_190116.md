@@ -1,6 +1,6 @@
 ## [HmIP-ASIR-2_update_V1_4_2_190116.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-ASIR-2_update_V1_4_2_190116.tgz)
+Required CCU firmware version: &#8805; 3.45.5 / 2.45.6<br/>
 <sub>sha256: 8c78f65e9a4b11719d6b51fd79095c3aa3064b83c7fa97c1054e34a589fdf127</sub>
-Required CCU firmware version: &#8805; 3.45.5 / 2.45.6
 
 C H A N G E L O G
 -----------------

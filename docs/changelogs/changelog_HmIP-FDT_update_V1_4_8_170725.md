@@ -1,6 +1,6 @@
 ## [HmIP-FDT_update_V1_4_8_170725.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FDT_update_V1_4_8_170725.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.25.15<br/>
 <sub>sha256: 1b21e61869956d7c70071afbbfb7c5ca6eb12c194aa596871bb16124083a1af9</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.25.15
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2 ab Version 2.29.18.
 Nach dem erfolgreichen Übertragen des Updates ist es erforderlich den HmIP-FDT einmal von der CCU2 ab- und wieder anzulernen, damit alle neuen Funktionen in der CCU2 korrekt angezeigt werden.

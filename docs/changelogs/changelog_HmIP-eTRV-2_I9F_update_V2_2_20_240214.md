@@ -1,6 +1,6 @@
 ## [HmIP-eTRV-2_I9F_update_V2_2_20_240214.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-2_I9F_update_V2_2_20_240214.tgz)
+Required CCU firmware version: &#8805; 3.65.11<br/>
 <sub>sha256: bf836219e86134171f0018bdae1223517ecb39c4f5ca42ddd8d1173a006d1859</sub>
-Required CCU firmware version: &#8805; 3.65.11
 
 C H A N G E L O G
 -----------------

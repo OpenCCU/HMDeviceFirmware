@@ -1,6 +1,6 @@
 ## [HmIP-eTRV-CL_update_V1_0_16_221214.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-eTRV-CL_update_V1_0_16_221214.tgz)
+Required CCU firmware version: &#8805; 3.65.2<br/>
 <sub>sha256: 7904758a73a1bad42adc1886d056f7bde00376d5b135e23198ce77e7e15c1a1f</sub>
-Required CCU firmware version: &#8805; 3.65.2
 
 C H A N G E L O G
 -----------------

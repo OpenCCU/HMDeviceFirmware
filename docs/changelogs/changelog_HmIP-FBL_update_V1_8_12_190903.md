@@ -1,6 +1,6 @@
 ## [HmIP-FBL_update_V1_8_12_190903.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FBL_update_V1_8_12_190903.tgz)
+Required CCU firmware version: &#8805; 3.49.14 / 2.49.14<br/>
 <sub>sha256: 4ed25e4f6d7006df8a89eb072612c73f6d05fd9b5a49e840adb967ff5d3654a1</sub>
-Required CCU firmware version: &#8805; 3.49.14 / 2.49.14
 
 C H A N G E L O G
 -----------------

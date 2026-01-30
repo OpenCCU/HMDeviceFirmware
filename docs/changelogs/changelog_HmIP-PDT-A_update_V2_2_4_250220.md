@@ -1,6 +1,6 @@
 ## [HmIP-PDT-A_update_V2_2_4_250220.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PDT-A_update_V2_2_4_250220.tgz)
+Required CCU firmware version: &#8805; 3.81.1<br/>
 <sub>sha256: cdb09b3e6ffff92d368ffd525aed966a1698417e73b7bf6feebe9a4cae7cb4c2</sub>
-Required CCU firmware version: &#8805; 3.81.1
 
 C H A N G E L O G
 -----------------

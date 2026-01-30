@@ -1,6 +1,6 @@
 ## [HmIP-SRH_update_V1_2_10_180314.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SRH_update_V1_2_10_180314.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.33.3<br/>
 <sub>sha256: 1746feadae1f219a915e0a216dca0d2755b89333d49147950aca5ffb84a0e364</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.33.3
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der aktuellsten CCU2/3 Version.
 

@@ -1,6 +1,6 @@
 ## [HmIP-MOD-HO_update_V1_0_14_191002.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-MOD-HO_update_V1_0_14_191002.tgz)
+Required CCU firmware version: &#8805; 3.45.5 / 2.45.6<br/>
 <sub>sha256: f1422e7b6ed5b44e1ad7581f6e2a7878d2745ba14d5987c42814058896e71cfb</sub>
-Required CCU firmware version: &#8805; 3.45.5 / 2.45.6
 
 C H A N G E L O G
 -----------------

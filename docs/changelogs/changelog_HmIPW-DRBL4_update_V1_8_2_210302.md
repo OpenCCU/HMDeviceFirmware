@@ -1,6 +1,6 @@
 ## [HmIPW-DRBL4_update_V1_8_2_210302.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRBL4_update_V1_8_2_210302.tgz)
+Required CCU firmware version: &#8805; 3.53.26<br/>
 <sub>sha256: c0e5d3ffa437613d4995336408d854547e25bec1c4385dfe1ac265a361011fc1</sub>
-Required CCU firmware version: &#8805; 3.53.26
 
 C H A N G E L O G
 -----------------

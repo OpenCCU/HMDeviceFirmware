@@ -1,6 +1,6 @@
 ## [HmIP-SWD-2_update_V2_0_14_250224.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWD-2_update_V2_0_14_250224.tgz)
+Required CCU firmware version: &#8805; 3.75.6<br/>
 <sub>sha256: 3325771361b197f3cf5d5d61c1539312061d8a0765c59bfef9d3963823c72dfc</sub>
-Required CCU firmware version: &#8805; 3.75.6
 
 C H A N G E L O G
 -----------------

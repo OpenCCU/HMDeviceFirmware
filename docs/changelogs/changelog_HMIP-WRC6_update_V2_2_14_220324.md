@@ -1,6 +1,6 @@
 ## [HMIP-WRC6_update_V2_2_14_220324.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HMIP-WRC6_update_V2_2_14_220324.tgz)
+Required CCU firmware version: &#8805; 3.59.6 / 2.59.7<br/>
 <sub>sha256: e41349f09a7f51bbeea1e9477792a24df677af6a5be57de6296e7602645a8da5</sub>
-Required CCU firmware version: &#8805; 3.59.6 / 2.59.7
 
 C H A N G E L O G
 -----------------

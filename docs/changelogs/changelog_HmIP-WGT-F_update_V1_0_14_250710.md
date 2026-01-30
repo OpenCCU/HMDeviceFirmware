@@ -1,6 +1,6 @@
 ## [HmIP-WGT-F_update_V1_0_14_250710.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WGT-F_update_V1_0_14_250710.tgz)
+Required CCU firmware version: &#8805; 3.81.4<br/>
 <sub>sha256: 07aa6449083ad698b22802461d16cc73f57a9b71501c99a0936ed01c6b051a36</sub>
-Required CCU firmware version: &#8805; 3.81.4
 
 C H A N G E L O G
 -----------------

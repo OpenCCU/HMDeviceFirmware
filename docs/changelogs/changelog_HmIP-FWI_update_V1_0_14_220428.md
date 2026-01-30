@@ -1,6 +1,6 @@
 ## [HmIP-FWI_update_V1_0_14_220428.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FWI_update_V1_0_14_220428.tgz)
+Required CCU firmware version: &#8805; 3.61.5 / 2.61.7<br/>
 <sub>sha256: 72b30c467f60caff9faad8d8b562bd794080218354944831bc6fa2694ba183b7</sub>
-Required CCU firmware version: &#8805; 3.61.5 / 2.61.7
 
 C H A N G E L O G
 -----------------

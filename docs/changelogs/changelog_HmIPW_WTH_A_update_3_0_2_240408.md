@@ -1,6 +1,6 @@
 ## [HmIPW_WTH_A_update_3_0_2_240408.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_WTH_A_update_3_0_2_240408.tgz)
+Required CCU firmware version: &#8805; 3.79.6<br/>
 <sub>sha256: 2746ff8d6094ba4499996fba35f79d7c388e226af3fe14ccb4b677177f5818e3</sub>
-Required CCU firmware version: &#8805; 3.79.6
 
 C H A N G E L O G
 -----------------

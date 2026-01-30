@@ -1,6 +1,6 @@
 ## [HM-LC-Dim1PWM-CV_update_V2_9_0005_150730.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Dim1PWM-CV_update_V2_9_0005_150730.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.13.0<br/>
 <sub>sha256: 9c0d9746bb592cfdb2b5b0086cea60ee5348ce11a69da0e803e14ed2dcad35b6</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.13.0
 
 Um den Aktor in den Update-Mode zu versetzen, ist wie folgt vorzugehen:
 1. Netzspannung ausschalten / vom Gerät trennen (Ggfs. Sicherheitshinweise der Installation beachten!),

@@ -1,6 +1,6 @@
 ## [HmIP-FROLL_update_V1_2_0_170523.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FROLL_update_V1_2_0_170523.tgz)
+Required CCU firmware version: &#8805; 3.37.8 / 2.31.23<br/>
 <sub>sha256: 12642fc668d78953aefca827a98d03dd92084e79ba35ecb6f7bc5930ffb15dd7</sub>
-Required CCU firmware version: &#8805; 3.37.8 / 2.31.23
 
 C H A N G E L O G
 -----------------

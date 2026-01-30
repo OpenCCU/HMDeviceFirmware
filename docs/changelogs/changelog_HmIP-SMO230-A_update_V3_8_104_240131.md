@@ -1,6 +1,6 @@
 ## [HmIP-SMO230-A_update_V3_8_104_240131.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO230-A_update_V3_8_104_240131.tgz)
+Required CCU firmware version: &#8805; 3.73.9<br/>
 <sub>sha256: 8066d01f11d989ada7d023227a1896c91c09fb2937fe1db317eb38f69c15a86a</sub>
-Required CCU firmware version: &#8805; 3.73.9
 
 C H A N G E L O G
 -----------------

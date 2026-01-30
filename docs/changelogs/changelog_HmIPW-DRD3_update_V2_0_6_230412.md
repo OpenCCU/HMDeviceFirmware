@@ -1,6 +1,6 @@
 ## [HmIPW-DRD3_update_V2_0_6_230412.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRD3_update_V2_0_6_230412.tgz)
+Required CCU firmware version: &#8805; 3.43.15<br/>
 <sub>sha256: 5dc13e8576fdf6f6a16954445bb639e00615d69c37c22055a06443749c7c646c</sub>
-Required CCU firmware version: &#8805; 3.43.15
 
 C H A N G E L O G
 -----------------
