@@ -1,5 +1,6 @@
 ## [HM-ES-PMSw1-Pl-DN-R5_update_V2_6_0000_150812.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-ES-PMSw1-Pl-DN-R5_update_V2_6_0000_150812.tgz)
 <sub>sha256: 37dae2ab82687f4139137895dae892d4db6b26a7c29f41f6d768c4f127c96a2f</sub>
+Required CCU firmware version: &#8805; 3.37.8 / 2.9.0
 
 C H A N G E L O G
 -----------------

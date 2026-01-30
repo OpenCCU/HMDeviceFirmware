@@ -1,5 +1,6 @@
 ## [HmIP-BROLL-2_update_V1_10_16_230626.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BROLL-2_update_V1_10_16_230626.tgz)
 <sub>sha256: 0defd5628cd526db8c958070f8956a1a2c4876faa8d0bb10fa15a5f5b11783fa</sub>
+Required CCU firmware version: &#8805; 3.69.5
 
 C H A N G E L O G
 -----------------

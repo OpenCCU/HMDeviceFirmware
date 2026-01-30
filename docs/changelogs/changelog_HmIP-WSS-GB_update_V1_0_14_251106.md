@@ -1,5 +1,6 @@
 ## [HmIP-WSS-GB_update_V1_0_14_251106.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WSS-GB_update_V1_0_14_251106.tgz)
-<sub>sha256: 0f1021676acb81ecae15c4fcff95252da9344631d4316925386aae4535089cbd</sub>
+<sub>sha256: 790d1a1cfac753922e774d904e86ed38196d4bfc8dc405614e323055ae1cee2d</sub>
+Required CCU firmware version: &#8805; 3.0.0
 
 C H A N G E L O G
 -----------------

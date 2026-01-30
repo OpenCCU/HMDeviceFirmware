@@ -48,37 +48,93 @@ for f in {$pref_HM,$pref_HmIP,$pref_HmIPW,$pref_ELV}/*gz; do
   pref=$(dirname ${f})
   
   #parse info file
-  infofile=`tar -ztf $f|grep info||true`
-  if [ -z "$infofile" ]; then
-    echo "$f has no info file" | tee -a ${runfile}
+  tar -xf "${f}" info 2>/dev/null
+  if [ ! -f "info" ]; then
+    echo "WARNING: ${f} has no info file" | tee -a ${runfile}
   else
-    tar -zxf $f info
     fwversion=`grep "FirmwareVersion=" info|cut -d "=" -f 2`
     fwversion=${fwversion//[$'\n\r']/}
     fwdevicename=`grep "Name=" info|cut -d "=" -f 2`
     fwdevicename=${fwdevicename//[$'\n\r']/}
     # fix uppercase HMIP-xxxxx
     fwdevicename="${pref}-$(echo ${fwdevicename} | cut -d '-' -f2-)"
+    fwccu2minversion=$(grep "CCUFirmwareVersionMin=" info | cut -d "=" -f 2)
+    fwccu2minversion=${fwccu2minversion//[$'\n\r']/}
+    fwccu3minversion=$(grep "CCU3FirmwareVersionMin=" info 2>/dev/null | cut -d "=" -f 2)
+    fwccu3minversion=${fwccu3minversion//[$'\n\r']/}
+
+    # fix/patch minimum ccu2/ccu3 version infos
+    if [ "${fwccu2minversion}" == "3.0.0" ]; then
+      fwccu2minversion=""
+    fi
+    if [ -z "${fwccu3minversion}" ] || [[ ! ${fwccu3minversion} =~ ^3\. ]]; then
+
+      # patch info file as there should always be a minimum CCU3 version
+      if [ -z "${fwccu3minversion}" ]; then
+        echo "WARNING: ${f} - Missing 'CCU3FirmwareVersionMin' in info. Fixing!" | tee -a ${runfile}
+      else
+        echo "WARNING: ${f} - CCU3FirmwareVersionMin != 3.x.x (${fwccu3minversion}). Fixing!" | tee -a ${runfile}
+      fi
+
+      fwccu3minversion="3.0.0"
+
+      # redo the archive and make sure the info file contains
+      # CCU3FirmwareVersionMin under all circumstances
+      TMPDIR=$(mktemp -d)
+      tar -C ${TMPDIR} -xf "${f}"
+      cp -a "${TMPDIR}/info" "${TMPDIR}/info.bak"
+      sed -i '
+        # if line exists, replace and set flag
+        /^CCU3FirmwareVersionMin=/{
+          s/.*/CCU3FirmwareVersionMin=3.0.0/
+          x; s/.*/1/; x
+        }
+        # at the end: if no flag add line
+        ${
+          x
+          /1/! a\CCU3FirmwareVersionMin=3.0.0
+          x
+        }
+      ' ${TMPDIR}/info
+      touch -r "${TMPDIR}/info.bak" "${TMPDIR}/info"
+      rm -f "${TMPDIR}/info.bak"
+      rm -f "${f}"
+      DSTDIR=$(pwd)
+      (cd ${TMPDIR} && tar --numeric-owner --owner=0 --group=0 -czf "${DSTDIR}/${f}" *)
+      rm -rf ${TMPDIR}
+    fi
+    rm -f info
   fi
 
-  #parse changelog
-  changelog=`tar -ztf $f|grep changelog.txt||true`
-  if [ -z "$changelog" ]; then
-    echo "WARNING: $f has no changelog.txt" | tee -a ${runfile}
-  else
-    SHA256SUM=$(sha256sum ${f} | cut -d' ' -f1)
-    tar -zxf $f changelog.txt
-    fb=$(basename ${f})
-    echo "## [${fb}](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/${pref}/${fb})" >./docs/changelogs/changelog_${fb%%.*}.md
-    echo "<sub>sha256: ${SHA256SUM}</sub>" >>./docs/changelogs/changelog_${fb%%.*}.md
-    echo "" >>./docs/changelogs/changelog_${fb%%.*}.md
-    iconv -f ISO-8859-1 -t UTF-8 changelog.txt >>./docs/changelogs/changelog_${fb%%.*}.md
-    rm changelog.txt
-    echo "| ${fwdevicename} | [V${fwversion}](changelogs/changelog_${fb%%.*}.md) | [${fb}](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/${pref}/${fb}) | \`${SHA256SUM}\` |" >> ./docs/_index.md.tmp.$pref
+  # parse changelog
+  SHA256SUM=$(sha256sum ${f} | cut -d' ' -f1)
+  fb=$(basename ${f})
+  echo "## [${fb}](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/${pref}/${fb})" >./docs/changelogs/changelog_${fb%%.*}.md
+  echo "<sub>sha256: ${SHA256SUM}</sub>" >>./docs/changelogs/changelog_${fb%%.*}.md
+  echo -n "Required CCU firmware version: &#8805; ${fwccu3minversion}" >>./docs/changelogs/changelog_${fb%%.*}.md
+  if [ -n "${fwccu2minversion}" ]; then
+    echo -n " / ${fwccu2minversion}" >>./docs/changelogs/changelog_${fb%%.*}.md
   fi
+  echo "" >>./docs/changelogs/changelog_${fb%%.*}.md
+  echo "" >>./docs/changelogs/changelog_${fb%%.*}.md
+  tar -zxf "${f}" changelog.txt 2>/dev/null
+  if [ ! -f "changelog.txt" ]; then
+    echo "WARNING: ${f} has no changelog.txt" | tee -a ${runfile}
+    echo "C H A N G E L O G" >>./docs/changelogs/changelog_${fb%%.*}.md
+    echo "-----------------" >>./docs/changelogs/changelog_${fb%%.*}.md
+    echo "" >>./docs/changelogs/changelog_${fb%%.*}.md
+    echo "No entries" >>./docs/changelogs/changelog_${fb%%.*}.md
+  else
+    iconv -f ISO-8859-1 -t UTF-8 changelog.txt >>./docs/changelogs/changelog_${fb%%.*}.md
+    rm -f changelog.txt
+  fi
+  echo -n "| ${fwdevicename} | [V${fwversion}](changelogs/changelog_${fb%%.*}.md) | ${fwccu3minversion} " >> ./docs/_index.md.tmp.$pref
+  if [ -n "${fwccu2minversion}" ]; then
+    echo -n "/ ${fwccu2minversion} " >> ./docs/_index.md.tmp.$pref
+  fi
+  echo "| [${fb}](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/${pref}/${fb}) | \`${SHA256SUM}\` |" >> ./docs/_index.md.tmp.$pref
   
 done
-[ -f "info" ] && rm info
 
 #Build final index.md file
 generation_time=$(date --utc +'%d.%m.%Y, %H:%M:%S UTC')
@@ -91,8 +147,8 @@ for i in "${pref_arr[@]}"
 do
   echo "<details open><summary>$i</summary>"     >> ./docs/index.md
   echo ""                                        >> ./docs/index.md
-  echo "| Device Model | Version | Download | SHA256 |"              >> ./docs/index.md
-  echo "| ------------- |:-------------:| ------------- | ------------- |"       >> ./docs/index.md
+  echo "| Device Model | Version | &#8805;CCU-FW | Download | SHA256 |"              >> ./docs/index.md
+  echo "| ------------- |:-------------:| ------------- | ------------- | ------------- |"       >> ./docs/index.md
   cat ./docs/_index.md.tmp.$i | sort             >> ./docs/index.md
   echo "</details>"                              >> ./docs/index.md
 done

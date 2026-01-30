@@ -1,5 +1,6 @@
 ## [HmIPW-AV-RH_update_V1_0_4_241009.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-AV-RH_update_V1_0_4_241009.tgz)
-<sub>sha256: dfa1513bc4ff80ac7beb207ef4327c62b7995ec69510f4918cf2c816311255e1</sub>
+<sub>sha256: 502abec110751fede6e2daff14a83d352230c3c8d9e66f002d20bf819aca7b57</sub>
+Required CCU firmware version: &#8805; 3.0.0
 
 C H A N G E L O G
 -----------------

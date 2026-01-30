@@ -1,5 +1,6 @@
 ## [HmIP-SWDO-PL-2_update_V1_18_10_221019.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWDO-PL-2_update_V1_18_10_221019.tgz)
 <sub>sha256: 72d108398ab3362402961e3ff279bdab2477bacc442152529b7ae3969fb94532</sub>
+Required CCU firmware version: &#8805; 3.65.11
 
 C H A N G E L O G
 -----------------

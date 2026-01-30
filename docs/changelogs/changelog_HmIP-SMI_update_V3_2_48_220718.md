@@ -1,5 +1,6 @@
 ## [HmIP-SMI_update_V3_2_48_220718.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMI_update_V3_2_48_220718.tgz)
 <sub>sha256: 2ed7f9ced3dfdbf78f8612a01707f88a7c2838bb622ad3d0d79f0f7177599f31</sub>
+Required CCU firmware version: &#8805; 3.61.5 / 2.61.6
 
 C H A N G E L O G
 -----------------

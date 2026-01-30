@@ -1,5 +1,6 @@
 ## [HmIP-FDT_update_V2_2_4_231123.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FDT_update_V2_2_4_231123.tgz)
 <sub>sha256: 5921c61fc0e1a629b5d7eb557c6dd8b42000d4014f263a762a720a32becec18b</sub>
+Required CCU firmware version: &#8805; 3.73.9
 
 C H A N G E L O G
 -----------------

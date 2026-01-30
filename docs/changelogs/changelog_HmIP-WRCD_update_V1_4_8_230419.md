@@ -1,5 +1,6 @@
 ## [HmIP-WRCD_update_V1_4_8_230419.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRCD_update_V1_4_8_230419.tgz)
 <sub>sha256: c73f81e4bbf0af716d0c86b03c566aac84ed663a31259b39d9de0d33488cab02</sub>
+Required CCU firmware version: &#8805; 3.51.6 / 2.51.6
 
 C H A N G E L O G
 -----------------

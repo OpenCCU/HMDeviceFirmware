@@ -1,5 +1,6 @@
 ## [HmIP-MOD-WD-VK_update_V1_0_6_220727.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-MOD-WD-VK_update_V1_0_6_220727.tgz)
 <sub>sha256: 170b3d09574a8dd8601b55253775a2123651a3c3a479bd9489e6549017e8cbba</sub>
+Required CCU firmware version: &#8805; 3.65.6
 
 C H A N G E L O G
 -----------------

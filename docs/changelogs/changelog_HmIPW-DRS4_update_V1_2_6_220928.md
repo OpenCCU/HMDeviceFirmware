@@ -1,5 +1,6 @@
 ## [HmIPW-DRS4_update_V1_2_6_220928.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRS4_update_V1_2_6_220928.tgz)
 <sub>sha256: 0865ce0ec6d2e6f0c4de2f518b0cce0f840b6f746efebd3b4c85de5dba2d8e90</sub>
+Required CCU firmware version: &#8805; 3.43.15
 
 C H A N G E L O G
 -----------------

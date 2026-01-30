@@ -1,5 +1,6 @@
 ## [HmIP-PS_update_V2_24_8_240305.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PS_update_V2_24_8_240305.tgz)
 <sub>sha256: cbd95c41cf5244a3420b86326efdb411e9b448a3fede1b36d1cea4ffa91bad42</sub>
+Required CCU firmware version: &#8805; 3.61.7
 
 C H A N G E L O G
 -----------------

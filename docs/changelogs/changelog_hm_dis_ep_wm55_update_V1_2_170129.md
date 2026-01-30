@@ -1,5 +1,6 @@
 ## [hm_dis_ep_wm55_update_V1_2_170129.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm_dis_ep_wm55_update_V1_2_170129.tgz)
 <sub>sha256: 36f8edf125e63ce548ca7c59cb82029ef8cbc9b323b11782cf67df5c733a810a</sub>
+Required CCU firmware version: &#8805; 3.37.8 / 2.19.1
 
 ï»¿Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2 ab Version 2.19.1.
 Die jeweils aktuellste Version finden Sie im Downloadbereich unter www.eQ-3.de.

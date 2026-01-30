@@ -1,5 +1,6 @@
 ## [HmIPW-BRC2_update_V2_2_10_200825.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-BRC2_update_V2_2_10_200825.tgz)
 <sub>sha256: 8ae0d2e96aeb046ab623db616afd99d056a42c259dee7aeb50c31a85a0938c6d</sub>
+Required CCU firmware version: &#8805; 3.53.26
 
 C H A N G E L O G
 -----------------

@@ -1,5 +1,6 @@
 ## [HmIP-HAP-Y7R_3_0_16_230614.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-HAP-Y7R_3_0_16_230614.tgz)
 <sub>sha256: b03ecae6c366438caf189aa6806980300384cd7538f694c11377e184f427d160</sub>
+Required CCU firmware version: &#8805; 3.71.1
 
 C H A N G E L O G
 -----------------

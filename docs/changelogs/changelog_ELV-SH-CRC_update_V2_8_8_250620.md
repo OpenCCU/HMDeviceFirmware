@@ -1,5 +1,6 @@
 ## [ELV-SH-CRC_update_V2_8_8_250620.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-CRC_update_V2_8_8_250620.tgz)
 <sub>sha256: 4761e088f099758e825458029511391410176f3bb85573a74dcf834364e43d04</sub>
+Required CCU firmware version: &#8805; 3.83.3
 
 C H A N G E L O G
 -----------------

@@ -1,5 +1,6 @@
 ## [HM-ES-TX-WM_update_V1_2_191218.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-ES-TX-WM_update_V1_2_191218.tgz)
 <sub>sha256: 63b655756e90e61e0d1841201c57cf8e8e410fcb5f893c299f48bf990d4826e6</sub>
+Required CCU firmware version: &#8805; 3.45.7 / 2.45.7
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit dem Firmware Update Tool ab Version 1.1 sowie der CCU2 ab Version 2.15.2.
 Die jeweils aktuellste Version finden Sie im Downloadbereich unter www.eQ-3.de.

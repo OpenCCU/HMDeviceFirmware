@@ -1,5 +1,6 @@
 ## [HmIP-SMO-2_update_V3_6_72_230504.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO-2_update_V3_6_72_230504.tgz)
 <sub>sha256: fb3b681fb2bf31b46b2933644e6e6f51e9941a37ad4520fe4380755d0e56c063</sub>
+Required CCU firmware version: &#8805; 3.69.7
 
 C H A N G E L O G
 -----------------

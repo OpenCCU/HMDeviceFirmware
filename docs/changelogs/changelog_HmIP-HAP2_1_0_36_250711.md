@@ -1,5 +1,6 @@
 ## [HmIP-HAP2_1_0_36_250711.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-HAP2_1_0_36_250711.tgz)
 <sub>sha256: 72861520b40213488b2bd4af18c0d29fa7b4316b3f261ab9e18fba554f8cd420</sub>
+Required CCU firmware version: &#8805; 3.83.6
 
 C H A N G E L O G
 -----------------

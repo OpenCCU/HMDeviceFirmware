@@ -1,5 +1,6 @@
 ## [HmIP-MIOB_update_V1_8_4_190327.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-MIOB_update_V1_8_4_190327.tgz)
 <sub>sha256: 76f1cf55c62f5f46fda2fef103a021eeb3ce8b5f9a924d6b09e3b03d719fcd86</sub>
+Required CCU firmware version: &#8805; 3.45.5 / 2.45.6
 
 C H A N G E L O G
 -----------------

@@ -1,5 +1,6 @@
 ## [HmIP-SWDO_update_V1_16_8_180315.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWDO_update_V1_16_8_180315.tgz)
 <sub>sha256: 4e5f896492d39fc4d03fca3e478da17c9eb49894bcba59283f4274e868f928bb</sub>
+Required CCU firmware version: &#8805; 3.37.8 / 2.33.3
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der aktuellsten CCU2/3 Version.
 

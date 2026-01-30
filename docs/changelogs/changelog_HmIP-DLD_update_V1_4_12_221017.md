@@ -1,5 +1,6 @@
 ## [HmIP-DLD_update_V1_4_12_221017.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DLD_update_V1_4_12_221017.tgz)
 <sub>sha256: af920bc25d597180b51169090a6550669ca82f766a2f6afaaa1dafb0b7d92bea</sub>
+Required CCU firmware version: &#8805; 3.61.5 / 2.61.5
 
 C H A N G E L O G
 -----------------

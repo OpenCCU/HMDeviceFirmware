@@ -1,5 +1,6 @@
 ## [HmIP-STHO-A_update_V1_0_8_230209.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-STHO-A_update_V1_0_8_230209.tgz)
 <sub>sha256: 0c5c0fbe49a1dcd3f89aabf60bc203d9bc104784bf6a607a6ef6c17aba19b351</sub>
+Required CCU firmware version: &#8805; 3.37.8 / 2.31.23
 
 ï»¿C H A N G E L O G
 -----------------

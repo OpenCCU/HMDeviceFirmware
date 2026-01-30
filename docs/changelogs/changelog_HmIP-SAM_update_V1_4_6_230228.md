@@ -1,5 +1,6 @@
 ## [HmIP-SAM_update_V1_4_6_230228.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SAM_update_V1_4_6_230228.tgz)
 <sub>sha256: bd9cbc322ab6afb07386a9314921bd6efff80526febce9a4744f5b9832fc7ab5</sub>
+Required CCU firmware version: &#8805; 3.45.7 / 2.45.7
 
 C H A N G E L O G
 -----------------

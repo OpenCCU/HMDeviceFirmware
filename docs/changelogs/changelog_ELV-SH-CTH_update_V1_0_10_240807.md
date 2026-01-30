@@ -1,5 +1,6 @@
 ## [ELV-SH-CTH_update_V1_0_10_240807.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-CTH_update_V1_0_10_240807.tgz)
 <sub>sha256: f9346eaa06cd3bd4b008c37f363fb27a74ced6520ab910ae81e90f0193f60d14</sub>
+Required CCU firmware version: &#8805; 3.77.7
 
 C H A N G E L O G
 -----------------

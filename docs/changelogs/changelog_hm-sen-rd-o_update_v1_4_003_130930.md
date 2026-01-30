@@ -1,5 +1,6 @@
 ## [hm-sen-rd-o_update_v1_4_003_130930.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm-sen-rd-o_update_v1_4_003_130930.tgz)
-<sub>sha256: 009563eae4df93c00e435504dc96bb1f784f13829c97fa1f6a075d84b6c063d5</sub>
+<sub>sha256: 94633877999ddbdd28e8d3aa21470f7816fa0aeaf0bad61e1aad76ba32576e1c</sub>
+Required CCU firmware version: &#8805; 3.0.0 / 2.9.0
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit dem Firmware Update Tool ab Version 1.1 sowie der CCU2 Version 2.9.10.
 Die aktuellste Version des Firmware Update Tools finden Sie im Downloadbereich der Website www.eQ-3.de.

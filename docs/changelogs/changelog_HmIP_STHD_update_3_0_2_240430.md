@@ -1,5 +1,6 @@
 ## [HmIP_STHD_update_3_0_2_240430.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_STHD_update_3_0_2_240430.tgz)
 <sub>sha256: cbd7134336495ba7f0b7ef2770b0e4237084f48e1ef684b747c611c0ba97e0e2</sub>
+Required CCU firmware version: &#8805; 3.75.6
 
 C H A N G E L O G
 -----------------

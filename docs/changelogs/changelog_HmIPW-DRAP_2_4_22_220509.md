@@ -1,5 +1,6 @@
 ## [HmIPW-DRAP_2_4_22_220509.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRAP_2_4_22_220509.tgz)
 <sub>sha256: 34bb70157db8569bbcc4fe1e95f1a40234430024bc5ec80bd9875f4ab1e0363e</sub>
+Required CCU firmware version: &#8805; 3.65.6
 
 C H A N G E L O G
 -----------------

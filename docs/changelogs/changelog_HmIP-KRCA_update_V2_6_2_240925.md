@@ -1,5 +1,6 @@
 ## [HmIP-KRCA_update_V2_6_2_240925.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-KRCA_update_V2_6_2_240925.tgz)
 <sub>sha256: b0adb884b890e32256da04fb1aa093b372e1f26eab0079fa61ac009207f64b30</sub>
+Required CCU firmware version: &#8805; 3.79.3
 
 C H A N G E L O G
 -----------------

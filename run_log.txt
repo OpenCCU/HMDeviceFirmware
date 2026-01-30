@@ -240,10 +240,18 @@ Moving files into directories
 Regen archive list
 WARNING: HM/hm-lc-rgbw-wm_update_V1_0_150723.tgz has no changelog.txt
 WARNING: HmIP/HmIP-MP3P_update_V1_0_26_200820.tgz has no changelog.txt
+WARNING: HmIP/HmIP-WSS-GB_update_V1_0_14_251106.tgz - CCU3FirmwareVersionMin != 3.x.x (4.0.0). Fixing!
+WARNING: HmIP/HmIP-WSS_update_V1_0_14_251106.tgz - CCU3FirmwareVersionMin != 3.x.x (4.0.0). Fixing!
 WARNING: HmIP/HmIP_WTH_2_update_2_6_0_191202.tgz has no changelog.txt
 WARNING: HmIP/HmIP_WTH_update_2_4_8_190307.tgz has no changelog.txt
 WARNING: HmIP/HmIP_eTRV_2_UK_update_2_2_8_190225.tgz has no changelog.txt
+WARNING: HmIPW/HmIPW-AV-CO2_update_V1_0_4_241009.tgz - CCU3FirmwareVersionMin != 3.x.x (4.0.0). Fixing!
+WARNING: HmIPW/HmIPW-AV-RH_update_V1_0_4_241009.tgz - CCU3FirmwareVersionMin != 3.x.x (4.0.0). Fixing!
+WARNING: HmIPW/HmIPW-AV-SVN_update_V1_2_0_250829.tgz - CCU3FirmwareVersionMin != 3.x.x (4.0.0). Fixing!
+WARNING: HmIPW/HmIPW-AV_update_V1_0_4_241009.tgz - CCU3FirmwareVersionMin != 3.x.x (4.0.0). Fixing!
+WARNING: HmIPW/HmIPW-DRAVC_update_V1_2_22_251124.tgz - CCU3FirmwareVersionMin != 3.x.x (4.0.0). Fixing!
 WARNING: HmIPW/HmIPW_STHD_update_2_4_8_190307.tgz has no changelog.txt
 WARNING: HmIPW/HmIPW_STH_update_2_4_6_190117.tgz has no changelog.txt
 WARNING: HmIPW/HmIPW_WTH_update_2_4_6_190117.tgz has no changelog.txt
+WARNING: ELV/ELV-SH-SMSI_update_V1_0_12_250613.tgz - CCU3FirmwareVersionMin != 3.x.x (2.83.2). Fixing!
 Done.

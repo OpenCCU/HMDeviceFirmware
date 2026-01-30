@@ -1,5 +1,6 @@
 ## [HmIP_FAL24_C6_update_2_2_6_220530.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_FAL24_C6_update_2_2_6_220530.tgz)
 <sub>sha256: af2a30056942422d31b0e60f354c5863f8f2908474d1622e6cb413cada81a11a</sub>
+Required CCU firmware version: &#8805; 3.63.9 
 
 C H A N G E L O G
 -----------------

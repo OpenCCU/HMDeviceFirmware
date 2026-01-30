@@ -1,5 +1,6 @@
 ## [ELV-SH-WSC_update_V1_0_8_211001.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-WSC_update_V1_0_8_211001.tgz)
 <sub>sha256: 3a1221f4e755d259d942ec4fc256fc691cf6df22ffe15085b2be3b63031ad7ed</sub>
+Required CCU firmware version: &#8805; 3.61.4 / 2.61.1
 
 C H A N G E L O G
 -----------------

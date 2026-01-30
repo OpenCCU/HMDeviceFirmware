@@ -1,5 +1,6 @@
 ## [HmIP-RGBW_update_V1_0_52_221214.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-RGBW_update_V1_0_52_221214.tgz)
 <sub>sha256: f25a648e0bb24b2a1146396631373ecd14b5ae1653c7ce2110bc811c66bce379</sub>
+Required CCU firmware version: &#8805; 3.67.8
 
 C H A N G E L O G
 -----------------

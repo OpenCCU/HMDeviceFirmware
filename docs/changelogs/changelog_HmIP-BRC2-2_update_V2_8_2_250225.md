@@ -1,5 +1,6 @@
 ## [HmIP-BRC2-2_update_V2_8_2_250225.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BRC2-2_update_V2_8_2_250225.tgz)
 <sub>sha256: e3df7fe0bcb1b09b9825cc5e66e2dc8c5cd750a2f824f245d1ffdf023ad53f85</sub>
+Required CCU firmware version: &#8805; 3.83.6
 
 C H A N G E L O G
 -----------------

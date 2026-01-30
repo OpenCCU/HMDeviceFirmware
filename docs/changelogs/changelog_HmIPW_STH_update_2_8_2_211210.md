@@ -1,5 +1,6 @@
 ## [HmIPW_STH_update_2_8_2_211210.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_STH_update_2_8_2_211210.tgz)
 <sub>sha256: 02c115ce9e610c6a224f21a5b1c7135346f410b3a0b54e264f6330b9e374fdb5</sub>
+Required CCU firmware version: &#8805; 3.63.1
 
 C H A N G E L O G
 -----------------

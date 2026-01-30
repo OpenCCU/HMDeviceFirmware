@@ -1,5 +1,6 @@
 ## [HmIPW_FAL230_C6_update_2_0_2_190417.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_FAL230_C6_update_2_0_2_190417.tgz)
 <sub>sha256: f47dbbba6b87c046733e0f3b521da12f126100380deb1ba0f532fb48c6e994b2</sub>
+Required CCU firmware version: &#8805; 3.47.10
 
 C H A N G E L O G
 -----------------

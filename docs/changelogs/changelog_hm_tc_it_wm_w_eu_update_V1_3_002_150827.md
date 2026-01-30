@@ -1,5 +1,6 @@
 ## [hm_tc_it_wm_w_eu_update_V1_3_002_150827.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm_tc_it_wm_w_eu_update_V1_3_002_150827.tgz)
-<sub>sha256: 1055bd9d645396c4abaf09e3d3a63befb6ac874a038610f7232c3856588e9eb4</sub>
+<sub>sha256: 0e88a6e4bf6a75f87851a26d14f4af2e31769bb42f7fe0e56d37cd14bd4d3eff</sub>
+Required CCU firmware version: &#8805; 3.0.0 / 2.9.0
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit dem Firmware Update Tool ab Version 1.1 sowie der CCU2 ab Version 2.9.0.
 

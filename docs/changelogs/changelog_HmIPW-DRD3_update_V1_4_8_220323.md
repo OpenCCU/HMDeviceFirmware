@@ -1,5 +1,6 @@
 ## [HmIPW-DRD3_update_V1_4_8_220323.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRD3_update_V1_4_8_220323.tgz)
 <sub>sha256: 72cf0f0277641e758a8340cc26bc75607769ce4fe23dbc33ff6f386c9d99629d</sub>
+Required CCU firmware version: &#8805; 3.43.15
 
 C H A N G E L O G
 -----------------

@@ -1,5 +1,6 @@
 ## [HM-LC-Dim1TPBU-FM_update_V2_9_0005_150730.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/HM-LC-Dim1TPBU-FM_update_V2_9_0005_150730.tgz)
 <sub>sha256: 69ae057c1252f0e9ee66336a33f171f93ca85b325e9259501e1c65f203b4d2ad</sub>
+Required CCU firmware version: &#8805; 3.37.8 / 2.13.0
 
 Um den Aktor in den Update-Mode zu versetzen, ist wie folgt vorzugehen:
 1. Netzspannung ausschalten / vom Gerät trennen (Ggfs. Sicherheitshinweise der Installation beachten!),

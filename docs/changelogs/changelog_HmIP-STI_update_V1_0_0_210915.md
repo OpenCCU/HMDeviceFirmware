@@ -1,5 +1,6 @@
 ## [HmIP-STI_update_V1_0_0_210915.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-STI_update_V1_0_0_210915.tgz)
 <sub>sha256: dcd7dc2bddcafee6b9ba74c1634473a689ccdac11726784917d4062bad556be1</sub>
+Required CCU firmware version: &#8805; 3.61.7 / 2.61.7
 
 C H A N G E L O G
 -----------------

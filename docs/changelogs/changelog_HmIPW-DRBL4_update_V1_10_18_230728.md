@@ -1,5 +1,6 @@
 ## [HmIPW-DRBL4_update_V1_10_18_230728.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW-DRBL4_update_V1_10_18_230728.tgz)
 <sub>sha256: 0284a2a1d3daae056bd857b7fe6ee2246bf4f200ae25e2a955556c9b3312f719</sub>
+Required CCU firmware version: &#8805; 3.75.1
 
 C H A N G E L O G
 -----------------

@@ -1,5 +1,6 @@
 ## [HmIP-BROLL_update_V1_6_2_180809.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-BROLL_update_V1_6_2_180809.tgz)
 <sub>sha256: c3fa44d441f8151f5dc3bbda8c09bd80b094b15adce85cd684494cf7411e4e73</sub>
+Required CCU firmware version: &#8805; 3.37.8 / 2.31.4
 
 ï»¿Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2/3 ab Version 2/3.31.4
 Nach dem erfolgreichen Ãbertragen des Updates ist es erforderlich den HmIP-BROLL einmal von der CCU2 ab- und wieder anzulernen, damit alle neuen Funktionen in der CCU2 korrekt angezeigt werden.

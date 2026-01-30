@@ -1,5 +1,6 @@
 ## [HmIP-WKP_update_V1_0_12_230123.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WKP_update_V1_0_12_230123.tgz)
 <sub>sha256: f6db3bd6e2754fd51add2acb18af9e714ec5ea03b304b2969c561a5ed0f6093f</sub>
+Required CCU firmware version: &#8805; 3.63.1
 
 C H A N G E L O G
 -----------------

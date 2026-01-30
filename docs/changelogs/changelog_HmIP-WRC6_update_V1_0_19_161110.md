@@ -1,5 +1,6 @@
 ## [HmIP-WRC6_update_V1_0_19_161110.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRC6_update_V1_0_19_161110.tgz)
 <sub>sha256: 268cabd17a294e169fb4d6ac147a0b7807c0ddeacc05918cfa645919fb34e967</sub>
+Required CCU firmware version: &#8805; 3.37.8 / 2.25.12
 
 C H A N G E L O G
 -----------------

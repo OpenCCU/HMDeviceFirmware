@@ -1,5 +1,6 @@
 ## [HmIP-PSM-PE_update_V2_6_2_170504.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PSM-PE_update_V2_6_2_170504.tgz)
 <sub>sha256: f86305614b03846e35a516e9e251973d82137173b4f75d4647731fc1fd4c3206</sub>
+Required CCU firmware version: &#8805; 3.37.8 / 2.29.18
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2 ab Version 2.29.18.
 Nach dem erfolgreichen Übertragen des Updates ist es erforderlich den HmIP-PSM einmal von der CCU2 ab- und wieder anzulernen, damit alle neuen Funktionen in der CCU2 korrekt angezeigt werden.

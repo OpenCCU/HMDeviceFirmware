@@ -1,5 +1,6 @@
 ## [HmIP-PSM-2-A_update_V2_24_2_250228.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PSM-2-A_update_V2_24_2_250228.tgz)
 <sub>sha256: 27bf58f3fc77cf4e45fe252918a45db49111732c1a68b2b40dc8eaf33608ef13</sub>
+Required CCU firmware version: &#8805; 3.81.1
 
 C H A N G E L O G
 -----------------

@@ -1,5 +1,6 @@
 ## [hm-es-pmsw1-pl-dn-r1_update_v2_5_0009_150217.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm-es-pmsw1-pl-dn-r1_update_v2_5_0009_150217.tgz)
-<sub>sha256: e26a80ee5e126b25fd45e20d1b9004976c71e3a769cfcfdc9de86a9d00c45002</sub>
+<sub>sha256: 3b397596abecc2ef1386fcf1642ecf530e1d679e7cd4363b475519899e654258</sub>
+Required CCU firmware version: &#8805; 3.0.0 / 2.9.0
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2 ab Version 2.9.10.
 

@@ -1,5 +1,6 @@
 ## [HmIPW_FAL230_C10_update_2_4_6_230815.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_FAL230_C10_update_2_4_6_230815.tgz)
 <sub>sha256: 2a7a2b500849df6f4385a146c92af8cf945f38a6d8b394b938a57bf4b1adb9fd</sub>
+Required CCU firmware version: &#8805; 3.73.4
 
 C H A N G E L O G
 -----------------

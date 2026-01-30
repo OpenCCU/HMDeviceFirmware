@@ -1,5 +1,6 @@
 ## [HmIP-SPDR_update_V1_2_0_180316.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SPDR_update_V1_2_0_180316.tgz)
 <sub>sha256: a586fe1f3136f9728d3ec97dbe88d4cb3975fbb73bd950e75f0dcbe5cd0386f6</sub>
+Required CCU firmware version: &#8805; 3.45.5 / 2.45.6
 
 C H A N G E L O G
 -----------------

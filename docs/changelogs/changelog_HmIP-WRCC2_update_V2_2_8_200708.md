@@ -1,5 +1,6 @@
 ## [HmIP-WRCC2_update_V2_2_8_200708.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRCC2_update_V2_2_8_200708.tgz)
 <sub>sha256: 13daef9d853b95399e3484c754e5cba8758797ba8bf03e11ad877d24c84298bc</sub>
+Required CCU firmware version: &#8805; 3.53.27 / 2.53.27
 
 C H A N G E L O G
 -----------------

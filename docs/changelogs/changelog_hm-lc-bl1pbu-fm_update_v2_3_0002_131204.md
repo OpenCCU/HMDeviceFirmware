@@ -1,5 +1,6 @@
 ## [hm-lc-bl1pbu-fm_update_v2_3_0002_131204.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm-lc-bl1pbu-fm_update_v2_3_0002_131204.tgz)
-<sub>sha256: b7c1fefa363c364db8448f09012f60d6ce70f243377bd65de9badda0847226b7</sub>
+<sub>sha256: c66a027195b022382c4c9acbee97b193914eaac2aa172b7030b23ce1f1c28868</sub>
+Required CCU firmware version: &#8805; 3.0.0 / 2.9.0
 
 In Verbindung mit der CCU2 wird das Gerät automatisch in den Updatemodus versetzt. 
 Für ein Firmware-Update mit dem Firmware Update Tool, gehen Sie wie folgt vor:

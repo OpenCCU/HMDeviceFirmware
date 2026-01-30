@@ -1,5 +1,6 @@
 ## [hm-mod-re-8_update_V1_2_150911.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm-mod-re-8_update_V1_2_150911.tgz)
 <sub>sha256: c4273fa35ffd1b0a6c5d8a1b224870e39c76efedb49b4c0d9177f46b2bb6ed63</sub>
+Required CCU firmware version: &#8805; 3.37.8 / 2.15.2
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit dem Firmware Update Tool ab Version 1.1 sowie der CCU2 Version 2.15.2.
 Die aktuellste Version des Firmware Update Tools finden Sie im Downloadbereich der Website www.eQ-3.de.

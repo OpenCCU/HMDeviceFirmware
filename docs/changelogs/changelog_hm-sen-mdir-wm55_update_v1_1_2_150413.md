@@ -1,5 +1,6 @@
 ## [hm-sen-mdir-wm55_update_v1_1_2_150413.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HM/hm-sen-mdir-wm55_update_v1_1_2_150413.tgz)
-<sub>sha256: feb04b21f5ded2758c62e4b67f96a910a0d06a91d34f17748477ffaba90c6fe5</sub>
+<sub>sha256: e489047fa2d6384de51e5c6faf254b74f36f2d649773d5a08b60a36ea26c25d6</sub>
+Required CCU firmware version: &#8805; 3.0.0 / 2.11.9
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit dem Firmware Update Tool ab Version 1.1 sowie der CCU2 Version 2.11.9.
 Die aktuellste Version des Firmware Update Tools finden Sie im Downloadbereich der Website www.eQ-3.de.

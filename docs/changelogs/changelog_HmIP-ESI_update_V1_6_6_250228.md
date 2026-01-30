@@ -1,5 +1,6 @@
 ## [HmIP-ESI_update_V1_6_6_250228.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-ESI_update_V1_6_6_250228.tgz)
 <sub>sha256: 52d7ba00cb476ecc6464db1cd4e0f2caec74ffea7fc918ccbb18248855939a5e</sub>
+Required CCU firmware version: &#8805; 3.73.9
 
 C H A N G E L O G
 -----------------

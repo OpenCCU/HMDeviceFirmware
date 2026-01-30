@@ -1,5 +1,6 @@
 ## [HmIP-SMO_update_V1_2_8_180326.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO_update_V1_2_8_180326.tgz)
 <sub>sha256: 235f5b61fdd9200ba9076277cd74df6f637b404db5173e951d7598621c233e3e</sub>
+Required CCU firmware version: &#8805; 3.37.8 / 2.33.3
 
 Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2(3) ab
 Version 2(3).29.23

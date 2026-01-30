@@ -1,5 +1,6 @@
 ## [HmIPW_FAL24_C6_update_2_0_2_190417.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIPW/HmIPW_FAL24_C6_update_2_0_2_190417.tgz)
 <sub>sha256: b0a91bdc31d9c72e1079cab807e297488cf7603dc52e9da849e532e58c5cb276</sub>
+Required CCU firmware version: &#8805; 3.47.10
 
 C H A N G E L O G
 -----------------

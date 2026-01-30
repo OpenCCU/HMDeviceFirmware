@@ -1,5 +1,6 @@
 ## [HmIP-DSD-PCB_update_V1_0_6_190927.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DSD-PCB_update_V1_0_6_190927.tgz)
 <sub>sha256: 9028eb8803f5faf08f219a6cdfdd99cdb91f841121cf5617a06f2741283b11b7</sub>
+Required CCU firmware version: &#8805; 3.49.14 / 2.49.14
 
 C H A N G E L O G
 -----------------

@@ -1,5 +1,6 @@
 ## [HmIP-FALMOT-C8_update_V1_6_12_250527.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FALMOT-C8_update_V1_6_12_250527.tgz)
 <sub>sha256: 2c63da0586e45c30b5ebf87983e54bb99f1628e66d75bf22d1a6b9791d732af9</sub>
+Required CCU firmware version: &#8805; 3.83.1
 
 C H A N G E L O G
 -----------------
