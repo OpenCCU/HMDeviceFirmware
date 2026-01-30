@@ -110,13 +110,12 @@ for f in {$pref_HM,$pref_HmIP,$pref_HmIPW,$pref_ELV}/*gz; do
   SHA256SUM=$(sha256sum ${f} | cut -d' ' -f1)
   fb=$(basename ${f})
   echo "## [${fb}](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/${pref}/${fb})" >./docs/changelogs/changelog_${fb%%.*}.md
-  echo "<sub>sha256: ${SHA256SUM}</sub>" >>./docs/changelogs/changelog_${fb%%.*}.md
-  echo "" >>./docs/changelogs/changelog_${fb%%.*}.md
   echo -n "Required CCU firmware version: &#8805; ${fwccu3minversion}" >>./docs/changelogs/changelog_${fb%%.*}.md
   if [ -n "${fwccu2minversion}" ]; then
     echo -n " / ${fwccu2minversion}" >>./docs/changelogs/changelog_${fb%%.*}.md
   fi
-  echo "" >>./docs/changelogs/changelog_${fb%%.*}.md
+  echo "<br/>" >>./docs/changelogs/changelog_${fb%%.*}.md
+  echo "<sub>sha256: ${SHA256SUM}</sub>" >>./docs/changelogs/changelog_${fb%%.*}.md
   echo "" >>./docs/changelogs/changelog_${fb%%.*}.md
   tar -zxf "${f}" changelog.txt 2>/dev/null
   if [ ! -f "changelog.txt" ]; then
