@@ -1,6 +1,6 @@
 ## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 10.02.2026, 19:42:28 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
+_last generated: 11.02.2026, 11:28:10 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
 
 <details open><summary>HmIP</summary>
 
@@ -293,6 +293,8 @@ _last generated: 10.02.2026, 19:42:28 UTC_ ([GitHub](https://github.com/OpenCCU/
 | HmIP-WRC2-A-2 | [V2.8.8](changelogs/changelog_HmIP-WRC2-A-2_update_V2_8_8_250526.md) | 3.83.1 | [HmIP-WRC2-A-2_update_V2_8_8_250526.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRC2-A-2_update_V2_8_8_250526.tgz) | `e44c6a2b43861fc827593c8b9d7bc18d33d0c6baa050ffba69511c8a8377e825` |
 | HmIP-WRC6 | [V1.0.19](changelogs/changelog_HmIP-WRC6_update_V1_0_19_161110.md) | 3.37.8 / 2.25.12 | [HmIP-WRC6_update_V1_0_19_161110.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRC6_update_V1_0_19_161110.tgz) | `268cabd17a294e169fb4d6ac147a0b7807c0ddeacc05918cfa645919fb34e967` |
 | HmIP-WRC6 | [V2.2.14](changelogs/changelog_HMIP-WRC6_update_V2_2_14_220324.md) | 3.59.6 / 2.59.7 | [HMIP-WRC6_update_V2_2_14_220324.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HMIP-WRC6_update_V2_2_14_220324.tgz) | `e41349f09a7f51bbeea1e9477792a24df677af6a5be57de6296e7602645a8da5` |
+| HmIP-WRC6-230 | [V1.0.28](changelogs/changelog_HmIP-WRC6-230-F_update_V1_0_28_251120.md) | 3.83.6 | [HmIP-WRC6-230-F_update_V1_0_28_251120.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRC6-230-F_update_V1_0_28_251120.tgz) | `dc568c229d6e939b5ad0ac996b88c19c2cdeae986974126ccc6f174dd97e5db5` |
+| HmIP-WRC6-230-A | [V1.0.28](changelogs/changelog_HmIP-WRC6-230-A-F_update_V1_0_28_251120.md) | 3.83.6 | [HmIP-WRC6-230-A-F_update_V1_0_28_251120.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRC6-230-A-F_update_V1_0_28_251120.tgz) | `e1519375569fd60f6c0ed91d785a6ef59ebae72bb62e9e18c95683c76bedf96c` |
 | HmIP-WRCC2 | [V2.2.14](changelogs/changelog_HmIP-WRCC2_update_V2_2_14_220406.md) | 3.53.27 / 2.53.27 | [HmIP-WRCC2_update_V2_2_14_220406.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRCC2_update_V2_2_14_220406.tgz) | `0b75d280619917289a5fa043e7778ac76b4ad685a9d9a19da566aa0c538c78f1` |
 | HmIP-WRCC2 | [V2.2.8](changelogs/changelog_HmIP-WRCC2_update_V2_2_8_200708.md) | 3.53.27 / 2.53.27 | [HmIP-WRCC2_update_V2_2_8_200708.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRCC2_update_V2_2_8_200708.tgz) | `13daef9d853b95399e3484c754e5cba8758797ba8bf03e11ad877d24c84298bc` |
 | HmIP-WRCD | [V1.4.8](changelogs/changelog_HmIP-WRCD_update_V1_4_8_230419.md) | 3.51.6 / 2.51.6 | [HmIP-WRCD_update_V1_4_8_230419.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRCD_update_V1_4_8_230419.tgz) | `c73f81e4bbf0af716d0c86b03c566aac84ed663a31259b39d9de0d33488cab02` |
