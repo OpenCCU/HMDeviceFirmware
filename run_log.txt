@@ -242,6 +242,7 @@ Moving files into directories
 Regen archive list
 WARNING: HM/hm-lc-rgbw-wm_update_V1_0_150723.tgz has no changelog.txt
 WARNING: HmIP/HmIP-MP3P_update_V1_0_26_200820.tgz has no changelog.txt
+WARNING: HmIP/HmIP-SPI_update_V1_2_4_171006.tgz - Missing 'CCU3FirmwareVersionMin' in info. Fixing!
 WARNING: HmIP/HmIP-WSS-GB_update_V1_0_14_251106.tgz - CCU3FirmwareVersionMin != 3.x.x (4.0.0). Fixing!
 WARNING: HmIP/HmIP-WSS_update_V1_0_14_251106.tgz - CCU3FirmwareVersionMin != 3.x.x (4.0.0). Fixing!
 WARNING: HmIP/HmIP_WTH_2_update_2_6_0_191202.tgz has no changelog.txt
