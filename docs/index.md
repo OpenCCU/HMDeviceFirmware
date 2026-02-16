@@ -1,6 +1,6 @@
 ## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 16.02.2026, 11:16:04 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
+_last generated: 16.02.2026, 11:21:05 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
 
 <details open><summary>HmIP</summary>
 
@@ -216,6 +216,7 @@ _last generated: 16.02.2026, 11:16:04 UTC_ ([GitHub](https://github.com/OpenCCU/
 | HmIP-SMO230-A | [V3.8.104](changelogs/changelog_HmIP-SMO230-A_update_V3_8_104_240131.md) | 3.73.9 | [HmIP-SMO230-A_update_V3_8_104_240131.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO230-A_update_V3_8_104_240131.tgz) | `8066d01f11d989ada7d023227a1896c91c09fb2937fe1db317eb38f69c15a86a` |
 | HmIP-SPDR | [V1.2.0](changelogs/changelog_HmIP-SPDR_update_V1_2_0_180316.md) | 3.45.5 / 2.45.6 | [HmIP-SPDR_update_V1_2_0_180316.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SPDR_update_V1_2_0_180316.tgz) | `a586fe1f3136f9728d3ec97dbe88d4cb3975fbb73bd950e75f0dcbe5cd0386f6` |
 | HmIP-SPDR | [V1.2.12](changelogs/changelog_HmIP-SPDR_update_V1_2_12_230510.md) | 3.45.5 / 2.45.6 | [HmIP-SPDR_update_V1_2_12_230510.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SPDR_update_V1_2_12_230510.tgz) | `8ada3a0cc2b61d38d879b421daa1650e61c87a23bbb505a5fd3866908d5fb4c2` |
+| HmIP-SPI | [V1.2.4](changelogs/changelog_HmIP-SPI_update_V1_2_4_171006.md) | 3.0.0 / 2.31.25 | [HmIP-SPI_update_V1_2_4_171006.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SPI_update_V1_2_4_171006.tgz) | `813f884e0a6e4ed341c701a1353723ad5b5749d3e10b2e7b584e84261bcb14c7` |
 | HmIP-SPI | [V1.4.0](changelogs/changelog_HmIP-SPI_update_V1_4_0_180314.md) | 3.37.8 / 2.33.3 | [HmIP-SPI_update_V1_4_0_180314.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SPI_update_V1_4_0_180314.tgz) | `120d7adb460695e2b02fbb81e7325d6febdbbff9bbe380bced8cd96db1b8d51a` |
 | HmIP-SPI | [V3.2.48](changelogs/changelog_HmIP-SPI_update_V3_2_48_220718.md) | 3.61.5 / 2.61.6 | [HmIP-SPI_update_V3_2_48_220718.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SPI_update_V3_2_48_220718.tgz) | `7a4d4e012db19910fc11422adcafe88a9f980d4020056bc01dc5abee785b0a40` |
 | HmIP-SRD | [V1.0.18](changelogs/changelog_HmIP-SRD_update_V1_0_18_201019.md) | 3.53.30 / 2.53.30 | [HmIP-SRD_update_V1_0_18_201019.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SRD_update_V1_0_18_201019.tgz) | `1fe6ee7ff4cf3919d69296a3ade566fc2707481c2e50c84fc6985125aa7b2607` |
