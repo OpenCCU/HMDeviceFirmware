@@ -1,6 +1,6 @@
 ## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 01.03.2026, 18:59:27 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
+_last generated: 02.03.2026, 11:10:50 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
 
 <details open><summary>HmIP</summary>
 
@@ -212,7 +212,9 @@ _last generated: 01.03.2026, 18:59:27 UTC_ ([GitHub](https://github.com/OpenCCU/
 | HmIP-SMO-A | [V3.6.72](changelogs/changelog_HmIP-SMO-A_update_V3_6_72_230504.md) | 3.69.7 | [HmIP-SMO-A_update_V3_6_72_230504.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO-A_update_V3_6_72_230504.tgz) | `b4ba91e6b4812770e1401b23abcdaa3fabb5a5cedfd37c93135246655b0d9bbc` |
 | HmIP-SMO-A-2 | [V1.2.10](changelogs/changelog_HmIP-SMO-A-2_update_V1_2_10_210302.md) | 3.61.7 / 2.61.7 | [HmIP-SMO-A-2_update_V1_2_10_210302.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO-A-2_update_V1_2_10_210302.tgz) | `e63a1f49fd7c3f988478beeb1f697b25651baa8324a8caa331ec898da411038b` |
 | HmIP-SMO-A-2 | [V3.6.72](changelogs/changelog_HmIP-SMO-A-2_update_V3_6_72_230504.md) | 3.69.7 | [HmIP-SMO-A-2_update_V3_6_72_230504.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO-A-2_update_V3_6_72_230504.tgz) | `415ae2b97b9bd602c91db0f5f7428ef8181b6907c8a16ad480d3f0c5c05ad7f4` |
+| HmIP-SMO230 | [V3.10.12](changelogs/changelog_HmIP-SMO230_update_V3_10_12_260213.md) | 3.85.7 | [HmIP-SMO230_update_V3_10_12_260213.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO230_update_V3_10_12_260213.tgz) | `8bb4e7d94ceaa3b5ccb306578a72dcc1be36da9f27c77c63635748d6a3a4b3e1` |
 | HmIP-SMO230 | [V3.8.104](changelogs/changelog_HmIP-SMO230_update_V3_8_104_240131.md) | 3.73.9 | [HmIP-SMO230_update_V3_8_104_240131.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO230_update_V3_8_104_240131.tgz) | `504697e2680d9b196b6586f1616a91161443715045597cc241e5d6de31d72d5f` |
+| HmIP-SMO230-A | [V3.10.12](changelogs/changelog_HmIP-SMO230-A_update_V3_10_12_260213.md) | 3.85.7 | [HmIP-SMO230-A_update_V3_10_12_260213.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO230-A_update_V3_10_12_260213.tgz) | `199da1a49b5716df4e35b7577ebe2579237c02f1d932c0ef29e66c624736664c` |
 | HmIP-SMO230-A | [V3.8.104](changelogs/changelog_HmIP-SMO230-A_update_V3_8_104_240131.md) | 3.73.9 | [HmIP-SMO230-A_update_V3_8_104_240131.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SMO230-A_update_V3_8_104_240131.tgz) | `8066d01f11d989ada7d023227a1896c91c09fb2937fe1db317eb38f69c15a86a` |
 | HmIP-SPDR | [V1.2.0](changelogs/changelog_HmIP-SPDR_update_V1_2_0_180316.md) | 3.45.5 / 2.45.6 | [HmIP-SPDR_update_V1_2_0_180316.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SPDR_update_V1_2_0_180316.tgz) | `a586fe1f3136f9728d3ec97dbe88d4cb3975fbb73bd950e75f0dcbe5cd0386f6` |
 | HmIP-SPDR | [V1.2.12](changelogs/changelog_HmIP-SPDR_update_V1_2_12_230510.md) | 3.45.5 / 2.45.6 | [HmIP-SPDR_update_V1_2_12_230510.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SPDR_update_V1_2_12_230510.tgz) | `8ada3a0cc2b61d38d879b421daa1650e61c87a23bbb505a5fd3866908d5fb4c2` |
