@@ -1,6 +1,6 @@
 ## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 14.04.2026, 19:51:47 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
+_last generated: 15.04.2026, 11:38:22 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
 
 <details open><summary>HmIP</summary>
 
@@ -67,6 +67,7 @@ _last generated: 14.04.2026, 19:51:47 UTC_ ([GitHub](https://github.com/OpenCCU/
 | HmIP-DRSI4 | [V1.4.2](changelogs/changelog_HmIP-DRSI4_update_V1_4_2_190819.md) | 3.49.14 / 2.49.14 | [HmIP-DRSI4_update_V1_4_2_190819.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRSI4_update_V1_4_2_190819.tgz) | `e84f796fbb342d11987f5a7c62d909679878b8c901cd03890344563e8cacc343` |
 | HmIP-DRSI4 | [V1.4.4](changelogs/changelog_HmIP-DRSI4_update_V1_4_4_221207.md) | 3.49.14 / 2.49.14 | [HmIP-DRSI4_update_V1_4_4_221207.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRSI4_update_V1_4_4_221207.tgz) | `dcf4eb1dc2e3e30ba32fb02c2871eb405d9d218528705bbe9e03de9ed1b2dcbd` |
 | HmIP-DSD-PCB | [V1.0.6](changelogs/changelog_HmIP-DSD-PCB_update_V1_0_6_190927.md) | 3.49.14 / 2.49.14 | [HmIP-DSD-PCB_update_V1_0_6_190927.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DSD-PCB_update_V1_0_6_190927.tgz) | `9028eb8803f5faf08f219a6cdfdd99cdb91f841121cf5617a06f2741283b11b7` |
+| HmIP-E27 | [V1.0.26](changelogs/changelog_HmIP-E27_update_V1_0_26_260220.md) | 3.0.0 | [HmIP-E27_update_V1_0_26_260220.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-E27_update_V1_0_26_260220.tgz) | `5f7fbb443dc73fb862b73cbac5d358133d484d7bafc956ad4d0e3d19330d1867` |
 | HmIP-E27 | [V1.0.28](changelogs/changelog_HmIP-E27_update_V1_0_28_260305.md) | 3.0.0 | [HmIP-E27_update_V1_0_28_260305.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-E27_update_V1_0_28_260305.tgz) | `04b790eba091c202acf2184d61fb04b886d690e05674e164911788f03355d14a` |
 | HmIP-ESI | [V1.2.2](changelogs/changelog_HmIP-ESI_update_V1_2_2_231214.md) | 3.73.9 | [HmIP-ESI_update_V1_2_2_231214.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-ESI_update_V1_2_2_231214.tgz) | `d21d18376f5eab818800e02689fc95fa91e14e982c6719967db81b5c2ce2f9a9` |
 | HmIP-ESI | [V1.4.0](changelogs/changelog_HmIP-ESI_update_V1_4_0_240308.md) | 3.73.9 | [HmIP-ESI_update_V1_4_0_240308.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-ESI_update_V1_4_0_240308.tgz) | `5064f670c40a14fa8ce9d1c1acc303c3741d8349c14669b2dece5389a1dcfad3` |
