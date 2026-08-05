@@ -1,6 +1,6 @@
 ## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 04.08.2026, 20:11:24 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
+_last generated: 05.08.2026, 12:28:18 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
 
 <details open><summary>HmIP</summary>
 
@@ -62,6 +62,7 @@ _last generated: 04.08.2026, 20:11:24 UTC_ ([GitHub](https://github.com/OpenCCU/
 | HmIP-DRG-DALI | [V1.4.8](changelogs/changelog_HmIP-DRG-DALI_update_V1_4_8_230508.md) | 3.69.7 | [HmIP-DRG-DALI_update_V1_4_8_230508.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRG-DALI_update_V1_4_8_230508.tgz) | `2de1a596fbd3df6556a453b41fc1f2159b03dfe729ccae769c95ec11fa454138` |
 | HmIP-DRG-DALI | [V1.6.2](changelogs/changelog_HmIP-DRG-DALI_update_V1_6_2_241210.md) | 3.69.7 | [HmIP-DRG-DALI_update_V1_6_2_241210.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRG-DALI_update_V1_6_2_241210.tgz) | `d68aefe2f9aae65afb48162c702c8da59dc8faf1a79189af3c4cbb2bafa0e55c` |
 | HmIP-DRG-DALI | [V1.6.4](changelogs/changelog_HmIP-DRG-DALI_update_V1_6_4_251009.md) | 3.69.7 | [HmIP-DRG-DALI_update_V1_6_4_251009.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRG-DALI_update_V1_6_4_251009.tgz) | `875a384c437cfde33abcf6baae765e02c28b5121c098ab2b10d93a2f4b2cb169` |
+| HmIP-DRG-DALI | [V1.8.4](changelogs/changelog_HmIP-DRG-DALI_update_V1_8_4_260616.md) | 3.89.8 | [HmIP-DRG-DALI_update_V1_8_4_260616.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRG-DALI_update_V1_8_4_260616.tgz) | `101b1937536fec0fb7b2ebd325fe32a36c825b7922004a5d54ee4e9f5cc8a64e` |
 | HmIP-DRSI1 | [V1.6.0](changelogs/changelog_HmIP-DRSI1_update_V1_6_0_200526.md) | 3.53.27 / 2.53.27 | [HmIP-DRSI1_update_V1_6_0_200526.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRSI1_update_V1_6_0_200526.tgz) | `fe55f29c8cecd44352f12f29cd0602771d26236b8e48b46c83d037004c5b6873` |
 | HmIP-DRSI1 | [V1.6.2](changelogs/changelog_HmIP-DRSI1_update_V1_6_2_221207.md) | 3.53.27 / 2.53.27 | [HmIP-DRSI1_update_V1_6_2_221207.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRSI1_update_V1_6_2_221207.tgz) | `ab91e50f9f25f971d5a7ee0f778bbdfdd6e8757c6440c066be2eaa34c8fbcec3` |
 | HmIP-DRSI4 | [V1.4.2](changelogs/changelog_HmIP-DRSI4_update_V1_4_2_190819.md) | 3.49.14 / 2.49.14 | [HmIP-DRSI4_update_V1_4_2_190819.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-DRSI4_update_V1_4_2_190819.tgz) | `e84f796fbb342d11987f5a7c62d909679878b8c901cd03890344563e8cacc343` |
