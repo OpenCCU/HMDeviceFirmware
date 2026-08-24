@@ -1,6 +1,6 @@
 ## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 23.08.2026, 18:59:36 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
+_last generated: 24.08.2026, 11:04:51 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
 
 <details open><summary>HmIP</summary>
 
@@ -163,6 +163,7 @@ _last generated: 23.08.2026, 18:59:36 UTC_ ([GitHub](https://github.com/OpenCCU/
 | HmIP-PDT | [V1.4.8](changelogs/changelog_HmIP-PDT_update_V1_4_8_170725.md) | 3.37.8 / 2.25.15 | [HmIP-PDT_update_V1_4_8_170725.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PDT_update_V1_4_8_170725.tgz) | `163565ca897269950b0d3b73ac7c8c8a475aec93d270f9e1ed5af3af0d1cde71` |
 | HmIP-PDT | [V2.2.4](changelogs/changelog_HmIP-PDT_update_V2_2_4_231123.md) | 3.73.9 | [HmIP-PDT_update_V2_2_4_231123.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PDT_update_V2_2_4_231123.tgz) | `054d0009eb07e5803ce8f86794f7d73b990de33e5a9a74bdc337ea1cad9aa1f9` |
 | HmIP-PDT-A | [V2.2.4](changelogs/changelog_HmIP-PDT-A_update_V2_2_4_250220.md) | 3.81.1 | [HmIP-PDT-A_update_V2_2_4_250220.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PDT-A_update_V2_2_4_250220.tgz) | `cdb09b3e6ffff92d368ffd525aed966a1698417e73b7bf6feebe9a4cae7cb4c2` |
+| HmIP-PDT-A | [V2.2.4](changelogs/changelog_HmIP-PDT-A_update_V2_2_4_260820.md) | 3.81.1 | [HmIP-PDT-A_update_V2_2_4_260820.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PDT-A_update_V2_2_4_260820.tgz) | `d84c9c878edb61aebb038c5713b6598fcf1111adce2775716706d1a682618d5d` |
 | HmIP-PDT-CH | [V2.2.4](changelogs/changelog_HmIP-PDT-CH_update_V2_2_4_231123.md) | 3.73.9 | [HmIP-PDT-CH_update_V2_2_4_231123.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PDT-CH_update_V2_2_4_231123.tgz) | `748acf6a6e29da7c2bfb5886c12faac6ac5251dfc48ea850c70e757b3d97607b` |
 | HmIP-PDT-PE | [V2.2.4](changelogs/changelog_HmIP-PDT-PE_update_V2_2_4_231123.md) | 3.73.9 | [HmIP-PDT-PE_update_V2_2_4_231123.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PDT-PE_update_V2_2_4_231123.tgz) | `b035c611972785f4962ce8008bade69c923eebe24ce35d2bd907fcf033ce45f0` |
 | HmIP-PDT-UK | [V1.4.8](changelogs/changelog_HmIP-PDT-UK_update_V1_4_8_170804.md) | 3.37.8 / 2.25.15 | [HmIP-PDT-UK_update_V1_4_8_170804.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-PDT-UK_update_V1_4_8_170804.tgz) | `3c4930eb0e4dc2ce49a7801a90a038a61a17abae4029c726ab569a4ee2418c31` |
