@@ -1,6 +1,6 @@
 ## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 28.08.2026, 02:21:15 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
+_last generated: 28.08.2026, 21:16:44 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
 
 <details open><summary>HmIP</summary>
 
@@ -103,8 +103,10 @@ _last generated: 28.08.2026, 02:21:15 UTC_ ([GitHub](https://github.com/OpenCCU/
 | HmIP-FROLL | [V1.10.16](changelogs/changelog_HmIP-FROLL_update_V1_10_16_230616.md) | 3.69.5 | [HmIP-FROLL_update_V1_10_16_230616.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FROLL_update_V1_10_16_230616.tgz) | `4c2ae03e84add793926e392ffd470ece72cb813925972ef5378e9257f11afa13` |
 | HmIP-FROLL | [V1.2.0](changelogs/changelog_HmIP-FROLL_update_V1_2_0_170523.md) | 3.37.8 / 2.31.23 | [HmIP-FROLL_update_V1_2_0_170523.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FROLL_update_V1_2_0_170523.tgz) | `12642fc668d78953aefca827a98d03dd92084e79ba35ecb6f7bc5930ffb15dd7` |
 | HmIP-FROLL | [V1.8.12](changelogs/changelog_HmIP-FROLL_update_V1_8_12_190903.md) | 3.49.1 / 2.49.1 | [HmIP-FROLL_update_V1_8_12_190903.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FROLL_update_V1_8_12_190903.tgz) | `0bdbd01f5e09745aa4f04d9baec983879db91171cfc27dbcc2cb144d3ae71052` |
+| HmIP-FS6 | [V1.0.14](changelogs/changelog_HmIP-FS6_update_V1_0_14_260331.md) | 3.87.6 | [HmIP-FS6_update_V1_0_14_260331.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FS6_update_V1_0_14_260331.tgz) | `5ff36bf543f02600de6f97b93515eea102ecc3f4d8ca98dfdf82169c9c1e88c9` |
 | HmIP-FSI16 | [V1.18.22](changelogs/changelog_HmIP-FSI16_update_V1_18_22_2100623.md) | 3.53.26 / 2.53.26 | [HmIP-FSI16_update_V1_18_22_2100623.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FSI16_update_V1_18_22_2100623.tgz) | `77696c4ee8640228d6082a217a0bc77d3277edf94d55a9144c04955850c828be` |
 | HmIP-FSI16 | [V3.0.6](changelogs/changelog_HmIP-FSI16_update_V3_0_6_220504.md) | 3.61.7 / 2.61.7 | [HmIP-FSI16_update_V3_0_6_220504.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FSI16_update_V3_0_6_220504.tgz) | `44439929da91841bf7b0e166974476eec659852c774912d84ddca9edfe25b229` |
+| HmIP-FSI6 | [V1.0.14](changelogs/changelog_HmIP-FSI6_update_V1_0_14_260331.md) | 3.87.6 | [HmIP-FSI6_update_V1_0_14_260331.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FSI6_update_V1_0_14_260331.tgz) | `228cd04169173d655b6baa36b50406e74013da82f2e50d4c4c63a6951148e9be` |
 | HmIP-FSM | [V1.18.22](changelogs/changelog_HmIP-FSM_update_V1_18_22_210623.md) | 3.41.9 / 2.41.9 | [HmIP-FSM_update_V1_18_22_210623.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FSM_update_V1_18_22_210623.tgz) | `9be4afad7c52b50b451e4185b3388b59379a761e28ad432d80f06f582e9183d1` |
 | HmIP-FSM | [V1.24.6](changelogs/changelog_HmIP-FSM_update_V1_24_6_230323.md) | 3.69.6 | [HmIP-FSM_update_V1_24_6_230323.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FSM_update_V1_24_6_230323.tgz) | `3bb1c0d6dc8f0dce3f84318eeab7d10c7090dace6ce77d2991e15677b75ff01e` |
 | HmIP-FSM | [V1.6.2](changelogs/changelog_HmIP-FSM_update_V1_6_2_170509.md) | 3.37.8 / 2.27.7 | [HmIP-FSM_update_V1_6_2_170509.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-FSM_update_V1_6_2_170509.tgz) | `d01048cdc9c70460764e2018386af5d764be4d9ed2a057b9e7ab1d2996ca740b` |
