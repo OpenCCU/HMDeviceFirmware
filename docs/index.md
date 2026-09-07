@@ -1,6 +1,6 @@
 ## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 06.09.2026, 20:42:51 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
+_last generated: 07.09.2026, 16:02:31 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
 
 <details open><summary>HmIP</summary>
 
@@ -326,6 +326,7 @@ _last generated: 06.09.2026, 20:42:51 UTC_ ([GitHub](https://github.com/OpenCCU/
 | HmIP-WRCD | [V1.4.8](changelogs/changelog_HmIP-WRCD_update_V1_4_8_230419.md) | 3.51.6 / 2.51.6 | [HmIP-WRCD_update_V1_4_8_230419.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WRCD_update_V1_4_8_230419.tgz) | `c73f81e4bbf0af716d0c86b03c566aac84ed663a31259b39d9de0d33488cab02` |
 | HmIP-WSM | [V1.2.2](changelogs/changelog_HmIP-WSM_update_V1_2_2_250617.md) | 3.81.5 | [HmIP-WSM_update_V1_2_2_250617.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WSM_update_V1_2_2_250617.tgz) | `a61c85c67a76c2bc3e4d02017398d3330842935bcb1455762a98b21986f77b60` |
 | HmIP-WSM | [V1.4.10](changelogs/changelog_HmIP-WSM_update_V1_4_10_260324.md) | 3.87.4 | [HmIP-WSM_update_V1_4_10_260324.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WSM_update_V1_4_10_260324.tgz) | `cca6bdfd2e6b5143866bb31df564e325bf23f5be99afce46c860a26e9c8fb833` |
+| HmIP-WSM | [V1.4.12](changelogs/changelog_HmIP-WSM_update_V1_4_12_260702.md) | 3.87.4 | [HmIP-WSM_update_V1_4_12_260702.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WSM_update_V1_4_12_260702.tgz) | `06c1c221b0fdaab92f8b617a5ba012d0b9d6d87e397eb578620411d5df893a37` |
 | HmIP-WSS | [V1.0.14](changelogs/changelog_HmIP-WSS_update_V1_0_14_251106.md) | 3.0.0 | [HmIP-WSS_update_V1_0_14_251106.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WSS_update_V1_0_14_251106.tgz) | `fd738fab51daeef0148a28b30dc2f1b6ec5ed319a73d5484384b950e842cb0c7` |
 | HmIP-WSS-GB | [V1.0.14](changelogs/changelog_HmIP-WSS-GB_update_V1_0_14_251106.md) | 3.0.0 | [HmIP-WSS-GB_update_V1_0_14_251106.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-WSS-GB_update_V1_0_14_251106.tgz) | `790d1a1cfac753922e774d904e86ed38196d4bfc8dc405614e323055ae1cee2d` |
 | HmIP-WTH | [V2.4.8](changelogs/changelog_HmIP_WTH_update_2_4_8_190307.md) | 3.37.8 / 2.31.23 | [HmIP_WTH_update_2_4_8_190307.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP_WTH_update_2_4_8_190307.tgz) | `bac4bfdf498d8e0bdf111950c8ee7ebbbdea3810c33c360978d597ab86612750` |
@@ -474,6 +475,7 @@ _last generated: 06.09.2026, 20:42:51 UTC_ ([GitHub](https://github.com/OpenCCU/
 | ELV-SH-WSC | [V1.0.8](changelogs/changelog_ELV-SH-WSC_update_V1_0_8_211001.md) | 3.61.4 / 2.61.1 | [ELV-SH-WSC_update_V1_0_8_211001.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-WSC_update_V1_0_8_211001.tgz) | `3a1221f4e755d259d942ec4fc256fc691cf6df22ffe15085b2be3b63031ad7ed` |
 | ELV-SH-WSM | [V1.2.2](changelogs/changelog_ELV-SH-WSM_update_V1_2_2_250617.md) | 3.81.5 | [ELV-SH-WSM_update_V1_2_2_250617.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-WSM_update_V1_2_2_250617.tgz) | `54af7aa46a158329d11a605ec6101013fd5c2424549de52232f8734fe9c7beeb` |
 | ELV-SH-WSM | [V1.4.10](changelogs/changelog_ELV-SH-WSM_update_V1_4_10_260324.md) | 3.87.4 | [ELV-SH-WSM_update_V1_4_10_260324.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-WSM_update_V1_4_10_260324.tgz) | `caeb5e2cfe3c7c4b090986475b03282e94e83043aead889077692fde5f482581` |
+| ELV-SH-WSM | [V1.4.12](changelogs/changelog_ELV-SH-WSM_update_V1_4_12_260702.md) | 3.87.4 | [ELV-SH-WSM_update_V1_4_12_260702.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/ELV/ELV-SH-WSM_update_V1_4_12_260702.tgz) | `f598656b1e38e48181a5133bb5d13b997aa9886c0a5bfe26ad8b11242806e5f5` |
 </details>
 <details open><summary>HM</summary>
 
