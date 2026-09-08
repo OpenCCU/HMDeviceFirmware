@@ -1,6 +1,6 @@
 ## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 07.09.2026, 21:47:33 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
+_last generated: 08.09.2026, 14:46:07 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
 
 <details open><summary>HmIP</summary>
 
@@ -132,10 +132,12 @@ _last generated: 07.09.2026, 21:47:33 UTC_ ([GitHub](https://github.com/OpenCCU/
 | HmIP-HAP2 | [V1.0.40](changelogs/changelog_HmIP-HAP2_1_0_40_250821.md) | 3.83.6 | [HmIP-HAP2_1_0_40_250821.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-HAP2_1_0_40_250821.tgz) | `6109fa130dfa25f0e2d86605ed8185ea0164ce3ddf8f6b7ab61d621a918979ac` |
 | HmIP-HAP2 | [V1.0.42](changelogs/changelog_HmIP-HAP2_1_0_42_250911.md) | 3.83.6 | [HmIP-HAP2_1_0_42_250911.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-HAP2_1_0_42_250911.tgz) | `c0b3c39a06c65615c0e5c5b4f65ad48392a71cf3f8e617214fe1abc265fd05fc` |
 | HmIP-HAP2 | [V1.0.44](changelogs/changelog_HmIP-HAP2_1_0_44_250924.md) | 3.83.6 | [HmIP-HAP2_1_0_44_250924.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-HAP2_1_0_44_250924.tgz) | `b467854fc56cbd114c3badf8ee0168684deaea64ca43ac1e016c5b3e6ba68120` |
+| HmIP-HAP2 | [V1.0.48](changelogs/changelog_HmIP-HAP2_1_0_48_251202.md) | 3.83.6 | [HmIP-HAP2_1_0_48_251202.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-HAP2_1_0_48_251202.tgz) | `037c4cbf9ae4043d50ce42c45748daccafa0706a1b6a408498b7b1a08d7783aa` |
 | HmIP-HAP2-A | [V1.0.36](changelogs/changelog_HmIP-HAP2-A_1_0_36_250711.md) | 3.83.6 | [HmIP-HAP2-A_1_0_36_250711.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-HAP2-A_1_0_36_250711.tgz) | `56ee56989e1a9049d9742ff57de27253d762ce58e495ff92a8ddb783dc8227da` |
 | HmIP-HAP2-A | [V1.0.40](changelogs/changelog_HmIP-HAP2-A_1_0_40_250821.md) | 3.83.6 | [HmIP-HAP2-A_1_0_40_250821.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-HAP2-A_1_0_40_250821.tgz) | `c766fae270d36ab280c4e839ede600d2b3ef38f07d7422a79e2f7f98ccefbbed` |
 | HmIP-HAP2-A | [V1.0.42](changelogs/changelog_HmIP-HAP2-A_1_0_42_250911.md) | 3.83.6 | [HmIP-HAP2-A_1_0_42_250911.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-HAP2-A_1_0_42_250911.tgz) | `22652f038fa153c1a7be75dc247d1d6e36e1a013cc2511cbc94513875ff3ef79` |
 | HmIP-HAP2-A | [V1.0.44](changelogs/changelog_HmIP-HAP2-A_1_0_44_250924.md) | 3.83.6 | [HmIP-HAP2-A_1_0_44_250924.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-HAP2-A_1_0_44_250924.tgz) | `1ca1a6eb85dc79ea86a6627f2fdd0ca4c8cc4f7f27499323ee18f3afab555f5f` |
+| HmIP-HAP2-A | [V1.0.48](changelogs/changelog_HmIP-HAP2-A_1_0_48_251202.md) | 3.83.6 | [HmIP-HAP2-A_1_0_48_251202.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-HAP2-A_1_0_48_251202.tgz) | `551a0254e655ab8c2ca31c727836933eb9793cc24860c346fec32e13cc8eb325` |
 | HmIP-KRC4 | [V1.10.0](changelogs/changelog_HmIP-KRC4_update_V1_10_0_180302.md) | 3.37.8 / 2.17.14 | [HmIP-KRC4_update_V1_10_0_180302.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-KRC4_update_V1_10_0_180302.tgz) | `a42bc6fc337f5f4db3c0e42dd84e0324b1ebaa687d859f3d4f9c07736132d2a7` |
 | HmIP-KRC4 | [V2.6.2](changelogs/changelog_HmIP-KRC4_update_V2_6_2_240925.md) | 3.79.3 | [HmIP-KRC4_update_V2_6_2_240925.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-KRC4_update_V2_6_2_240925.tgz) | `aa0c2125fd0e5b022c5b9ba7b971b3ed1646878a20d2b57b6865d6127a674901` |
 | HmIP-KRC4-2 | [V2.6.2](changelogs/changelog_HmIP-KRC4-2_update_V2_6_2_240925.md) | 3.81.3 | [HmIP-KRC4-2_update_V2_6_2_240925.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-KRC4-2_update_V2_6_2_240925.tgz) | `148634add0f71a7f6aaeaa06d44e9093dc0eb111b7be126c157ce84eb9daf606` |
