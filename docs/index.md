@@ -1,6 +1,6 @@
 ## HomeMatic / Homematic IP Device Firmware Archive
 
-_last generated: 07.10.2026, 23:18:35 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
+_last generated: 08.10.2026, 17:32:46 UTC_ ([GitHub](https://github.com/OpenCCU/HMDeviceFirmware))
 
 <details open><summary>HmIP</summary>
 
@@ -271,6 +271,7 @@ _last generated: 07.10.2026, 23:18:35 UTC_ ([GitHub](https://github.com/OpenCCU/
 | HmIP-SWD | [V1.0.4](changelogs/changelog_HmIP-SWD_update_V1_0_004_221018.md) | 3.45.5 / 2.45.6 | [HmIP-SWD_update_V1_0_004_221018.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWD_update_V1_0_004_221018.tgz) | `c8ee04b0845c93e3942b46a88938176ae1cd2e026d5fdc14edc7d6fd91ac5798` |
 | HmIP-SWD-2 | [V2.0.14](changelogs/changelog_HmIP-SWD-2_update_V2_0_14_250224.md) | 3.75.6 | [HmIP-SWD-2_update_V2_0_14_250224.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWD-2_update_V2_0_14_250224.tgz) | `3325771361b197f3cf5d5d61c1539312061d8a0765c59bfef9d3963823c72dfc` |
 | HmIP-SWD-2 | [V2.0.14](changelogs/changelog_HmIP-SWD-2_update_V2_0_14_250306.md) | 3.75.6 | [HmIP-SWD-2_update_V2_0_14_250306.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWD-2_update_V2_0_14_250306.tgz) | `61b6578cd2e8257b5aacca2f0ab585119766e334c43f8ed439819cc6c1844a05` |
+| HmIP-SWD-2 | [V2.0.16](changelogs/changelog_HmIP-SWD-2_update_V2_0_16_250624.md) | 3.75.6 | [HmIP-SWD-2_update_V2_0_16_250624.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWD-2_update_V2_0_16_250624.tgz) | `7d96000b526d08dccb0ffcab2bbe94bc5ca464977988f3c0ee8530b71604cc06` |
 | HmIP-SWDM-2 | [V1.4.2](changelogs/changelog_HmIP-SWDM-2_update_V1_4_2_220210.md) | 3.63.1 | [HmIP-SWDM-2_update_V1_4_2_220210.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWDM-2_update_V1_4_2_220210.tgz) | `695e0b8091ea9c1e94626ba9d141adfa8f75cd9944c9353bef630f7670581d45` |
 | HmIP-SWDO | [V1.16.8](changelogs/changelog_HmIP-SWDO_update_V1_16_8_180315.md) | 3.37.8 / 2.33.3 | [HmIP-SWDO_update_V1_16_8_180315.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWDO_update_V1_16_8_180315.tgz) | `4e5f896492d39fc4d03fca3e478da17c9eb49894bcba59283f4274e868f928bb` |
 | HmIP-SWDO | [V1.18.10](changelogs/changelog_HmIP-SWDO_update_V1_18_10_221021.md) | 3.37.8 / 2.33.3 | [HmIP-SWDO_update_V1_18_10_221021.tgz](https://raw.githubusercontent.com/OpenCCU/HMDeviceFirmware/master/HmIP/HmIP-SWDO_update_V1_18_10_221021.tgz) | `9cdaccda7d9b51559dbebf67a69c3b4237d2fe46952469e026717f0443d1ef17` |
